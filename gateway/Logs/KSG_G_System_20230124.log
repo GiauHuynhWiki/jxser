@@ -1,0 +1,17 @@
+2023-01-24 19:14:20	[QuitBackup]is_quit:0
+2023-01-24 19:14:20	Deliver statdata: 0 bytes
+2023-01-24 19:15:50	Node[1] connect: Ip(127.0.0.1 : 47393), Identity(1)
+2023-01-24 19:15:50	ClientConnectCreate:[1]127.0.0.1 : 47393
+2023-01-24 19:16:41	GetRoleInfo(KûNiÖm§åTİm) OK: Enter Node[0](127.0.0.1 : 42021)
+2023-01-24 19:16:41	GetRoleData(KûNiÖm§åTİm) OK: datalen(2869)
+2023-01-24 19:16:41	EnterGame(KûNiÖm§åTİm) OK: Move from Node[0] to Node[1]
+2023-01-24 19:23:40	SaveRoleData(KûNiÖm§åTİm) OK: datalen(2913)
+2023-01-24 19:36:26	SaveRoleData(KûNiÖm§åTİm) OK: datalen(4989)
+2023-01-24 19:40:57	QuitSave[KûNiÖm§åTİm] OK: Leave Node[1]
+2023-01-24 19:40:57	SaveRoleData(KûNiÖm§åTİm) OK: datalen(3809)
+2023-01-24 19:41:06	Node[1] disconnect: Ip(127.0.0.1 : 47393), Identity(1)
+2023-01-24 19:41:06	ClientConnectClose:[1]
+
+2023-01-24 19:41:11	Node[0] disconnect: Ip(127.0.0.1 : 42021), Identity(0)
+2023-01-24 19:41:11	ClientConnectClose:[0]
+

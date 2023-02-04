@@ -1,0 +1,8 @@
+[2023-01-20 20:21:21] error: attempt to index a nil value
+stack traceback:
+   1[160]:  function `main' at line 25 [string "\script\global\translife.lua"]
+   2[158]:  function `ST_DoTransLife' [C]
+   3[157]:  function `pFun' at line 63 [file `script/global/lbadmin.lua']
+   4[151]:  function `g_DailogBack' at line 52 [string "\script\dailogsys\dailogsay.lua"]
+   5[150]:  main of string "?" at line 1
+

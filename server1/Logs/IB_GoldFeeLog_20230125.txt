@@ -1,0 +1,164 @@
+  c             	[2023-01-25 10:07:59]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	50	[COUNT]	1	[BUY]	[6-1-2332-1]M· bµi - ChiÕu D¹ Ngäc S­ Tö	[PLACE]	143
+  c             	[2023-01-25 10:37:58]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	10	[COUNT]	1	[BUY]	[6-1-2218-1]Hång ¶nh B¶o R­¬ng	[PLACE]	139
+  c             	[2023-01-25 10:38:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Tiªn Th¶o Lé ®Æc biÖt	[PLACE]	139
+  c             	[2023-01-25 10:48:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-2432-1]LÖnh bµi Vi S¬n ®¶o	[PLACE]	142
+  c             	[2023-01-25 11:09:05]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	15	[COUNT]	1	[BUY]	[6-1-26-1]Vâ L©m MËt TÞch	[PLACE]	139
+  c             	[2023-01-25 11:09:23]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	3	[COUNT]	1	[BUY]	[6-1-43-1]Nga Mi  PhËt Quang Ch­ëng MËt TÞch	[PLACE]	140
+  c             	[2023-01-25 11:09:23]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:10:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:10:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:10:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:10:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:10:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:10:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:11:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:11:02]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:11:02]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:11:02]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:11:02]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:11:02]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:16]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:16]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-01-25 23:14:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:14:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:14:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:14:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:14:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:14:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-01-25 23:33:41]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:41]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:41]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:41]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:41]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:41]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:42]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:42]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:42]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:33:42]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:03]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:03]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:03]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:03]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:04]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:04]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:04]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:04]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:04]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:36:04]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-240-1-1]Lôc Thñy Tinh	[PLACE]	141
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:57]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:58]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:40:59]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:30]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:30]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:30]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:30]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:31]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:32]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:42:33]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:13]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:14]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:46:15]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-25 23:56:22]	[SUCCESS]	[ACC]	pgaming2	[ROLE]	ThienVuongBang	[C]	1	[COUNT]	1	[BUY]	[6-1-2432-1]LÖnh bµi Vi S¬n ®¶o	[PLACE]	142

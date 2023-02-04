@@ -1,0 +1,64 @@
+2023-02-04 04:47:33	heaven(version 2.02) log start....
+2023-02-03 21:49:39	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 21:49:50	Callback Connectionidx:0, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 21:50:24	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 21:50:30	Callback Connectionidx:1, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 21:51:45	Allocate Connectionidx:2, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 21:51:49	Callback Connectionidx:2, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:01:08	Allocate Connectionidx:3, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:01:20	Callback Connectionidx:3, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:01:26	Allocate Connectionidx:4, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:01:35	Callback Connectionidx:4, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:02:02	Allocate Connectionidx:5, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:02:07	Callback Connectionidx:5, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:02:49	Allocate Connectionidx:6, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:02:53	Callback Connectionidx:6, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:05:37	Allocate Connectionidx:7, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:05:37	Callback Connectionidx:7, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:09:20	Allocate Connectionidx:8, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:09:20	Callback Connectionidx:8, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:11:14	Allocate Connectionidx:9, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:11:39	Callback Connectionidx:9, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:11:40	Allocate Connectionidx:10, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:11:58	Callback Connectionidx:10, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:18:37	Allocate Connectionidx:11, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:18:49	Callback Connectionidx:11, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:18:49	Allocate Connectionidx:12, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:19:57	Callback Connectionidx:12, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:28:41	Allocate Connectionidx:13, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:28:45	Callback Connectionidx:13, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:30:44	Allocate Connectionidx:14, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:30:47	Callback Connectionidx:14, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:36:13	Allocate Connectionidx:15, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:36:19	Callback Connectionidx:15, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:36:48	Allocate Connectionidx:16, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:36:57	Callback Connectionidx:16, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:36:57	Allocate Connectionidx:17, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:37:22	Callback Connectionidx:17, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:37:37	Allocate Connectionidx:18, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:37:37	Callback Connectionidx:18, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:38:05	Allocate Connectionidx:19, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:38:05	Callback Connectionidx:19, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:53:30	Allocate Connectionidx:20, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:53:35	Callback Connectionidx:20, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:53:40	Allocate Connectionidx:21, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:53:43	Callback Connectionidx:21, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:53:43	Allocate Connectionidx:22, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:53:49	Callback Connectionidx:22, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 22:59:30	Allocate Connectionidx:23, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 22:59:34	Callback Connectionidx:23, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 23:06:15	Allocate Connectionidx:24, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 23:06:29	Callback Connectionidx:24, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 23:06:30	Allocate Connectionidx:25, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 23:06:52	Callback Connectionidx:25, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 23:07:04	Allocate Connectionidx:26, IP:192.168.1.1, LeftFreeCount:499
+2023-02-03 23:07:09	Callback Connectionidx:26, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-03 23:07:22	Allocate Connectionidx:27, IP:192.168.1.1, LeftFreeCount:499
+2023-02-04 16:48:52	heaven(version 2.02) log start....
+2023-02-04 09:51:20	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-02-04 09:51:26	Callback Connectionidx:0, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-04 09:51:26	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-02-04 09:51:33	Callback Connectionidx:1, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-04 10:01:23	Allocate Connectionidx:2, IP:192.168.1.1, LeftFreeCount:499
+2023-02-04 10:01:32	Callback Connectionidx:2, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500
+2023-02-04 11:29:26	Allocate Connectionidx:3, IP:192.168.1.1, LeftFreeCount:499

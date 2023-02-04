@@ -1,0 +1,63 @@
+2023-01-21 02:13:07	Node[0] connect: Ip(127.0.0.1 : 35435), Identity(0)
+2023-01-21 02:13:07	ClientConnectCreate:[0]127.0.0.1 : 35435
+2023-01-21 02:13:07	Bishop claim from Node[0]!
+2023-01-21 16:06:46	Node[0] connect: Ip(127.0.0.1 : 59093), Identity(0)
+2023-01-21 16:06:46	ClientConnectCreate:[0]127.0.0.1 : 59093
+2023-01-21 16:06:46	Bishop claim from Node[0]!
+2023-01-21 09:06:46	[QuitBackup]is_quit:0
+2023-01-21 09:06:46	Deliver statdata: 0 bytes
+2023-01-21 09:08:17	Node[1] connect: Ip(127.0.0.1 : 45406), Identity(1)
+2023-01-21 09:08:17	ClientConnectCreate:[1]127.0.0.1 : 45406
+2023-01-21 09:11:00	CreateRoleData(ThienVuongBang) OK: Account(pgaming2), datalen(575)
+2023-01-21 09:11:00	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 09:11:36	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 09:11:36	SaveRoleData(ThienVuongBang) OK: datalen(1036)
+2023-01-21 09:11:42	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 59093)
+2023-01-21 09:11:42	GetRoleData(ThienVuongBang) OK: datalen(1036)
+2023-01-21 09:11:42	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 09:12:04	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 09:12:04	SaveRoleData(ThienVuongBang) OK: datalen(1044)
+2023-01-21 09:12:11	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 59093)
+2023-01-21 09:12:11	GetRoleData(ThienVuongBang) OK: datalen(1044)
+2023-01-21 09:12:11	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 09:12:33	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 09:12:33	SaveRoleData(ThienVuongBang) OK: datalen(1052)
+2023-01-21 09:12:37	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 59093)
+2023-01-21 09:12:37	GetRoleData(ThienVuongBang) OK: datalen(1052)
+2023-01-21 09:12:37	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 09:16:07	SaveRoleData(ThienVuongBang) OK: datalen(1932)
+2023-01-21 09:16:43	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 09:16:43	SaveRoleData(ThienVuongBang) OK: datalen(1292)
+2023-01-21 09:16:49	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 59093)
+2023-01-21 09:16:49	GetRoleData(ThienVuongBang) OK: datalen(1292)
+2023-01-21 09:16:49	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 09:17:23	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 09:17:23	SaveRoleData(ThienVuongBang) OK: datalen(1300)
+2023-01-21 09:17:27	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 59093)
+2023-01-21 09:17:27	GetRoleData(ThienVuongBang) OK: datalen(1300)
+2023-01-21 09:17:27	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 09:18:38	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 09:18:38	SaveRoleData(ThienVuongBang) OK: datalen(1492)
+2023-01-21 09:18:44	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 59093)
+2023-01-21 09:18:44	GetRoleData(ThienVuongBang) OK: datalen(1492)
+2023-01-21 09:18:44	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 09:35:36	SaveRoleData(ThienVuongBang) OK: datalen(2804)
+2023-01-21 09:36:49	SaveRoleData(ThienVuongBang) OK: datalen(6260)
+2023-01-21 09:44:51	SaveRoleData(ThienVuongBang) OK: datalen(6268)
+2023-01-21 09:54:31	SaveRoleData(ThienVuongBang) OK: datalen(3576)
+2023-01-21 09:59:18	SaveRoleData(ThienVuongBang) OK: datalen(4157)
+2023-01-21 10:01:01	SaveRoleData(ThienVuongBang) OK: datalen(3573)
+2023-01-21 10:19:24	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 10:19:24	SaveRoleData(ThienVuongBang) OK: datalen(3753)
+2023-01-21 10:19:28	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 59093)
+2023-01-21 10:19:28	GetRoleData(ThienVuongBang) OK: datalen(3753)
+2023-01-21 10:19:28	EnterGame(ThienVuongBang) OK: Move from Node[0] to Node[1]
+2023-01-21 10:28:46	SaveRoleData(ThienVuongBang) OK: datalen(6477)
+2023-01-21 10:32:09	QuitSave[ThienVuongBang] OK: Leave Node[1]
+2023-01-21 10:32:09	SaveRoleData(ThienVuongBang) OK: datalen(3669)
+2023-01-21 10:32:16	Node[1] disconnect: Ip(127.0.0.1 : 45406), Identity(1)
+2023-01-21 10:32:16	ClientConnectClose:[1]
+
+2023-01-21 10:32:19	Node[0] disconnect: Ip(127.0.0.1 : 59093), Identity(0)
+2023-01-21 10:32:19	ClientConnectClose:[0]
+

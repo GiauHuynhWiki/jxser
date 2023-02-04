@@ -1,0 +1,5 @@
+[2023-02-04 04:47:29]Connect to database[server1] on 127.0.0.1:3306
+[2023-02-04 16:48:47]Connect to database[server1] on 127.0.0.1:3306
+[2023-02-04 09:48:51]Connect to database[server1] on 127.0.0.1:3306
+[2023-02-04 09:48:54]QueryCount:8, ErrorCount:0
+[2023-02-04 09:48:54]Close database

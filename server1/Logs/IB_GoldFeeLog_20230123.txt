@@ -1,0 +1,27 @@
+  c             	[2023-01-23 07:26:31]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	50	[COUNT]	1	[BUY]	[6-1-2331-1]M∑ bµi - § V©n ßπp Tuy’t	[PLACE]	143
+  c             	[2023-01-23 07:26:33]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	50	[COUNT]	1	[BUY]	[6-1-2330-1]M∑ bµi - Tuy÷t ∂nh	[PLACE]	143
+  c             	[2023-01-23 07:26:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	50	[COUNT]	1	[BUY]	[6-1-2329-1]M∑ bµi - ß›ch L´	[PLACE]	143
+  c             	[2023-01-23 07:43:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:27]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:27]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:27]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:27]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:27]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:43:27]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:46:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	10	[COUNT]	1	[BUY]	[6-1-2218-1]HÂng ∂nh B∂o R≠¨ng	[PLACE]	139
+  c             	[2023-01-23 07:53:13]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:53:13]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:53:13]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:53:13]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:53:13]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:53:13]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 07:53:13]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-23 08:13:27]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139
+  c             	[2023-01-23 08:15:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139
+  c             	[2023-01-23 08:16:55]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139
+  c             	[2023-01-23 08:16:55]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139
+  c             	[2023-01-23 08:16:55]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	K˚Ni÷mßÂT›m	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139

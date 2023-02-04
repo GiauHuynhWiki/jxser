@@ -1,0 +1,4 @@
+[2023-01-22 10:00:59] error: attempt to compare string with nil
+stack traceback:
+   1[150]:  function `FinishQuest' at line 21 [string "/script/global/pgaming/vsd/func_quest999.lu..."]
+

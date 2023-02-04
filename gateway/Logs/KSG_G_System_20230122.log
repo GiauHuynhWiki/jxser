@@ -1,0 +1,48 @@
+2023-01-22 16:34:16	Node[0] connect: Ip(127.0.0.1 : 52441), Identity(0)
+2023-01-22 16:34:16	ClientConnectCreate:[0]127.0.0.1 : 52441
+2023-01-22 16:34:16	Bishop claim from Node[0]!
+2023-01-22 09:34:16	[QuitBackup]is_quit:0
+2023-01-22 09:34:16	Deliver statdata: 0 bytes
+2023-01-22 09:35:53	Node[1] connect: Ip(127.0.0.1 : 46610), Identity(1)
+2023-01-22 09:35:53	ClientConnectCreate:[1]127.0.0.1 : 46610
+2023-01-22 09:37:37	CreateRoleData(HeMocTest) OK: Account(pgaming2), datalen(575)
+2023-01-22 09:37:37	EnterGame(HeMocTest) OK: Move from Node[0] to Node[1]
+2023-01-22 09:38:24	QuitSave[HeMocTest] OK: Leave Node[1]
+2023-01-22 09:38:24	SaveRoleData(HeMocTest) OK: datalen(1212)
+2023-01-22 09:38:29	GetRoleInfo(HeMocTest) OK: Enter Node[0](127.0.0.1 : 52441)
+2023-01-22 09:38:29	GetRoleData(HeMocTest) OK: datalen(1212)
+2023-01-22 09:38:29	EnterGame(HeMocTest) OK: Move from Node[0] to Node[1]
+2023-01-22 09:46:21	SaveRoleData(HeMocTest) OK: datalen(7932)
+2023-01-22 09:50:22	SaveRoleData(HeMocTest) OK: datalen(5880)
+2023-01-22 09:57:17	SaveRoleData(HeMocTest) OK: datalen(2348)
+2023-01-22 10:01:57	SaveRoleData(HeMocTest) OK: datalen(2580)
+2023-01-22 10:14:05	SaveRoleData(HeMocTest) OK: datalen(7605)
+2023-01-22 10:17:47	SaveRoleData(HeMocTest) OK: datalen(6101)
+2023-01-22 10:20:59	Node[1] disconnect: Ip(127.0.0.1 : 46610), Identity(1)
+2023-01-22 10:20:59	Clear role in Node[1]: HeMocTest
+2023-01-22 10:20:59	ClientConnectClose:[1]
+
+2023-01-22 10:21:01	Node[0] disconnect: Ip(127.0.0.1 : 52441), Identity(0)
+2023-01-22 10:21:01	ClientConnectClose:[0]
+
+2023-01-22 18:58:00	[QuitBackup]is_quit:0
+2023-01-22 18:58:00	Deliver statdata: 0 bytes
+2023-01-22 18:59:34	Node[1] connect: Ip(127.0.0.1 : 44105), Identity(1)
+2023-01-22 18:59:34	ClientConnectCreate:[1]127.0.0.1 : 44105
+2023-01-22 19:00:28	GetRoleInfo(HeMocTest) OK: Enter Node[0](127.0.0.1 : 36313)
+2023-01-22 19:00:28	GetRoleData(HeMocTest) OK: datalen(6101)
+2023-01-22 19:00:28	EnterGame(HeMocTest) OK: Move from Node[0] to Node[1]
+2023-01-22 19:33:48	SaveRoleData(HeMocTest) OK: datalen(6462)
+2023-01-22 19:40:34	SaveRoleData(HeMocTest) OK: datalen(4759)
+2023-01-22 19:50:11	SaveRoleData(HeMocTest) OK: datalen(6335)
+2023-01-22 19:55:34	SaveRoleData(HeMocTest) OK: datalen(8279)
+2023-01-22 19:59:35	SaveRoleData(HeMocTest) OK: datalen(6227)
+2023-01-22 20:03:07	SaveRoleData(HeMocTest) OK: datalen(5039)
+2023-01-22 20:04:19	QuitSave[HeMocTest] OK: Leave Node[1]
+2023-01-22 20:04:19	SaveRoleData(HeMocTest) OK: datalen(3851)
+2023-01-22 20:04:25	Node[1] disconnect: Ip(127.0.0.1 : 44105), Identity(1)
+2023-01-22 20:04:25	ClientConnectClose:[1]
+
+2023-01-22 20:04:27	Node[0] disconnect: Ip(127.0.0.1 : 36313), Identity(0)
+2023-01-22 20:04:27	ClientConnectClose:[0]
+

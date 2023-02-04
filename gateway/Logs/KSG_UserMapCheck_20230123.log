@@ -1,0 +1,62 @@
+2023-01-22 18:58:04	GameServer[0] create: 127.0.0.1 : 34834
+2023-01-22 18:59:34	GameServer[1] create: 127.0.0.1 : 33777
+2023-01-23 07:09:37	GameServer[0] create: 127.0.0.1 : 50274
+2023-01-23 07:10:04	GameServer[1] create: 127.0.0.1 : 36570
+2023-01-23 07:10:38	Gameserver(1) update map ok
+2023-01-23 07:16:38	LoginToMap: Account(pgaming3), Index(0), IP:192.168.1.1 : 50372
+2023-01-23 07:19:05	set gameServer: -1=>1
+2023-01-23 07:19:05	set role name: =>KûNiÖm§åTÝm
+2023-01-23 07:19:05	Map changed: 0=>153
+2023-01-23 07:19:05	GameServer(1) accept account(pgaming3), Map(153)
+2023-01-23 07:19:05	set status: 1=>2
+2023-01-23 07:19:05	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-23 07:36:58	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(20min)
+2023-01-23 07:36:58	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(0), Role(KûNiÖm§åTÝm), Map(153)
+2023-01-23 07:37:08	LoginToMap: Account(pgaming2), Index(1), IP:192.168.1.1 : 50389
+2023-01-23 07:37:09	set gameServer: -1=>1
+2023-01-23 07:37:09	set role name: =>HeMocTest
+2023-01-23 07:37:09	Map changed: 0=>176
+2023-01-23 07:37:09	GameServer(1) accept account(pgaming2), Map(176)
+2023-01-23 07:37:09	set status: 1=>2
+2023-01-23 07:37:10	GameServer(1) notify account(pgaming2) enter gameworld
+2023-01-23 07:37:13	GameSever(1) notify account(pgaming2) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-01-23 07:37:13	LogoutFromMap: Account(pgaming2), GameServer(1), Status(2), PlayrIndex(1), Role(HeMocTest), Map(176)
+2023-01-23 07:37:20	LoginToMap: Account(pgaming3), Index(2), IP:192.168.1.1 : 50391
+2023-01-23 07:37:22	set gameServer: -1=>1
+2023-01-23 07:37:22	set role name: =>KûNiÖm§åTÝm
+2023-01-23 07:37:22	Map changed: 0=>153
+2023-01-23 07:37:22	GameServer(1) accept account(pgaming3), Map(153)
+2023-01-23 07:37:22	set status: 1=>2
+2023-01-23 07:37:23	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-23 07:46:24	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(9min)
+2023-01-23 07:46:24	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(2), Role(KûNiÖm§åTÝm), Map(153)
+2023-01-23 07:46:29	LoginToMap: Account(pgaming3), Index(3), IP:192.168.1.1 : 50394
+2023-01-23 07:46:30	set gameServer: -1=>1
+2023-01-23 07:46:30	set role name: =>KûNiÖm§åTÝm
+2023-01-23 07:46:30	Map changed: 0=>37
+2023-01-23 07:46:30	GameServer(1) accept account(pgaming3), Map(37)
+2023-01-23 07:46:30	set status: 1=>2
+2023-01-23 07:46:30	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-23 07:52:25	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(5min)
+2023-01-23 07:52:25	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(3), Role(KûNiÖm§åTÝm), Map(37)
+2023-01-23 07:52:38	LoginToMap: Account(pgaming3), Index(4), IP:192.168.1.1 : 50399
+2023-01-23 07:52:38	set gameServer: -1=>1
+2023-01-23 07:52:38	set role name: =>KûNiÖm§åTÝm
+2023-01-23 07:52:38	Map changed: 0=>37
+2023-01-23 07:52:39	GameServer(1) accept account(pgaming3), Map(37)
+2023-01-23 07:52:39	set status: 1=>2
+2023-01-23 07:52:39	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-23 07:52:40	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-01-23 07:52:40	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(4), Role(KûNiÖm§åTÝm), Map(37)
+2023-01-23 07:52:46	LoginToMap: Account(pgaming3), Index(5), IP:192.168.1.1 : 50402
+2023-01-23 07:52:47	set gameServer: -1=>1
+2023-01-23 07:52:47	set role name: =>KûNiÖm§åTÝm
+2023-01-23 07:52:47	Map changed: 0=>37
+2023-01-23 07:52:47	GameServer(1) accept account(pgaming3), Map(37)
+2023-01-23 07:52:47	set status: 1=>2
+2023-01-23 07:52:47	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-23 08:10:41	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(17min)
+2023-01-23 08:10:41	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(5), Role(KûNiÖm§åTÝm), Map(37)
+2023-01-23 08:10:46	LoginToMap: Account(pgaming3), Index(6), IP:192.168.1.1 : 50424
+2023-01-23 08:10:46	set gameServer: -1=>1
+2023-01-23 08:10:46

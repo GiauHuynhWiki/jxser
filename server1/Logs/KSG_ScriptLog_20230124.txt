@@ -1,0 +1,42 @@
+2023-01-24 19:15:17	[1970-01-01 07:00:00] Register [Thİ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-01-24 19:15:47	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:16:11	140124-19:16: B¾t ®Çu treo m¸y!
+2023-01-24 19:18:03	19:18	24/01/2023	binhchivn	pgaming3	KûNiÖm§åTİm	Ngò §éc Gi¸o	81		TinhNangKey	NhanNhiemVuDaTau
+2023-01-24 19:20:43	pgaming3	KûNiÖm§åTİm	Ò»ÌìÄÚÒÑÍê³ÉÊ®¸öÒ°ÛÅÈÎÎñ	81	1		S« C« La lo¹i 5	AddItemEx(4,195709,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	2		176
+2023-01-24 19:20:43	pgaming3	KûNiÖm§åTİm	[Tİnh n¨ng socola] [Hîp thµnh socola]	81	1		Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,758793366,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	2		176
+2023-01-24 19:21:18	20230124 192118	 GM Hñy Item pgaming3	KûNiÖm§åTİm	 Huû item S« C« La lo¹i 5
+2023-01-24 19:21:18	20230124 192118	 GM Hñy Item pgaming3	KûNiÖm§åTİm	 Huû item Tiªn Th¶o Lé ®Æc biÖt
+2023-01-24 19:25:06	pgaming3	KûNiÖm§åTİm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	100	1	95902	Hµnh HiÖp LÖnh	AddItemEx(4,649282940,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-24 19:25:07	pgaming3	KûNiÖm§åTİm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	100	1	95853	Hµnh HiÖp LÖnh	AddItemEx(4,328331351,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-24 19:25:08	pgaming3	KûNiÖm§åTİm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	100	1	95851	Hµnh HiÖp LÖnh	AddItemEx(4,363687228,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-24 19:30:51	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2023-01-24 19:33:04	20230124 193304	 GM Hñy Item pgaming3	KûNiÖm§åTİm	 Huû item D­¬ng Chi B¹ch Ngäc
+2023-01-24 19:33:04	20230124 193304	 GM Hñy Item pgaming3	KûNiÖm§åTİm	 Huû item L¨ng Nh¹c Thiªn §Şa HuyÒn Hoµng giíi
+2023-01-24 19:33:04	20230124 193304	 GM Hñy Item pgaming3	KûNiÖm§åTİm	 Huû item Méng Long Kim Ti Chİnh Hång Cµ Sa
+2023-01-24 19:33:04	20230124 193304	 GM Hñy Item pgaming3	KûNiÖm§åTİm	 Huû item Méng Long Chİnh Hång T¨ng M·o
+2023-01-24 19:33:04	20230124 193304	 GM Hñy Item pgaming3	KûNiÖm§åTİm	 Huû item Ma ThŞ LiÖt DiÖm Qu¸n MiÖn
+2023-01-24 19:36:22	2023-01-24 19:36:22 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-24 19:36:35	2023-01-24 19:36:35 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-24 19:36:37	2023-01-24 19:36:37 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng Chİnh
+2023-01-24 19:36:39	2023-01-24 19:36:39 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng Chİnh
+2023-01-24 19:36:41	2023-01-24 19:36:41 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-24 19:36:42	2023-01-24 19:36:42 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Nh©n Ng· 
+2023-01-24 19:40:06	2023-01-24 19:40:06 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng Chİnh
+2023-01-24 19:40:08	2023-01-24 19:40:08 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng Chİnh
+2023-01-24 19:40:09	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-24 19:40	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(Ã·»¨Â¹) drop 1 item Bao l× x×.
+2023-01-24 19:40:10	2023-01-24 19:40:10 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-24 19:40:12	2023-01-24 19:40:12 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng Chİnh
+2023-01-24 19:40:14	2023-01-24 19:40:14 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-24 19:40:16	2023-01-24 19:40:16 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-24 19:40:17	2023-01-24 19:40:17 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng Chİnh
+2023-01-24 19:40:19	2023-01-24 19:40:19 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng Chİnh
+2023-01-24 19:40:20	2023-01-24 19:40:20 pgaming3, [KûNiÖm§åTİm] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Linh Phiªu

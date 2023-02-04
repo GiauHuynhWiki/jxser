@@ -1,0 +1,566 @@
+2023-01-22 09:35:29	[1970-01-01 07:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-01-22 09:35:52	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:36:23	60122-09:36: B¾t ®Çu treo m¸y!
+2023-01-22 09:37:39	pgaming2	HeMocTest	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,-1589201828,0,6,1,1266,1,2,0,0,0,0,0,0,0,0)	1		100
+2023-01-22 09:37:39	pgaming2	HeMocTest	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,1942612177,0,6,1,438,1,1,0,0,0,0,0,0,0,0)	1		100
+2023-01-22 09:37:41	clean HeMocTest(Level:1) Tong Contribution old value is 0 new value is 0
+2023-01-22 09:38:24	KickOutSelf Account:pgaming2  RoleName HeMocTest
+2023-01-22 09:46:07	2023-01-22 09:46:07 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hoµng Nhan TuyÕt Y
+2023-01-22 09:46:08	2023-01-22 09:46:08 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:46:30	2023-01-22 09:46:30 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:46:51	2023-01-22 09:46:51 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:46:52	2023-01-22 09:46:52 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:46:54	2023-01-22 09:46:54 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:46:55	2023-01-22 09:46:55 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:46:57	2023-01-22 09:46:57 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:46:58	2023-01-22 09:46:58 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:46:59	2023-01-22 09:46:59 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:47:00	2023-01-22 09:47:00 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:47:02	2023-01-22 09:47:02 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: §oan Méc DuÖ 
+2023-01-22 09:47:26	2023-01-22 09:47:26 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:47:27	2023-01-22 09:47:27 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Cæ B¸ch
+2023-01-22 09:48:12	2023-01-22 09:48:12 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:48:14	2023-01-22 09:48:14 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Yªn HiÓu Tr¸i
+2023-01-22 09:48:30	2023-01-22 09:48:30 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:48:31	2023-01-22 09:48:31 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Cæ B¸ch
+2023-01-22 09:49:00	2023-01-22 09:49:00 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:49:01	2023-01-22 09:49:01 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: M¹nh Th­¬ng L­¬ng
+2023-01-22 09:50:21	2023-01-22 09:50:21 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:22	2023-01-22 09:50:22 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:50:25	2023-01-22 09:50:25 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:26	2023-01-22 09:50:26 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:28	2023-01-22 09:50:28 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:50:29	2023-01-22 09:50:29 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:31	2023-01-22 09:50:31 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:32	2023-01-22 09:50:32 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:35	2023-01-22 09:50:35 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:36	2023-01-22 09:50:36 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:38	2023-01-22 09:50:38 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:50:40	2023-01-22 09:50:40 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:50:42	2023-01-22 09:50:42 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:45	2023-01-22 09:50:45 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:46	2023-01-22 09:50:46 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:50:48	2023-01-22 09:50:48 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:49	2023-01-22 09:50:49 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:50:50	2023-01-22 09:50:50 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:51	2023-01-22 09:50:51 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:52	2023-01-22 09:50:52 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:54	2023-01-22 09:50:54 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:50:55	2023-01-22 09:50:55 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:50:56	2023-01-22 09:50:56 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Thanh HiÓu S­ Th¸i 
+2023-01-22 09:51:11	2023-01-22 09:51:11 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:51:13	2023-01-22 09:51:13 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:51:14	2023-01-22 09:51:14 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:51:16	2023-01-22 09:51:16 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Gia LuËt TÞ Ly
+2023-01-22 09:52:19	2023-01-22 09:52:19 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:52:20	2023-01-22 09:52:20 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: M¹nh Th­¬ng L­¬ng
+2023-01-22 09:52:20	2023-01-22 09:52:20 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:52:21	2023-01-22 09:52:21 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 09:52:22	2023-01-22 09:52:22 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:53:43	2023-01-22 09:53:43 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 09:53:45	2023-01-22 09:53:45 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: B¹ch Doanh Doanh
+2023-01-22 09:56:11	2023-01-22 09:56:11 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:56:13	2023-01-22 09:56:13 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 09:57:24	pgaming2	HeMocTest	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	180	0	95856	Hµnh HiÖp LÖnh	AddItemEx(4,932415374,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-22 09:57:24	pgaming2	HeMocTest	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	180	0	95855	Hµnh HiÖp LÖnh	AddItemEx(4,793495153,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-22 09:57:26	pgaming2	HeMocTest	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	180	0	95854	Hµnh HiÖp LÖnh	AddItemEx(4,-2132436902,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-22 10:00:22	10:00,566,95,0,11,3346,4797,Cæ B¸ch
+2023-01-22 10:00:22	10:00,740,95,0,176,1162,2781,HuyÒn Gi¸c §¹i S­
+2023-01-22 10:00:22	10:00,1366,95,1,75,1614,3191,§­êng Phi YÕn
+2023-01-22 10:00:22	10:00,582,95,1,204,1527,3529,Lam Y Y
+2023-01-22 10:00:22	10:00,568,95,2,203,1792,3234,Hµ Linh Phiªu
+2023-01-22 10:00:22	10:00,744,95,2,37,1535,2902,Yªn HiÓu Tr¸i
+2023-01-22 10:00:22	10:00,583,95,3,224,1739,2857,M¹nh Th­¬ng L­¬ng
+2023-01-22 10:00:22	10:00,563,95,3,181,1616,2951,Gia LuËt TÞ Ly
+2023-01-22 10:00:22	10:00,562,95,4,321,1474,3008,§¹o Thanh Ch©n Nh©n
+2023-01-22 10:00:22	10:00,747,95,4,342,1212,2419,TuyÒn C¬ Tö
+2023-01-22 10:00:22	10:00,739,95,0,202,1618,2950,V­¬ng T¸
+2023-01-22 10:00:22	10:00,1365,95,0,336,1422,3113,HuyÒn Nan §¹i S­
+2023-01-22 10:00:22	10:00,741,95,1,75,1614,3191,§­êng BÊt NhiÔm
+2023-01-22 10:00:22	10:00,742,95,1,80,1538,3041,B¹ch Doanh Doanh
+2023-01-22 10:00:22	10:00,743,95,2,205,1585,3226,Thanh TuyÖt S­ Th¸i
+2023-01-22 10:00:22	10:00,567,95,2,203,1792,3234,Chung Linh Tó
+2023-01-22 10:00:22	10:00,745,95,3,10,1836,3082,Hµ Nh©n Ng·
+2023-01-22 10:00:22	10:00,565,95,3,336,1422,3113,§oan Méc DuÖ
+2023-01-22 10:00:22	10:00,1367,95,4,11,2966,4807,Tõ §¹i Nh¹c
+2023-01-22 10:00:22	10:00,1368,95,4,322,1938,3957,Thanh Liªn Tö
+2023-01-22 10:00:22	10:00,743,95,2,225,1603,3221,Thanh TuyÖt S­ Th¸i
+2023-01-22 10:00:59	pgaming2	HeMocTest	test	180	0	award	Kim M· LÖnh-6	AddItemEx(4,1338406953,0,6,1,4095,0,0,0,0,0,0,0,0,0,0)	1		175
+2023-01-22 10:03:22	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89465	S« C« La lo¹i 5	AddItemEx(4,-1524328595,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		225
+2023-01-22 10:03:22	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89465	L­ìi LiÒm B¹c	AddItemEx(4,53066054,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		225
+2023-01-22 10:03:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:03	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:03:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:03	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:03:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:03	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:03:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:03	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:03:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:03	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:03:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:03	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:03:23	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		225
+2023-01-22 10:03:23	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		225
+2023-01-22 10:04:33	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-22 10:04	Account:pgaming2	Name:HeMocTest	npcname(Á÷¹â) drop 1 item Bao l× x×.
+2023-01-22 10:04:56	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89466	S« C« La lo¹i 5	AddItemEx(4,905843868,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		322
+2023-01-22 10:04:56	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89466	L­ìi LiÒm B¹c	AddItemEx(4,-1326542319,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		322
+2023-01-22 10:04:57	[killed_Thanh Liªn Tö]	2023-01-22 10:04	Account:pgaming2	Name:HeMocTest	npcname(Thanh Liªn Tö) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:04:57	[killed_Thanh Liªn Tö]	2023-01-22 10:04	Account:pgaming2	Name:HeMocTest	npcname(Thanh Liªn Tö) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:04:57	[killed_Thanh Liªn Tö]	2023-01-22 10:04	Account:pgaming2	Name:HeMocTest	npcname(Thanh Liªn Tö) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:04:57	[killed_Thanh Liªn Tö]	2023-01-22 10:04	Account:pgaming2	Name:HeMocTest	npcname(Thanh Liªn Tö) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:04:57	[killed_Thanh Liªn Tö]	2023-01-22 10:04	Account:pgaming2	Name:HeMocTest	npcname(Thanh Liªn Tö) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:04:57	[killed_Thanh Liªn Tö]	2023-01-22 10:04	Account:pgaming2	Name:HeMocTest	npcname(Thanh Liªn Tö) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:04:57	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		322
+2023-01-22 10:04:57	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		322
+2023-01-22 10:05:23	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89467	S« C« La lo¹i 5	AddItemEx(4,1458220041,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-22 10:05:23	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89467	L­ìi LiÒm B¹c	AddItemEx(4,1342166994,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-22 10:05:24	[killed_Tõ §¹i Nh¹c]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(Tõ §¹i Nh¹c) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:05:24	[killed_Tõ §¹i Nh¹c]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(Tõ §¹i Nh¹c) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:05:24	[killed_Tõ §¹i Nh¹c]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(Tõ §¹i Nh¹c) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:05:24	[killed_Tõ §¹i Nh¹c]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(Tõ §¹i Nh¹c) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:05:24	[killed_Tõ §¹i Nh¹c]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(Tõ §¹i Nh¹c) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:05:24	[killed_Tõ §¹i Nh¹c]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(Tõ §¹i Nh¹c) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:05:24	[killed_Tõ §¹i Nh¹c]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(Tõ §¹i Nh¹c) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:05:24	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		11
+2023-01-22 10:05:24	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		11
+2023-01-22 10:05:51	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89468	S« C« La lo¹i 5	AddItemEx(4,-762450133,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-22 10:05:51	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89468	L­ìi LiÒm B¹c	AddItemEx(4,-1081636420,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-22 10:05:52	[killed_§oan Méc DuÖ]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(§oan Méc DuÖ) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:05:52	[killed_§oan Méc DuÖ]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(§oan Méc DuÖ) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:05:52	[killed_§oan Méc DuÖ]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(§oan Méc DuÖ) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:05:52	[killed_§oan Méc DuÖ]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(§oan Méc DuÖ) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:05:52	[killed_§oan Méc DuÖ]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(§oan Méc DuÖ) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:05:52	[killed_§oan Méc DuÖ]	2023-01-22 10:05	Account:pgaming2	Name:HeMocTest	npcname(§oan Méc DuÖ) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:05:52	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		336
+2023-01-22 10:05:52	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		336
+2023-01-22 10:06:18	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89474	S« C« La lo¹i 5	AddItemEx(4,1523586117,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-22 10:06:18	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89474	L­ìi LiÒm B¹c	AddItemEx(4,1363373182,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-22 10:06:19	[killed_HuyÒn Nan §¹i S­]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Nan §¹i S­) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:06:19	[killed_HuyÒn Nan §¹i S­]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Nan §¹i S­) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:06:19	[killed_HuyÒn Nan §¹i S­]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Nan §¹i S­) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:06:19	[killed_HuyÒn Nan §¹i S­]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Nan §¹i S­) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:06:19	[killed_HuyÒn Nan §¹i S­]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Nan §¹i S­) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:06:19	[killed_HuyÒn Nan §¹i S­]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Nan §¹i S­) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:06:19	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		336
+2023-01-22 10:06:19	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		336
+2023-01-22 10:06:52	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89469	S« C« La lo¹i 5	AddItemEx(4,-1023133353,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		10
+2023-01-22 10:06:52	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89469	L­ìi LiÒm B¹c	AddItemEx(4,1861801496,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		10
+2023-01-22 10:06:53	[killed_Hµ Nh©n Ng·]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(Hµ Nh©n Ng·) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:06:53	[killed_Hµ Nh©n Ng·]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(Hµ Nh©n Ng·) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:06:53	[killed_Hµ Nh©n Ng·]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(Hµ Nh©n Ng·) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:06:53	[killed_Hµ Nh©n Ng·]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(Hµ Nh©n Ng·) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:06:53	[killed_Hµ Nh©n Ng·]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(Hµ Nh©n Ng·) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:06:53	[killed_Hµ Nh©n Ng·]	2023-01-22 10:06	Account:pgaming2	Name:HeMocTest	npcname(Hµ Nh©n Ng·) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:06:53	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		10
+2023-01-22 10:06:53	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		10
+2023-01-22 10:07:13	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89470	S« C« La lo¹i 5	AddItemEx(4,430373919,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-22 10:07:13	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89470	L­ìi LiÒm B¹c	AddItemEx(4,2112402688,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-22 10:07:15	[killed_Chung Linh Tó]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Chung Linh Tó) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:07:15	[killed_Chung Linh Tó]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Chung Linh Tó) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:07:15	[killed_Chung Linh Tó]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Chung Linh Tó) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:07:15	[killed_Chung Linh Tó]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Chung Linh Tó) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:07:15	[killed_Chung Linh Tó]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Chung Linh Tó) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:07:15	[killed_Chung Linh Tó]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Chung Linh Tó) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:07:15	[killed_Chung Linh Tó]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Chung Linh Tó) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:07:15	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		203
+2023-01-22 10:07:15	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		203
+2023-01-22 10:07:21	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89481	S« C« La lo¹i 5	AddItemEx(4,147102256,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-22 10:07:21	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89481	L­ìi LiÒm B¹c	AddItemEx(4,-915174283,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-22 10:07:22	[killed_Hµ Linh Phiªu]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Hµ Linh Phiªu) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:07:22	[killed_Hµ Linh Phiªu]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Hµ Linh Phiªu) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:07:22	[killed_Hµ Linh Phiªu]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Hµ Linh Phiªu) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:07:22	[killed_Hµ Linh Phiªu]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Hµ Linh Phiªu) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:07:22	[killed_Hµ Linh Phiªu]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Hµ Linh Phiªu) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:07:22	[killed_Hµ Linh Phiªu]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Hµ Linh Phiªu) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:07:22	[killed_Hµ Linh Phiªu]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Hµ Linh Phiªu) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:07:22	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		203
+2023-01-22 10:07:22	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		203
+2023-01-22 10:07:37	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89471	S« C« La lo¹i 5	AddItemEx(4,131236095,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		205
+2023-01-22 10:07:37	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89471	L­ìi LiÒm B¹c	AddItemEx(4,1996228960,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		205
+2023-01-22 10:07:39	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:07:39	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:07:39	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:07:39	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:07:39	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		205
+2023-01-22 10:07:39	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		205
+2023-01-22 10:07:54	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89472	S« C« La lo¹i 5	AddItemEx(4,-1409519602,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		80
+2023-01-22 10:07:54	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89472	L­ìi LiÒm B¹c	AddItemEx(4,-1509066869,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		80
+2023-01-22 10:07:55	[killed_B¹ch Doanh Doanh]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(B¹ch Doanh Doanh) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:07:55	[killed_B¹ch Doanh Doanh]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(B¹ch Doanh Doanh) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:07:55	[killed_B¹ch Doanh Doanh]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(B¹ch Doanh Doanh) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:07:55	[killed_B¹ch Doanh Doanh]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(B¹ch Doanh Doanh) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:07:55	[killed_B¹ch Doanh Doanh]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(B¹ch Doanh Doanh) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:07:55	[killed_B¹ch Doanh Doanh]	2023-01-22 10:07	Account:pgaming2	Name:HeMocTest	npcname(B¹ch Doanh Doanh) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:07:55	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		80
+2023-01-22 10:07:55	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		80
+2023-01-22 10:08:58	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89485	S« C« La lo¹i 5	AddItemEx(4,615634578,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-01-22 10:08:58	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89485	L­ìi LiÒm B¹c	AddItemEx(4,-1186528097,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-01-22 10:08:58	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89473	S« C« La lo¹i 5	AddItemEx(4,-1457374787,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-01-22 10:08:58	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89473	L­ìi LiÒm B¹c	AddItemEx(4,1934941910,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-01-22 10:08:59	[killed_§­êng Phi YÕn]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng Phi YÕn) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:08:59	[killed_§­êng Phi YÕn]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng Phi YÕn) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:08:59	[killed_§­êng Phi YÕn]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng Phi YÕn) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:08:59	[killed_§­êng Phi YÕn]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng Phi YÕn) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:08:59	[killed_§­êng Phi YÕn]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng Phi YÕn) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:08:59	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		75
+2023-01-22 10:08:59	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		75
+2023-01-22 10:08:59	[killed_§­êng BÊt NhiÔm]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng BÊt NhiÔm) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:08:59	[killed_§­êng BÊt NhiÔm]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng BÊt NhiÔm) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:08:59	[killed_§­êng BÊt NhiÔm]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng BÊt NhiÔm) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:08:59	[killed_§­êng BÊt NhiÔm]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng BÊt NhiÔm) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:08:59	[killed_§­êng BÊt NhiÔm]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng BÊt NhiÔm) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:08:59	[killed_§­êng BÊt NhiÔm]	2023-01-22 10:08	Account:pgaming2	Name:HeMocTest	npcname(§­êng BÊt NhiÔm) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:08:59	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		75
+2023-01-22 10:08:59	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		75
+2023-01-22 10:09:39	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89475	S« C« La lo¹i 5	AddItemEx(4,-341132251,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		202
+2023-01-22 10:09:39	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89475	L­ìi LiÒm B¹c	AddItemEx(4,280219614,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		202
+2023-01-22 10:09:40	[killed_V­¬ng T¸]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(V­¬ng T¸) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:09:40	[killed_V­¬ng T¸]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(V­¬ng T¸) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:09:40	[killed_V­¬ng T¸]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(V­¬ng T¸) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:09:40	[killed_V­¬ng T¸]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(V­¬ng T¸) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:09:40	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		202
+2023-01-22 10:09:40	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		202
+2023-01-22 10:09:54	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89476	S« C« La lo¹i 5	AddItemEx(4,1714593533,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		342
+2023-01-22 10:09:54	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89476	L­ìi LiÒm B¹c	AddItemEx(4,-1130217194,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		342
+2023-01-22 10:09:56	[killed_TuyÒn C¬ Tö]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(TuyÒn C¬ Tö) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:09:56	[killed_TuyÒn C¬ Tö]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(TuyÒn C¬ Tö) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:09:56	[killed_TuyÒn C¬ Tö]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(TuyÒn C¬ Tö) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:09:56	[killed_TuyÒn C¬ Tö]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(TuyÒn C¬ Tö) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:09:56	[killed_TuyÒn C¬ Tö]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(TuyÒn C¬ Tö) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:09:56	[killed_TuyÒn C¬ Tö]	2023-01-22 10:09	Account:pgaming2	Name:HeMocTest	npcname(TuyÒn C¬ Tö) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:09:56	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		342
+2023-01-22 10:09:56	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		342
+2023-01-22 10:10:08	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89477	S« C« La lo¹i 5	AddItemEx(4,1378360905,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		321
+2023-01-22 10:10:08	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89477	L­ìi LiÒm B¹c	AddItemEx(4,965942034,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		321
+2023-01-22 10:10:09	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:10:09	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:10:09	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:10:09	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:10:09	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:10:09	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		321
+2023-01-22 10:10:09	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		321
+2023-01-22 10:10:29	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89478	S« C« La lo¹i 5	AddItemEx(4,-107627677,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		181
+2023-01-22 10:10:29	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89478	L­ìi LiÒm B¹c	AddItemEx(4,-660646444,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		181
+2023-01-22 10:10:30	[killed_Gia LuËt TÞ Ly]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(Gia LuËt TÞ Ly) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:10:30	[killed_Gia LuËt TÞ Ly]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(Gia LuËt TÞ Ly) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:10:30	[killed_Gia LuËt TÞ Ly]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(Gia LuËt TÞ Ly) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:10:30	[killed_Gia LuËt TÞ Ly]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(Gia LuËt TÞ Ly) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:10:30	[killed_Gia LuËt TÞ Ly]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(Gia LuËt TÞ Ly) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:10:30	[killed_Gia LuËt TÞ Ly]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(Gia LuËt TÞ Ly) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:10:30	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		181
+2023-01-22 10:10:30	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		181
+2023-01-22 10:10:44	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89479	S« C« La lo¹i 5	AddItemEx(4,1863893275,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		224
+2023-01-22 10:10:44	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89479	L­ìi LiÒm B¹c	AddItemEx(4,-2115702420,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		224
+2023-01-22 10:10:45	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:10:45	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:10:45	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:10:45	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-22 10:10	Account:pgaming2	Name:HeMocTest	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:10:45	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		224
+2023-01-22 10:10:45	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		224
+2023-01-22 10:11:06	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89480	S« C« La lo¹i 5	AddItemEx(4,1870235804,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		37
+2023-01-22 10:11:06	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89480	L­ìi LiÒm B¹c	AddItemEx(4,999446033,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		37
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:11:07	[killed_Yªn HiÓu Tr¸i]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Yªn HiÓu Tr¸i) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:11:07	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		37
+2023-01-22 10:11:07	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		37
+2023-01-22 10:11:18	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89482	S« C« La lo¹i 5	AddItemEx(4,1795848930,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		204
+2023-01-22 10:11:18	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89482	L­ìi LiÒm B¹c	AddItemEx(4,364344367,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		204
+2023-01-22 10:11:20	[killed_Lam Y Y]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Lam Y Y) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:11:20	[killed_Lam Y Y]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Lam Y Y) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:11:20	[killed_Lam Y Y]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Lam Y Y) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:11:20	[killed_Lam Y Y]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(Lam Y Y) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:11:20	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		204
+2023-01-22 10:11:20	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		204
+2023-01-22 10:11:43	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89483	S« C« La lo¹i 5	AddItemEx(4,-340976663,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		176
+2023-01-22 10:11:43	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89483	L­ìi LiÒm B¹c	AddItemEx(4,883434290,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		176
+2023-01-22 10:11:44	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:11:44	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Lam Thñy Tinh.
+2023-01-22 10:11:44	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:11:44	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:11:44	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-22 10:11	Account:pgaming2	Name:HeMocTest	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:11:44	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		176
+2023-01-22 10:11:44	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		176
+2023-01-22 10:12:24	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89486	S« C« La lo¹i 5	AddItemEx(4,449070959,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-22 10:12:24	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89486	L­ìi LiÒm B¹c	AddItemEx(4,1586382736,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-22 10:12:25	[killed_Cæ B¸ch]	2023-01-22 10:12	Account:pgaming2	Name:HeMocTest	npcname(Cæ B¸ch) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:12:25	[killed_Cæ B¸ch]	2023-01-22 10:12	Account:pgaming2	Name:HeMocTest	npcname(Cæ B¸ch) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-22 10:12:25	[killed_Cæ B¸ch]	2023-01-22 10:12	Account:pgaming2	Name:HeMocTest	npcname(Cæ B¸ch) drop 1 item Tö Thñy Tinh.
+2023-01-22 10:12:25	[killed_Cæ B¸ch]	2023-01-22 10:12	Account:pgaming2	Name:HeMocTest	npcname(Cæ B¸ch) drop 1 item Lôc Thñy Tinh.
+2023-01-22 10:12:25	[killed_Cæ B¸ch]	2023-01-22 10:12	Account:pgaming2	Name:HeMocTest	npcname(Cæ B¸ch) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-22 10:12:25	[killed_Cæ B¸ch]	2023-01-22 10:12	Account:pgaming2	Name:HeMocTest	npcname(Cæ B¸ch) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-22 10:12:25	pgaming2	HeMocTest	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		11
+2023-01-22 10:12:25	pgaming2	HeMocTest	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		11
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item Tinh Hång B¶o Th¹ch
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item L­ìi LiÒm B¹c
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item L­ìi LiÒm B¹c
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 10:13:08	20230122 101308	 GM Hñy Item pgaming2	HeMocTest	 Huû item Kim M· LÖnh-6
+2023-01-22 10:13:50	2023-01-22 10:13:50 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:13:53	2023-01-22 10:13:53 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:13:55	2023-01-22 10:13:55 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: HuyÒn Gi¸c §¹i S­ 
+2023-01-22 10:14:42	2023-01-22 10:14:42 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:14:49	2023-01-22 10:14:49 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:14:52	2023-01-22 10:14:52 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:14:54	2023-01-22 10:14:54 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:14:55	2023-01-22 10:14:55 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:14:57	2023-01-22 10:14:57 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Yªn HiÓu Tr¸i
+2023-01-22 10:15:09	2023-01-22 10:15:09 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:15:11	2023-01-22 10:15:11 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:15:13	2023-01-22 10:15:13 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:15:15	2023-01-22 10:15:15 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:15:17	2023-01-22 10:15:17 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: HuyÒn Gi¸c §¹i S­ 
+2023-01-22 10:15:53	2023-01-22 10:15:53 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:15:55	2023-01-22 10:15:55 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Nh©n Ng· 
+2023-01-22 10:16:10	2023-01-22 10:16:10 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:16:11	2023-01-22 10:16:11 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:16:12	2023-01-22 10:16:12 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Yªn HiÓu Tr¸i
+2023-01-22 10:16:24	2023-01-22 10:16:24 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:16:25	2023-01-22 10:16:25 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Cæ B¸ch
+2023-01-22 10:18:11	2023-01-22 10:18:11 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:18:18	2023-01-22 10:18:18 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:18:20	2023-01-22 10:18:20 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:18:24	2023-01-22 10:18:24 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:18:25	2023-01-22 10:18:25 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: B¹ch Doanh Doanh
+2023-01-22 10:18:28	2023-01-22 10:18:28 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:18:45	2023-01-22 10:18:45 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:18:46	2023-01-22 10:18:46 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Nham
+2023-01-22 10:18:50	2023-01-22 10:18:50 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:18:52	2023-01-22 10:18:52 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hoµng Nhan TuyÕt Y
+2023-01-22 10:18:57	2023-01-22 10:18:57 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:18:59	2023-01-22 10:18:59 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Yªn HiÓu Tr¸i
+2023-01-22 10:19:01	2023-01-22 10:19:01 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:19:32	2023-01-22 10:19:32 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:19:34	2023-01-22 10:19:34 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:19:36	2023-01-22 10:19:36 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:19:38	2023-01-22 10:19:38 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:19:40	2023-01-22 10:19:40 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: HuyÒn Gi¸c §¹i S­ 
+2023-01-22 10:20:23	2023-01-22 10:20:23 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:20:25	2023-01-22 10:20:25 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:20:26	2023-01-22 10:20:26 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:20:28	2023-01-22 10:20:28 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:20:29	2023-01-22 10:20:29 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:20:30	2023-01-22 10:20:30 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:20:32	2023-01-22 10:20:32 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Nham
+2023-01-22 10:20:36	2023-01-22 10:20:36 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:20:37	2023-01-22 10:20:37 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 10:20:39	2023-01-22 10:20:39 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 10:20:40	2023-01-22 10:20:40 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 10:20:42	2023-01-22 10:20:42 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 18:58:51	[1970-01-01 07:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-01-22 18:59:30	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 18:59:58	150122-18:59: B¾t ®Çu treo m¸y!
+2023-01-22 19:00:35	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2023-01-22 19:02:18	19:02	22/01/2023	binhchivn	pgaming2	HeMocTest	§­êng M«n	180		EventChienThang042011	BaoDanhPhongLangDo
+2023-01-22 19:02:18	19:02	22/01/2023	binhchivn	pgaming2	HeMocTest	§­êng M«n	180		TinhNangKey	BaoDanhPLD_SDLenhBaiPLD
+2023-01-22 19:02:29	20230122 190229	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThiÕt La H¸n
+2023-01-22 19:02:29	20230122 190229	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThiÕt La H¸n
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:03	20230122 190703	 GM Hñy Item pgaming2	HeMocTest	 Huû item Toµn Th¹ch Giíi ChØ
+2023-01-22 19:07:30	20230122 190730	 GM Hñy Item pgaming2	HeMocTest	 Huû item Lam L©n ThÇn Léc
+2023-01-22 19:07:30	20230122 190730	 GM Hñy Item pgaming2	HeMocTest	 Huû item TuyÖt §Þa
+2023-01-22 19:07:30	20230122 190730	 GM Hñy Item pgaming2	HeMocTest	 Huû item XÝch Long C©u
+2023-01-22 19:07:48	20230122 190748	 GM Hñy Item pgaming2	HeMocTest	 Huû item B«n Tiªu
+2023-01-22 19:07:48	20230122 190748	 GM Hñy Item pgaming2	HeMocTest	 Huû item Phiªn Vò 
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:08:54	20230122 190854	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:10:43	20230122 191043	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:12:11	20230122 191211	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:13:12	20230122 191312	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:13:46	20230122 191346	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:13:46	20230122 191346	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:13:46	20230122 191346	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:13:46	20230122 191346	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t PhØ Thóy Ngäc H¹ng Khuyªn
+2023-01-22 19:13:46	20230122 191346	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim Tó Phông Giíi
+2023-01-22 19:13:46	20230122 191346	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Ngäc Cµn Kh«n Béi
+2023-01-22 19:13:46	20230122 191346	 GM Hñy Item pgaming2	HeMocTest	 Huû item [Cùc phÈm] §éng S¸t B¹ch Kim §iªu Long Giíi
+2023-01-22 19:23:30	20230122 192330	 GM Hñy Item pgaming2	HeMocTest	 Huû item TÝch LÞch Kim Phông gi¸p
+2023-01-22 19:23:30	20230122 192330	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:23:30	20230122 192330	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:23:30	20230122 192330	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Tiªu Bæng
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:08	20230122 192408	 GM Hñy Item pgaming2	HeMocTest	 Huû item Boss TriÖu Ho¸n Phï 
+2023-01-22 19:24:42	20230122 192442	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThÈm Lu©n M·o
+2023-01-22 19:24:42	20230122 192442	 GM Hñy Item pgaming2	HeMocTest	 Huû item Kim Phông TriÓn SÝ 
+2023-01-22 19:24:54	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89377	S« C« La lo¹i 5	AddItemEx(4,-1604476299,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:24:54	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89377	L­ìi LiÒm B¹c	AddItemEx(4,-1441937042,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:26:03	20230122 192603	 GM Hñy Item pgaming2	HeMocTest	 Huû item TuyÕt Doanh ngoa
+2023-01-22 19:26:03	20230122 192603	 GM Hñy Item pgaming2	HeMocTest	 Huû item B¸ch Qu¶ Lé 
+2023-01-22 19:26:03	20230122 192603	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThÝ Gi¶ Chi Ên
+2023-01-22 19:26:03	20230122 192603	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThÝ Gi¶ Chi Ên
+2023-01-22 19:26:03	20230122 192603	 GM Hñy Item pgaming2	HeMocTest	 Huû item L­ìi LiÒm B¹c
+2023-01-22 19:26:03	20230122 192603	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 19:27:01	20230122 192701	 GM Hñy Item pgaming2	HeMocTest	 Huû item §¸i Y §ao
+2023-01-22 19:27:01	20230122 192701	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThÊt B¶o Cµ Sa
+2023-01-22 19:29:53	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89375	S« C« La lo¹i 5	AddItemEx(4,-2037577485,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:29:53	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89375	L­ìi LiÒm B¹c	AddItemEx(4,-1243022428,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:30:04	20230122 193004	 GM Hñy Item pgaming2	HeMocTest	 Huû item L­ìi LiÒm B¹c
+2023-01-22 19:30:04	20230122 193004	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 19:30:04	20230122 193004	 GM Hñy Item pgaming2	HeMocTest	 Huû item Ngò §éc ph¸t kÕt
+2023-01-22 19:30:04	20230122 193004	 GM Hñy Item pgaming2	HeMocTest	 Huû item Chu Sa §Çu Hoµn
+2023-01-22 19:30:32	20230122 193032	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThÝ Gi¶ Chi Ên
+2023-01-22 19:30:32	20230122 193032	 GM Hñy Item pgaming2	HeMocTest	 Huû item ThÝ Gi¶ Chi Ên
+2023-01-22 19:30:34	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang Yªu Trôy
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang L÷
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang Gi¸p Y
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang Thóc Yªu
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang Hé UyÓn
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang NhiÕp Ph¸ch ChØ Hoµn
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang Ph¸t Qu¸n
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang H¹ng Liªn
+2023-01-22 19:33:52	20230122 193352	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang Phi Tiªu
+2023-01-22 19:34:52	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89372	S« C« La lo¹i 5	AddItemEx(4,-1506634174,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:34:52	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89372	L­ìi LiÒm B¹c	AddItemEx(4,-65140465,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:35:56	20230122 193556	 GM Hñy Item pgaming2	HeMocTest	 Huû item V¹n Chóng TÒ T©m Y
+2023-01-22 19:35:56	20230122 193556	 GM Hñy Item pgaming2	HeMocTest	 Huû item L­ìi LiÒm B¹c
+2023-01-22 19:35:56	20230122 193556	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 19:35:56	20230122 193556	 GM Hñy Item pgaming2	HeMocTest	 Huû item Th«ng Thiªn Ph¸t Qu¸n
+2023-01-22 19:35:56	20230122 193556	 GM Hñy Item pgaming2	HeMocTest	 Huû item DiÖu D­¬ng S©m Hoang §o¹t Hån ChØ Hoµn
+2023-01-22 19:38:39	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		S« C« La lo¹i 5	AddItemEx(4,1104152673,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:38:39	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		Kim M· LÖnh-4	AddItemEx(4,-1282451318,0,6,1,4093,1,0,0,0,0,0,0,0,0,0)	1		339
+2023-01-22 19:38:39	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,1508398455,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	10		339
+2023-01-22 19:38:39	pgaming2	HeMocTest	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		L­ìi LiÒm B¹c	AddItemEx(4,-1684617544,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		339
+2023-01-22 19:38:39	pgaming2	HeMocTest	Trong ngµy lÇn ®Çu tiªn hoµn thµnh Phong L¨ng §é	180	0		Hµnh HiÖp LÖnh	AddItemEx(4,1383068701,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	2		339
+2023-01-22 19:40:17	20230122 194017	 GM Hñy Item pgaming2	HeMocTest	 Huû item Hµnh HiÖp LÖnh
+2023-01-22 19:40:17	20230122 194017	 GM Hñy Item pgaming2	HeMocTest	 Huû item L­ìi LiÒm B¹c
+2023-01-22 19:40:17	20230122 194017	 GM Hñy Item pgaming2	HeMocTest	 Huû item Tö Tinh Kho¸ng Th¹ch
+2023-01-22 19:40:17	20230122 194017	 GM Hñy Item pgaming2	HeMocTest	 Huû item Kim M· LÖnh-4
+2023-01-22 19:40:17	20230122 194017	 GM Hñy Item pgaming2	HeMocTest	 Huû item S« C« La lo¹i 5
+2023-01-22 19:40:58	2023-01-22 19:40:58 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 19:41:11	2023-01-22 19:41:11 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Nh©n Ng· 
+2023-01-22 19:41:30	2023-01-22 19:41:30 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 19:41:32	2023-01-22 19:41:32 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-22 19:41:33	2023-01-22 19:41:33 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: V­¬ng T¸ 
+2023-01-22 19:42:05	2023-01-22 19:42:05 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hoµng Nhan TuyÕt Y
+2023-01-22 19:42:10	2023-01-22 19:42:10 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 19:42:12	2023-01-22 19:42:12 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-22 19:42:14	2023-01-22 19:42:14 pgaming2, [HeMocTest] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-22 19:45:04	19:45,1509,95,4,162,1668,2981,§éc C« Thiªn Phong
+2023-01-22 19:52:09	pgaming2	HeMocTest	[liguan]get_free_item_HuyÒn Tinh CÊp 9	180	0	award	HuyÒn Tinh CÊp 9	AddItemEx(4,18799105,0,6,1,147,9,0,0,60,0,0,0,0,0,0)	6		176
+2023-01-22 19:59:34	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-398-1]ThÇn bÝ kho¸ng th¹ch
+2023-01-22 19:59:34	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-147-1]HuyÒn Tinh Kho¸ng Th
+2023-01-22 19:59:34	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-147-3]HuyÒn Tinh Kho¸ng Th
+2023-01-22 19:59:34	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-398-1]ThÇn bÝ kho¸ng th¹ch
+2023-01-22 20:00:04	[Thiªn Tr× MËt C¶nh][4tÇng]	2023-01-22 20:00			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,25,135936,153600
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,13,55808,159744
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,81,59392,97792
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:T©y V­¬ng Tµ §éc,183,46848,85504
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:Do·n Thanh V©n,154,17664,41984
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:H¾c Y S¸t Thñ,115,49920,104960
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:Ng¹o Thiªn T­íng Qu©n,59,48128,99840
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:ThËp Ph­¬ng C©u DiÖt,45,53248,103424
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:Thanh Y Tö,131,44288,106496
+2023-01-22 20:00:04	[CALLBOSS FIXURE]	2023-01-22 20:00:04	BOSS tiÓu Hoµng Kim:TÞnh Th«ng,103,46080,112640
+2023-01-22 20:00:34	BaiRenLeiTai	CallNPC_GuShou:960,57696,98528
+2023-01-22 20:01:33	pgaming2	HeMocTest	[liguan]get_free_item_HuyÒn Tinh CÊp 9	180	0	award	HuyÒn Tinh CÊp 9	AddItemEx(4,-612894669,0,6,1,147,9,0,0,60,0,0,0,0,0,0)	5		176

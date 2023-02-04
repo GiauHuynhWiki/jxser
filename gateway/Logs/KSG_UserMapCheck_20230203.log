@@ -1,0 +1,171 @@
+2023-02-03 21:48:20	Gameserver(1) update map ok
+2023-02-03 21:49:48	LoginToMap: Account(pgaming2), Index(0), IP:192.168.1.1 : 49762
+2023-02-03 21:49:50	set gameServer: -1=>1
+2023-02-03 21:49:50	set role name: =>HeMocTest
+2023-02-03 21:49:50	Map changed: 0=>176
+2023-02-03 21:49:50	GameServer(1) accept account(pgaming2), Map(176)
+2023-02-03 21:49:50	set status: 1=>2
+2023-02-03 21:49:51	GameServer(1) notify account(pgaming2) enter gameworld
+2023-02-03 21:50:22	GameSever(1) notify account(pgaming2) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-02-03 21:50:22	LogoutFromMap: Account(pgaming2), GameServer(1), Status(2), PlayrIndex(0), Role(HeMocTest), Map(176)
+2023-02-03 21:50:28	LoginToMap: Account(pgaming3), Index(1), IP:192.168.1.1 : 49764
+2023-02-03 21:50:30	set gameServer: -1=>1
+2023-02-03 21:50:30	set role name: =>KûNiÖm§åTÝm
+2023-02-03 21:50:30	Map changed: 0=>342
+2023-02-03 21:50:30	GameServer(1) accept account(pgaming3), Map(342)
+2023-02-03 21:50:30	set status: 1=>2
+2023-02-03 21:50:31	GameServer(1) notify account(pgaming3) enter gameworld
+2023-02-03 21:51:44	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(1min)
+2023-02-03 21:51:44	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(1), Role(KûNiÖm§åTÝm), Map(342)
+2023-02-03 21:51:47	LoginToMap: Account(pgaming3), Index(2), IP:192.168.1.1 : 49766
+2023-02-03 21:51:49	set gameServer: -1=>1
+2023-02-03 21:51:49	set role name: =>HoµngKimKûNiÖm
+2023-02-03 21:51:49	Map changed: 0=>176
+2023-02-03 21:51:49	GameServer(1) accept account(pgaming3), Map(176)
+2023-02-03 21:51:49	set status: 1=>2
+2023-02-03 21:51:49	GameServer(1) notify account(pgaming3) enter gameworld
+2023-02-03 22:01:06	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(9min)
+2023-02-03 22:01:06	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(2), Role(HoµngKimKûNiÖm), Map(176)
+2023-02-03 22:01:14	LoginToMap: Account(pgaming), Index(3), IP:192.168.1.1 : 49786
+2023-02-03 22:01:20	set gameServer: -1=>1
+2023-02-03 22:01:20	set role name: =>ThuyYen
+2023-02-03 22:01:20	Map changed: 0=>170
+2023-02-03 22:01:20	GameServer(1) accept account(pgaming), Map(170)
+2023-02-03 22:01:20	set status: 1=>2
+2023-02-03 22:01:20	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:01:25	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-02-03 22:01:25	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(3), Role(ThuyYen), Map(170)
+2023-02-03 22:01:27	LoginToMap: Account(pgaming), Index(4), IP:192.168.1.1 : 49788
+2023-02-03 22:01:35	set gameServer: -1=>1
+2023-02-03 22:01:35	set role name: =>VooDang2
+2023-02-03 22:01:35	Map changed: 0=>100
+2023-02-03 22:01:35	GameServer(1) accept account(pgaming), Map(100)
+2023-02-03 22:01:35	set status: 1=>2
+2023-02-03 22:01:35	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:02:00	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-02-03 22:02:00	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(4), Role(VooDang2), Map(100)
+2023-02-03 22:02:03	LoginToMap: Account(pgaming), Index(5), IP:192.168.1.1 : 49790
+2023-02-03 22:02:07	set gameServer: -1=>1
+2023-02-03 22:02:07	set role name: =>VooDang2
+2023-02-03 22:02:07	Map changed: 0=>100
+2023-02-03 22:02:07	GameServer(1) accept account(pgaming), Map(100)
+2023-02-03 22:02:07	set status: 1=>2
+2023-02-03 22:02:07	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:02:43	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-02-03 22:02:43	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(5), Role(VooDang2), Map(100)
+2023-02-03 22:02:51	LoginToMap: Account(pgaming), Index(6), IP:192.168.1.1 : 49795
+2023-02-03 22:02:53	set gameServer: -1=>1
+2023-02-03 22:02:53	set role name: =>VoDang
+2023-02-03 22:02:53	Map changed: 0=>20
+2023-02-03 22:02:53	GameServer(1) accept account(pgaming), Map(20)
+2023-02-03 22:02:53	set status: 1=>2
+2023-02-03 22:02:53	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:05:32	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(2min)
+2023-02-03 22:05:32	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(6), Role(VoDang), Map(20)
+2023-02-03 22:05:37	LoginToMap: Account(pgaming), Index(7), IP:192.168.1.1 : 49798
+2023-02-03 22:05:37	set gameServer: -1=>1
+2023-02-03 22:05:37	set role name: =>VoDang
+2023-02-03 22:05:37	Map changed: 0=>154
+2023-02-03 22:05:37	GameServer(1) accept account(pgaming), Map(154)
+2023-02-03 22:05:37	set status: 1=>2
+2023-02-03 22:05:37	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:09:15	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(3min)
+2023-02-03 22:09:15	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(7), Role(VoDang), Map(154)
+2023-02-03 22:09:20	LoginToMap: Account(pgaming), Index(8), IP:192.168.1.1 : 49800
+2023-02-03 22:09:20	set gameServer: -1=>1
+2023-02-03 22:09:20	set role name: =>VoDang
+2023-02-03 22:09:20	Map changed: 0=>161
+2023-02-03 22:09:20	GameServer(1) accept account(pgaming), Map(161)
+2023-02-03 22:09:20	set status: 1=>2
+2023-02-03 22:09:20	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:11:12	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(1min)
+2023-02-03 22:11:12	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(8), Role(VoDang), Map(161)
+2023-02-03 22:11:19	LoginToMap: Account(pgaming), Index(9), IP:192.168.1.1 : 49805
+2023-02-03 22:11:39	Unlock pgaming(VooDang2): 1
+2023-02-03 22:11:39	LogoutFromMap: Account(pgaming), GameServer(-1), Status(1), PlayrIndex(9), Role(), Map(0)
+2023-02-03 22:11:41	LoginToMap: Account(pgaming), Index(10), IP:192.168.1.1 : 49806
+2023-02-03 22:11:58	set gameServer: -1=>1
+2023-02-03 22:11:58	set role name: =>HoaSon
+2023-02-03 22:11:58	Map changed: 0=>101
+2023-02-03 22:11:58	GameServer(1) accept account(pgaming), Map(101)
+2023-02-03 22:11:58	set status: 1=>2
+2023-02-03 22:11:58	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:18:35	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(6min)
+2023-02-03 22:18:35	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(10), Role(HoaSon), Map(101)
+2023-02-03 22:18:40	LoginToMap: Account(pgaming), Index(11), IP:192.168.1.1 : 49808
+2023-02-03 22:18:49	Unlock pgaming(VoDang): 1
+2023-02-03 22:18:49	LogoutFromMap: Account(pgaming), GameServer(-1), Status(1), PlayrIndex(11), Role(), Map(0)
+2023-02-03 22:18:51	LoginToMap: Account(pgaming), Index(12), IP:192.168.1.1 : 49809
+2023-02-03 22:19:57	set gameServer: -1=>1
+2023-02-03 22:19:57	set role name: =>VòHånPh¸i
+2023-02-03 22:19:57	Map changed: 0=>53
+2023-02-03 22:19:57	GameServer(1) accept account(pgaming), Map(53)
+2023-02-03 22:19:57	set status: 1=>2
+2023-02-03 22:19:57	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:28:40	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(9min)
+2023-02-03 22:28:40	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(12), Role(VòHånPh¸i), Map(53)
+2023-02-03 22:28:43	LoginToMap: Account(pgaming), Index(13), IP:192.168.1.1 : 49811
+2023-02-03 22:28:45	set gameServer: -1=>1
+2023-02-03 22:28:45	set role name: =>HoaSon
+2023-02-03 22:28:45	Map changed: 0=>987
+2023-02-03 22:28:45	GameServer(1) accept account(pgaming), Map(987)
+2023-02-03 22:28:45	set status: 1=>2
+2023-02-03 22:28:45	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:30:40	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(1min)
+2023-02-03 22:30:40	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(13), Role(HoaSon), Map(987)
+2023-02-03 22:30:45	LoginToMap: Account(pgaming), Index(14), IP:192.168.1.1 : 49817
+2023-02-03 22:30:46	set gameServer: -1=>1
+2023-02-03 22:30:46	set role name: =>HoaSon
+2023-02-03 22:30:46	Map changed: 0=>987
+2023-02-03 22:30:47	GameServer(1) accept account(pgaming), Map(987)
+2023-02-03 22:30:47	set status: 1=>2
+2023-02-03 22:30:47	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:36:09	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(5min)
+2023-02-03 22:36:09	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(14), Role(HoaSon), Map(987)
+2023-02-03 22:36:15	LoginToMap: Account(pgaming), Index(15), IP:192.168.1.1 : 49909
+2023-02-03 22:36:19	set gameServer: -1=>1
+2023-02-03 22:36:19	set role name: =>VòHånPh¸i
+2023-02-03 22:36:19	Map changed: 0=>99
+2023-02-03 22:36:19	GameServer(1) accept account(pgaming), Map(99)
+2023-02-03 22:36:19	set status: 1=>2
+2023-02-03 22:36:19	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:36:46	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-02-03 22:36:46	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(15), Role(VòHånPh¸i), Map(99)
+2023-02-03 22:36:50	LoginToMap: Account(pgaming), Index(16), IP:192.168.1.1 : 49913
+2023-02-03 22:36:57	Unlock pgaming(VòHånPh¸i): 1
+2023-02-03 22:36:57	LogoutFromMap: Account(pgaming), GameServer(-1), Status(1), PlayrIndex(16), Role(), Map(0)
+2023-02-03 22:36:58	LoginToMap: Account(pgaming), Index(17), IP:192.168.1.1 : 49914
+2023-02-03 22:37:22	set gameServer: -1=>1
+2023-02-03 22:37:22	set role name: =>ThóyYªn
+2023-02-03 22:37:22	Map changed: 0=>20
+2023-02-03 22:37:22	GameServer(1) accept account(pgaming), Map(20)
+2023-02-03 22:37:22	set status: 1=>2
+2023-02-03 22:37:22	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:37:31	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-02-03 22:37:31	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(17), Role(ThóyYªn), Map(20)
+2023-02-03 22:37:37	LoginToMap: Account(pgaming), Index(18), IP:192.168.1.1 : 49921
+2023-02-03 22:37:37	set gameServer: -1=>1
+2023-02-03 22:37:37	set role name: =>ThóyYªn
+2023-02-03 22:37:37	Map changed: 0=>20
+2023-02-03 22:37:37	GameServer(1) accept account(pgaming), Map(20)
+2023-02-03 22:37:37	set status: 1=>2
+2023-02-03 22:37:37	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:37:58	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-02-03 22:37:58	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(18), Role(ThóyYªn), Map(20)
+2023-02-03 22:38:05	LoginToMap: Account(pgaming), Index(19), IP:192.168.1.1 : 49923
+2023-02-03 22:38:05	set gameServer: -1=>1
+2023-02-03 22:38:05	set role name: =>ThóyYªn
+2023-02-03 22:38:05	Map changed: 0=>20
+2023-02-03 22:38:05	GameServer(1) accept account(pgaming), Map(20)
+2023-02-03 22:38:05	set status: 1=>2
+2023-02-03 22:38:05	GameServer(1) notify account(pgaming) enter gameworld
+2023-02-03 22:53:28	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(15min)
+2023-02-03 22:53:28	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(19), Role(ThóyYªn), Map(20)
+2023-02-03 22:53:34	LoginToMap: Account(pgaming2), Index(20), IP:192.168.1.1 : 49950
+2023-02-03 22:53:35	set gameServer: -1=>1
+2023-02-03 22:53:35	set role name: =>HeMocTest
+2023-02-03 22:53:35	Map changed: 0=>176
+2023-02-03 22:53:35	GameServer(1) accept account(pgaming2), Map(176)
+2023-02-03 22:53:35	set status: 1=>2
+2023-02-03 22:53:36	GameServer(1) notify account(pgaming2) enter gameworld
+2023-02-03 22:53:38	GameSever(1) notify account(pgaming2) leave gameworld: CmdType(0x0), Status(2), GameServer(1

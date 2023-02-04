@@ -1,0 +1,63 @@
+2023-01-24 19:14:24	GameServer[0] create: 127.0.0.1 : 52627
+2023-01-24 19:15:50	GameServer[1] create: 127.0.0.1 : 36728
+2023-01-25 09:49:59	GameServer[0] create: 127.0.0.1 : 58514
+2023-01-25 09:51:24	GameServer[1] create: 127.0.0.1 : 44074
+2023-01-25 09:51:49	Gameserver(1) update map ok
+2023-01-25 22:37:25	Gameserver(1) update map ok
+2023-01-25 22:38:44	LoginToMap: Account(pgaming3), Index(0), IP:192.168.1.1 : 49745
+2023-01-25 22:38:49	set gameServer: -1=>1
+2023-01-25 22:38:49	set role name: =>KûNiÖm§åTÝm
+2023-01-25 22:38:49	Map changed: 0=>342
+2023-01-25 22:38:49	GameServer(1) accept account(pgaming3), Map(342)
+2023-01-25 22:38:49	set status: 1=>2
+2023-01-25 22:38:50	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-25 22:40:40	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(1min)
+2023-01-25 22:40:40	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(0), Role(KûNiÖm§åTÝm), Map(342)
+2023-01-25 22:40:42	LoginToMap: Account(pgaming3), Index(1), IP:192.168.1.1 : 49747
+2023-01-25 22:40:44	set gameServer: -1=>1
+2023-01-25 22:40:44	set role name: =>HoµngKimKûNiÖm
+2023-01-25 22:40:44	Map changed: 0=>176
+2023-01-25 22:40:44	GameServer(1) accept account(pgaming3), Map(176)
+2023-01-25 22:40:44	set status: 1=>2
+2023-01-25 22:40:44	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-25 22:40:52	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-01-25 22:40:52	LogoutFromMap: Account(pgaming3), GameServer(1), Status(2), PlayrIndex(1), Role(HoµngKimKûNiÖm), Map(176)
+2023-01-25 22:40:58	LoginToMap: Account(pgaming), Index(2), IP:192.168.1.1 : 49749
+2023-01-25 22:41:14	set gameServer: -1=>1
+2023-01-25 22:41:14	set role name: =>VooDang2
+2023-01-25 22:41:14	Map changed: 0=>100
+2023-01-25 22:41:14	GameServer(1) accept account(pgaming), Map(100)
+2023-01-25 22:41:14	set status: 1=>2
+2023-01-25 22:41:15	GameServer(1) notify account(pgaming) enter gameworld
+2023-01-25 22:42:51	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(1min)
+2023-01-25 22:42:51	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(2), Role(VooDang2), Map(100)
+2023-01-25 22:43:03	LoginToMap: Account(pgaming), Index(3), IP:192.168.1.1 : 49753
+2023-01-25 22:43:05	set gameServer: -1=>1
+2023-01-25 22:43:05	set role name: =>VooDang2
+2023-01-25 22:43:05	Map changed: 0=>100
+2023-01-25 22:43:05	GameServer(1) accept account(pgaming), Map(100)
+2023-01-25 22:43:05	set status: 1=>2
+2023-01-25 22:43:06	GameServer(1) notify account(pgaming) enter gameworld
+2023-01-25 22:43:26	GameSever(1) notify account(pgaming) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(0min)
+2023-01-25 22:43:26	LogoutFromMap: Account(pgaming), GameServer(1), Status(2), PlayrIndex(3), Role(VooDang2), Map(100)
+2023-01-25 22:43:33	LoginToMap: Account(pgaming3), Index(4), IP:192.168.1.1 : 49758
+2023-01-25 22:43:35	Unlock pgaming3(null): 1
+2023-01-25 22:43:35	LogoutFromMap: Account(pgaming3), GameServer(-1), Status(1), PlayrIndex(4), Role(), Map(0)
+2023-01-25 22:43:38	LoginToMap: Account(pgaming2), Index(5), IP:192.168.1.1 : 49759
+2023-01-25 22:43:40	set gameServer: -1=>1
+2023-01-25 22:43:40	set role name: =>ThienVuongBang
+2023-01-25 22:43:40	Map changed: 0=>1
+2023-01-25 22:43:40	GameServer(1) accept account(pgaming2), Map(1)
+2023-01-25 22:43:40	set status: 1=>2
+2023-01-25 22:43:40	GameServer(1) notify account(pgaming2) enter gameworld
+2023-01-25 22:49:05	GameSever(1) notify account(pgaming2) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(5min)
+2023-01-25 22:49:05	LogoutFromMap: Account(pgaming2), GameServer(1), Status(2), PlayrIndex(5), Role(ThienVuongBang), Map(1)
+2023-01-25 22:49:10	LoginToMap: Account(pgaming3), Index(6), IP:192.168.1.1 : 49769
+2023-01-25 22:49:12	set gameServer: -1=>1
+2023-01-25 22:49:12	set role name: =>HoµngKimKûNiÖm
+2023-01-25 22:49:12	Map changed: 0=>176
+2023-01-25 22:49:12	GameServer(1) accept account(pgaming3), Map(176)
+2023-01-25 22:49:12	set status: 1=>2
+2023-01-25 22:49:12	GameServer(1) notify account(pgaming3) enter gameworld
+2023-01-25 23:37:59	GameSever(1) notify account(pgaming3) leave gameworld: CmdType(0x0), Status(2), GameServer(1), LivingTime(48min)
+2023-01-25 23:37:59	LogoutFro

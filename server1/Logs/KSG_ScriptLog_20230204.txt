@@ -1,0 +1,303 @@
+2023-02-04 09:49:49	[1970-01-01 07:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-02-04 09:50:22	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 09:50:57	390204-09:50: B¾t ®Çu treo m¸y!
+2023-02-04 10:00:55	10:00,566,95,0,11,3346,4797,Cæ B¸ch
+2023-02-04 10:00:55	10:00,740,95,0,176,1162,2781,HuyÒn Gi¸c §¹i S­
+2023-02-04 10:00:55	10:00,1366,95,1,75,1614,3191,§­êng Phi YÕn
+2023-02-04 10:00:55	10:00,582,95,1,204,1527,3529,Lam Y Y
+2023-02-04 10:00:55	10:00,568,95,2,203,1792,3234,Hµ Linh Phiªu
+2023-02-04 10:00:55	10:00,744,95,2,37,1535,2902,Yªn HiÓu Tr¸i
+2023-02-04 10:00:55	10:00,583,95,3,224,1739,2857,M¹nh Th­¬ng L­¬ng
+2023-02-04 10:00:55	10:00,563,95,3,181,1616,2951,Gia LuËt TÞ Ly
+2023-02-04 10:00:55	10:00,562,95,4,321,1474,3008,§¹o Thanh Ch©n Nh©n
+2023-02-04 10:00:55	10:00,747,95,4,342,1212,2419,TuyÒn C¬ Tö
+2023-02-04 10:00:55	10:00,739,95,0,202,1618,2950,V­¬ng T¸
+2023-02-04 10:00:55	10:00,1365,95,0,336,1422,3113,HuyÒn Nan §¹i S­
+2023-02-04 10:00:55	10:00,741,95,1,75,1614,3191,§­êng BÊt NhiÔm
+2023-02-04 10:00:55	10:00,742,95,1,80,1538,3041,B¹ch Doanh Doanh
+2023-02-04 10:00:55	10:00,743,95,2,205,1585,3226,Thanh TuyÖt S­ Th¸i
+2023-02-04 10:00:55	10:00,567,95,2,203,1792,3234,Chung Linh Tó
+2023-02-04 10:00:55	10:00,745,95,3,10,1836,3082,Hµ Nh©n Ng·
+2023-02-04 10:00:55	10:00,565,95,3,336,1422,3113,§oan Méc DuÖ
+2023-02-04 10:00:55	10:00,1367,95,4,11,2966,4807,Tõ §¹i Nh¹c
+2023-02-04 10:00:55	10:00,1368,95,4,322,1938,3957,Thanh Liªn Tö
+2023-02-04 10:00:55	10:00,743,95,2,225,1603,3221,Thanh TuyÖt S­ Th¸i
+2023-02-04 10:02:57	pgaming	ThóyYªn	Më ra vËt phÈm mua ë Kú Tr©n C¸c	180	0	award	S¸t thñ gi¶n	AddItemEx(4,-1791792975,0,6,1,400,90,0,0,0,0,0,0,0,0,0)	1		1
+2023-02-04 10:02:57	pgaming	ThóyYªn	Më ra vËt phÈm mua ë Kú Tr©n C¸c	180	0	award	S¸t thñ gi¶n	AddItemEx(4,-1819216870,0,6,1,400,90,1,0,0,0,0,0,0,0,0)	1		1
+2023-02-04 10:02:57	pgaming	ThóyYªn	Më ra vËt phÈm mua ë Kú Tr©n C¸c	180	0	award	S¸t thñ gi¶n	AddItemEx(4,-767475385,0,6,1,400,90,2,0,0,0,0,0,0,0,0)	1		1
+2023-02-04 10:02:57	pgaming	ThóyYªn	Më ra vËt phÈm mua ë Kú Tr©n C¸c	180	0	award	S¸t thñ gi¶n	AddItemEx(4,910298056,0,6,1,400,90,3,0,0,0,0,0,0,0,0)	1		1
+2023-02-04 10:02:57	pgaming	ThóyYªn	Më ra vËt phÈm mua ë Kú Tr©n C¸c	180	0	award	S¸t thñ gi¶n	AddItemEx(4,-1237524627,0,6,1,400,90,4,0,0,0,0,0,0,0,0)	1		1
+2023-02-04 10:03:12	10:03	04/02/2023	binhchivn	pgaming	ThóyYªn	Thóy Yªn m«n	180		TinhNangKey	BaoDanhVuotAiMienPhi
+2023-02-04 10:03:12	10:03	04/02/2023	binhchivn	pgaming3	HoµngKimKûNiÖm	Nga My ph¸i	120		TinhNangKey	BaoDanhVuotAiMienPhi
+2023-02-04 10:03:12	10:03	04/02/2023	binhchivn	pgaming3	HoµngKimKûNiÖm	Nga My ph¸i	120		EventChienThang042011	BaoDanhVuotAi
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item L­ìi LiÒm B¹c
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item ThiÕt La H¸n
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item L­ìi LiÒm B¹c
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-04 10:06:28	20230204 100628	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-04 10:18:38	pgaming3	HoµngKimKûNiÖm	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		S« C« La lo¹i 5	AddItemEx(4,1679119115,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:18:38	pgaming3	HoµngKimKûNiÖm	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		L­ìi LiÒm B¹c	AddItemEx(4,-1225582308,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:18:38	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		S« C« La lo¹i 5	AddItemEx(4,-1348749167,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:18:38	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		L­ìi LiÒm B¹c	AddItemEx(4,-2125291654,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:19:26	pgaming3	HoµngKimKûNiÖm	PhÇn th­ëng Kim M· LÖnh-1	180	0	award	<color=pink>Kim M· LÖnh	AddItemEx(4,1302031527,0,6,1,4090,1,1,0,0,0,0,0,0,0,0)	1		480
+2023-02-04 10:19:26	pgaming	ThóyYªn	PhÇn th­ëng Kim M· LÖnh-1	180	0	award	<color=pink>Kim M· LÖnh	AddItemEx(4,1389686952,0,6,1,4090,1,0,0,0,0,0,0,0,0,0)	1		480
+2023-02-04 10:22:18	pgaming3	HoµngKimKûNiÖm	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		S« C« La lo¹i 5	AddItemEx(4,-665282526,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:22:18	pgaming3	HoµngKimKûNiÖm	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		L­ìi LiÒm B¹c	AddItemEx(4,1975021167,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:22:18	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		S« C« La lo¹i 5	AddItemEx(4,-769594736,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:22:18	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0		L­ìi LiÒm B¹c	AddItemEx(4,1283508821,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:22:18	pgaming3	HoµngKimKûNiÖm	Events	180	0	VuotAi28	Hµnh HiÖp LÖnh	AddItemEx(4,-1703367474,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:22:18	pgaming	ThóyYªn	Events	180	0	VuotAi28	Hµnh HiÖp LÖnh	AddItemEx(4,1704034123,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	20		480
+2023-02-04 10:22:18	pgaming3	HoµngKimKûNiÖm	Trong ngµy hoµn thµnh 1 lÇn v­ît ¶i ®Çu tiªn	180	0		Hµnh HiÖp LÖnh	AddItemEx(4,880623196,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	2		480
+2023-02-04 10:22:18	pgaming	ThóyYªn	Trong ngµy hoµn thµnh 1 lÇn v­ît ¶i ®Çu tiªn	180	0		Hµnh HiÖp LÖnh	AddItemEx(4,-322839855,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	2		480
+2023-02-04 10:22:18	gb_Task Build Fail: challengeoftime_ranklistszMember
+2023-02-04 10:22:18	gb_Task Build Fail: challengeoftime_ranklistszMember
+2023-02-04 10:22:18	gb_Task Build Fail: challengeoftime_ranklistszMember
+2023-02-04 10:22:18	gb_Task Build Fail: challengeoftime_ranklistszMember
+2023-02-04 10:22:18	gb_Task Build Fail: challengeoftime_ranklistszMember
+2023-02-04 10:22:18	gb_Task Build Fail: challengeoftime_ranklistszMember
+2023-02-04 10:22:18	gb_Task Build Fail: challengeoftime_ranklistszMember
+2023-02-04 10:22:54	20230204 102254	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Hµnh HiÖp LÖnh
+2023-02-04 10:22:54	20230204 102254	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item S« C« La lo¹i 5
+2023-02-04 10:22:54	20230204 102254	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim M· LÖnh-1
+2023-02-04 10:22:54	20230204 102254	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item L­ìi LiÒm B¹c
+2023-02-04 10:22:54	20230204 102254	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item S« C« La lo¹i 5
+2023-02-04 10:34:46	20230204 103446	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh thiªn th¹ch
+2023-02-04 10:34:46	20230204 103446	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh thiªn th¹ch
+2023-02-04 10:34:46	20230204 103446	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh thiªn th¹ch
+2023-02-04 10:36:55	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 10:36:55	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang B¨ng Tinh Th¹ch H¹ng Liªn<color> thµnh c«ng!
+2023-02-04 10:36:55	  2023-02-04 10:36:55	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:36:55	  2023-02-04 10:36:55	{4,3066976707,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481815,PLA_LVL:nil
+2023-02-04 10:37:28	  2023-02-04 10:37:28	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:37:28	  2023-02-04 10:37:28	{4,3066976707,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481815,PLA_LVL:nil
+2023-02-04 10:37:36	  2023-02-04 10:37:36	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:37:36	  2023-02-04 10:37:36	{4,3066976707,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481815,PLA_LVL:nil
+2023-02-04 10:37:40	  2023-02-04 10:37:40	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:37:40	  2023-02-04 10:37:40	{4,3066976707,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481815,PLA_LVL:nil
+2023-02-04 10:37:46	  2023-02-04 10:37:46	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:37:46	  2023-02-04 10:37:46	{4,3066976707,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481815,PLA_LVL:nil
+2023-02-04 10:37:52	  2023-02-04 10:37:52	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:37:52	  2023-02-04 10:37:52	{4,3066976707,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481815,PLA_LVL:nil
+2023-02-04 10:37:52	[Ph©n m¶nh Hoµng Kim] 2023-02-04 10:37:52	pgaming3	HoµngKimKûNiÖm	An Bang B¨ng Tinh Th¹ch H¹ng Liªn	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 10:37:52	  2023-02-04 10:37:52	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:37:52	  2023-02-04 10:37:52	{4,3066976707,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481815,PLA_LVL:nil
+2023-02-04 10:38:03	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 10:38:03	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang B¨ng Tinh Th¹ch H¹ng Liªn<color> thµnh c«ng!
+2023-02-04 10:38:03	  2023-02-04 10:38:03	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:38:03	  2023-02-04 10:38:03	{4,4254466202,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481883,PLA_LVL:nil
+2023-02-04 10:38:12	  2023-02-04 10:38:12	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:38:12	  2023-02-04 10:38:12	{4,4254466202,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481883,PLA_LVL:nil
+2023-02-04 10:38:23	  2023-02-04 10:38:23	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:38:23	  2023-02-04 10:38:23	{4,4254466202,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481883,PLA_LVL:nil
+2023-02-04 10:38:23	[Ph©n m¶nh Hoµng Kim] 2023-02-04 10:38:23	pgaming3	HoµngKimKûNiÖm	An Bang B¨ng Tinh Th¹ch H¹ng Liªn	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 10:38:23	  2023-02-04 10:38:23	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:38:23	  2023-02-04 10:38:23	{4,4254466202,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481883,PLA_LVL:nil
+2023-02-04 10:38:34	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 10:38:34	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang B¨ng Tinh Th¹ch H¹ng Liªn<color> thµnh c«ng!
+2023-02-04 10:38:34	  2023-02-04 10:38:34	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 10:38:34	  2023-02-04 10:38:34	{4,2647004799,1,0,163,0,10,4,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn,GET_TIME:1675481914,PLA_LVL:nil
+2023-02-04 10:42:23	20230204 104223	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Bao nguyªn liÖu An Bang hoµn h¶o
+2023-02-04 10:46:32	20230204 104632	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 10:46:32	20230204 104632	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 10:46:32	20230204 104632	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 10:46:32	20230204 104632	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 10:47:08	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  10 giê 47 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:210 NhiÖm vô ngÉu nhiªn:-1647962497
+2023-02-04 10:48:19	20230204 104819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh Thiªn th¹ch
+2023-02-04 10:48:19	20230204 104819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item B¨ng th¹ch kÕt tinh
+2023-02-04 10:48:19	20230204 104819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M· N·o
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:49:30	20230204 104930	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 10:50:25	[stat_error]createstatitem fail: stat_goodssale ItemName: [4-239-1-1]Tö Thñy Tinh
+2023-02-04 10:50:25	[stat_error]createstatitem fail: stat_goodssale ItemName: [4-239-1-1]Tö Thñy Tinh
+2023-02-04 10:50:55	Khu vùc S¬ cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:384.Thêi gian:10:50
+2023-02-04 10:50:55	Battle Start :1rule11Issue1
+2023-02-04 10:50:55	Khu vùc Trung cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:385.Thêi gian:10:50
+2023-02-04 10:50:55	Battle Start :1rule11Issue1
+2023-02-04 10:50:55	Khu vùc Cao cÊp Tèng Kim - ph­¬ng thøc ®o¹t cê cè ®Þnh - b¾t ®Çu b¸o danh. ID khu vùc lµ:386.Thêi gian:10:50
+2023-02-04 10:50:55	Battle Start :1rule11Issue1
+2023-02-04 10:54:52	pgaming3	HoµngKimKûNiÖm	[liguan]get_free_item_HuyÒn Tinh CÊp 9	180	0	award	HuyÒn Tinh CÊp 9	AddItemEx(4,652023555,0,6,1,147,9,0,0,60,0,0,0,0,0,0)	30		176
+2023-02-04 11:00:55	Khu vùc S¬ cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:384.Thêi gian khai chiÕn:11:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2023-02-04 11:00:55	battle is entering fight state. now member count=0:0
+2023-02-04 11:00:55	Khu vùc Trung cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:385.Thêi gian khai chiÕn:11:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2023-02-04 11:00:55	battle is entering fight state. now member count=0:0
+2023-02-04 11:00:55	Khu vùc Cao cÊp Tèng Kim - Ph­¬ng thøc ®o¹t cê cè ®Þnh- ®· khai chiÕn. ID khu vùc lµ:386.Thêi gian khai chiÕn:11:00Tû lÖ qu©n sè hiÖn giê lµ 0:0
+2023-02-04 11:00:55	battle is entering fight state. now member count=0:0
+2023-02-04 11:01:24	20230204 110124	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh thiªn th¹ch
+2023-02-04 11:01:24	20230204 110124	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh thiªn th¹ch
+2023-02-04 11:01:24	20230204 110124	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh thiªn th¹ch
+2023-02-04 11:04:11	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:04:11	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:04:11	  2023-02-04 11:04:11	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:04:11	  2023-02-04 11:04:11	{4,3274509571,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483451,PLA_LVL:nil
+2023-02-04 11:04:34	  2023-02-04 11:04:34	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:04:34	  2023-02-04 11:04:34	{4,3274509571,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483451,PLA_LVL:nil
+2023-02-04 11:04:39	  2023-02-04 11:04:39	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:04:39	  2023-02-04 11:04:39	{4,3274509571,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483451,PLA_LVL:nil
+2023-02-04 11:04:39	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:04:39	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:04:39	  2023-02-04 11:04:39	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:04:39	  2023-02-04 11:04:39	{4,3274509571,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483451,PLA_LVL:nil
+2023-02-04 11:04:54	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:04:54	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:04:54	  2023-02-04 11:04:54	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:04:54	  2023-02-04 11:04:54	{4,2756781209,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483494,PLA_LVL:nil
+2023-02-04 11:05:11	  2023-02-04 11:05:11	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:05:11	  2023-02-04 11:05:11	{4,2756781209,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483494,PLA_LVL:nil
+2023-02-04 11:05:11	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:05:11	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:05:11	  2023-02-04 11:05:11	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:05:11	  2023-02-04 11:05:11	{4,2756781209,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483494,PLA_LVL:nil
+2023-02-04 11:05:22	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:05:22	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:05:22	  2023-02-04 11:05:22	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:05:22	  2023-02-04 11:05:22	{4,2316129182,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483522,PLA_LVL:nil
+2023-02-04 11:05:30	  2023-02-04 11:05:30	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:05:30	  2023-02-04 11:05:30	{4,2316129182,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483522,PLA_LVL:nil
+2023-02-04 11:05:30	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:05:30	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:05:30	  2023-02-04 11:05:30	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:05:30	  2023-02-04 11:05:30	{4,2316129182,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483522,PLA_LVL:nil
+2023-02-04 11:05:39	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:05:39	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:05:39	  2023-02-04 11:05:39	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:05:39	  2023-02-04 11:05:39	{4,986918862,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483539,PLA_LVL:nil
+2023-02-04 11:06:09	  2023-02-04 11:06:09	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:09	  2023-02-04 11:06:09	{4,986918862,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483539,PLA_LVL:nil
+2023-02-04 11:06:09	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:06:09	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:06:09	  2023-02-04 11:06:09	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:09	  2023-02-04 11:06:09	{4,986918862,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483539,PLA_LVL:nil
+2023-02-04 11:06:21	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:06:21	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:06:21	  2023-02-04 11:06:21	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:21	  2023-02-04 11:06:21	{4,944497464,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483581,PLA_LVL:nil
+2023-02-04 11:06:31	  2023-02-04 11:06:31	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:31	  2023-02-04 11:06:31	{4,944497464,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483581,PLA_LVL:nil
+2023-02-04 11:06:31	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:06:31	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:06:31	  2023-02-04 11:06:31	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:31	  2023-02-04 11:06:31	{4,944497464,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483581,PLA_LVL:nil
+2023-02-04 11:06:40	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:06:40	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:06:40	  2023-02-04 11:06:40	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:40	  2023-02-04 11:06:40	{4,869896104,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483600,PLA_LVL:nil
+2023-02-04 11:06:49	  2023-02-04 11:06:49	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:49	  2023-02-04 11:06:49	{4,869896104,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483600,PLA_LVL:nil
+2023-02-04 11:06:49	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:06:49	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:06:49	  2023-02-04 11:06:49	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:06:49	  2023-02-04 11:06:49	{4,869896104,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483600,PLA_LVL:nil
+2023-02-04 11:07:00	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:07:00	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:07:00	  2023-02-04 11:07:00	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:07:00	  2023-02-04 11:07:00	{4,1707034473,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483620,PLA_LVL:nil
+2023-02-04 11:07:08	  2023-02-04 11:07:08	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:07:08	  2023-02-04 11:07:08	{4,1707034473,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483620,PLA_LVL:nil
+2023-02-04 11:07:08	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:07:08	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:07:08	  2023-02-04 11:07:08	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:07:08	  2023-02-04 11:07:08	{4,1707034473,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483620,PLA_LVL:nil
+2023-02-04 11:07:17	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:07:17	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:07:17	  2023-02-04 11:07:17	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:07:17	  2023-02-04 11:07:17	{4,2911648167,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483637,PLA_LVL:nil
+2023-02-04 11:07:58	  2023-02-04 11:07:58	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:07:58	  2023-02-04 11:07:58	{4,2911648167,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483637,PLA_LVL:nil
+2023-02-04 11:07:58	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:07:58	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:07:58	  2023-02-04 11:07:58	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:07:58	  2023-02-04 11:07:58	{4,2911648167,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483637,PLA_LVL:nil
+2023-02-04 11:08:11	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:08:11	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:08:11	  2023-02-04 11:08:11	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:08:11	  2023-02-04 11:08:11	{4,3185938395,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483691,PLA_LVL:nil
+2023-02-04 11:08:27	  2023-02-04 11:08:27	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:08:27	  2023-02-04 11:08:27	{4,3185938395,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483691,PLA_LVL:nil
+2023-02-04 11:08:27	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:08:27	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:08:27	  2023-02-04 11:08:27	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:08:27	  2023-02-04 11:08:27	{4,3185938395,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483691,PLA_LVL:nil
+2023-02-04 11:08:37	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:08:37	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:08:37	  2023-02-04 11:08:37	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:08:37	  2023-02-04 11:08:37	{4,1833980615,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483717,PLA_LVL:nil
+2023-02-04 11:08:50	  2023-02-04 11:08:50	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:08:50	  2023-02-04 11:08:50	{4,1833980615,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483717,PLA_LVL:nil
+2023-02-04 11:08:50	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:08:50	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:08:50	  2023-02-04 11:08:50	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:08:50	  2023-02-04 11:08:50	{4,1833980615,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483717,PLA_LVL:nil
+2023-02-04 11:09:01	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:09:01	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:09:01	  2023-02-04 11:09:01	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:09:01	  2023-02-04 11:09:01	{4,1985540659,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483741,PLA_LVL:nil
+2023-02-04 11:09:08	  2023-02-04 11:09:08	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:09:08	  2023-02-04 11:09:08	{4,1985540659,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483741,PLA_LVL:nil
+2023-02-04 11:09:08	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:09:08	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:09:08	  2023-02-04 11:09:08	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:09:08	  2023-02-04 11:09:08	{4,1985540659,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483741,PLA_LVL:nil
+2023-02-04 11:09:18	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:09:18	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:09:18	  2023-02-04 11:09:18	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:09:18	  2023-02-04 11:09:18	{4,3912174382,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483758,PLA_LVL:nil
+2023-02-04 11:09:26	  2023-02-04 11:09:26	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:09:26	  2023-02-04 11:09:26	{4,3912174382,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483758,PLA_LVL:nil
+2023-02-04 11:09:26	[Ph©n m¶nh Hoµng Kim] 2023-02-04 11:09:26	pgaming3	HoµngKimKûNiÖm	An Bang §iÒn Hoµng Th¹ch Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 6 m¶nh:
+2023-02-04 11:09:26	  2023-02-04 11:09:26	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:09:26	  2023-02-04 11:09:26	{4,3912174382,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483758,PLA_LVL:nil
+2023-02-04 11:09:38	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-02-04 11:09:38	pgaming3	HoµngKimKûNiÖm	Hîp thµnh <color=yellow>An Bang §iÒn Hoµng Th¹ch Ngäc Béi<color> thµnh c«ng!
+2023-02-04 11:09:38	  2023-02-04 11:09:38	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:HoµngKimKûNiÖm	ACCOUNT:pgaming3
+2023-02-04 11:09:38	  2023-02-04 11:09:38	{4,2027487858,1,0,165,1,8,1,0,0,0,0,0,0,0}: §å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi,GET_TIME:1675483778,PLA_LVL:nil
+2023-02-04 11:11:04	pgaming3	HoµngKimKûNiÖm	[liguan]get_free_item_HuyÒn Tinh CÊp 8	180	0	award	HuyÒn Tinh CÊp 8	AddItemEx(4,-1472968829,0,6,1,147,8,0,0,60,0,0,0,0,0,0)	1		176
+2023-02-04 11:11:15	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 11 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:212 NhiÖm vô ngÉu nhiªn:2027487858
+2023-02-04 11:12:01	20230204 111201	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 11:12:01	20230204 111201	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 11:12:01	20230204 111201	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Kim Tª
+2023-02-04 11:13:22	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 13 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]Kh«i phôc nguyªn tr¹ng Trang bÞ An bang thµnh c«ng:An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:13:43	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 13 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]Kh«i phôc nguyªn tr¹ng Trang bÞ An bang thµnh c«ng:An Bang Cóc Hoa Th¹ch ChØ hoµn
+2023-02-04 11:16:13	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 16 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:211 NhiÖm vô ngÉu nhiªn:-1065398160
+2023-02-04 11:17:19	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 17 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]Kh«i phôc nguyªn tr¹ng Trang bÞ An bang thµnh c«ng:An Bang Cóc Hoa Th¹ch ChØ hoµn
+2023-02-04 11:17:45	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 17 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:211 NhiÖm vô ngÉu nhiªn:-257807682
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item B¨ng th¹ch kÕt tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Cóc Hoa Th¹ch
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Lam Thñy Tinh
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item Cóc Hoa Th¹ch
+2023-02-04 11:18:19	20230204 111819	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item B¨ng th¹ch kÕt tinh
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:20:00	20230204 112000	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item ThÇn bÝ kho¸ng th¹ch
+2023-02-04 11:21:05	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 21 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:210 NhiÖm vô ngÉu nhiªn:492664675
+2023-02-04 11:21:15	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 21 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]Kh«i phôc nguyªn tr¹ng Trang bÞ An bang thµnh c«ng:An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:21:42	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 21 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:210 NhiÖm vô ngÉu nhiªn:1595250491
+2023-02-04 11:21:53	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 21 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]Kh«i phôc nguyªn tr¹ng Trang bÞ An bang thµnh c«ng:An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:22:10	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 22 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:210 NhiÖm vô ngÉu nhiªn:1232513961
+2023-02-04 11:23:04	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 23 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]Kh«i phôc nguyªn tr¹ng Trang bÞ An bang thµnh c«ng:An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:23:28	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 23 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:210 NhiÖm vô ngÉu nhiªn:-64896887
+2023-02-04 11:23:41	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 23 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]Kh«i phôc nguyªn tr¹ng Trang bÞ An bang thµnh c«ng:An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:24:02	 [HÖ thèng nhiÖm vô] [23 n¨m 02 th¸ng 04 ngµy  11 giê 24 phót] [mËt m·:pgaming3] [nh©n vËt:HoµngKimKûNiÖm]ChÕ t¹o thµnh c«ng 1 mãn An bang hoµn mü, m· sè:210 NhiÖm vô ngÉu nhiªn:-495555209
+2023-02-04 11:24:35	20230204 112435	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item M¶nh Thiªn th¹ch
+2023-02-04 11:25:32	[20230204 112532]	Tµi kho¶n: pgaming3 Tªn ng­êi ch¬i: HoµngKimKûNiÖm ®· rót 1 KNB, sè l­îng cßn l¹i lµ 0
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang B¨ng Tinh Th¹ch H¹ng Liªn
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang Cóc Hoa Th¹ch ChØ Hoµn
+2023-02-04 11:27:05	20230204 112705	 GM Hñy Item pgaming3	HoµngKimKûNiÖm	 Huû item [Hoµn Mü] An Bang B¨ng Tinh Th¹ch H¹ng Liªn

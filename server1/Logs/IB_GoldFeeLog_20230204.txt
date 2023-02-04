@@ -1,0 +1,127 @@
+  c             	[2023-02-04 10:02:56]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThóyYªn	[C]	1	[COUNT]	1	[BUY]	[6-1-2339-90]S¸t Thñ Gi¶n lÔ hép	[PLACE]	142
+  c             	[2023-02-04 10:37:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 10:37:15]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 10:37:16]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 10:37:16]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 10:37:16]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 10:37:16]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 10:37:19]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:19]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:37:20]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 10:38:58]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 10:38:58]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 10:38:58]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 10:38:58]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 10:38:58]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 10:48:46]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:04:21]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:04:21]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:04:21]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:04:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:04:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:04:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:05:49]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:05:49]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:05:49]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:05:49]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:05:52]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:05:52]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:05:52]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:05:52]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:30]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim Tª	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:07:35]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:15:18]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:00]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:17:01]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-238-1-1]Lam Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:19:36]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:36]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:36]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:36]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:19:37]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:07]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:08]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:08]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:20:08]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:22:22]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]ThÇn bÝ kho¸ng th¹ch	[PLACE]	141
+  c             	[2023-02-04 11:22:25]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141
+  c             	[2023-02-04 11:22:26]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	HoµngKimKûNiÖm	[C]	2	[COUNT]	1	[BUY]	[4-239-1-1]Tö Thñy Tinh	[PLACE]	141

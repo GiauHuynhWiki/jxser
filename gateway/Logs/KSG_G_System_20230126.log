@@ -1,0 +1,11 @@
+2023-01-26 05:36:32	Node[0] connect: Ip(127.0.0.1 : 45943), Identity(0)
+2023-01-26 05:36:32	ClientConnectCreate:[0]127.0.0.1 : 45943
+2023-01-26 05:36:32	Bishop claim from Node[0]!
+2023-01-26 00:05:25	QuitSave[KûNiÖm§åTÝm] OK: Leave Node[1]
+2023-01-26 00:05:25	SaveRoleData(KûNiÖm§åTÝm) OK: datalen(4336)
+2023-01-26 00:05:32	Node[1] disconnect: Ip(127.0.0.1 : 39113), Identity(1)
+2023-01-26 00:05:32	ClientConnectClose:[1]
+
+2023-01-26 00:05:35	Node[0] disconnect: Ip(127.0.0.1 : 45943), Identity(0)
+2023-01-26 00:05:35	ClientConnectClose:[0]
+

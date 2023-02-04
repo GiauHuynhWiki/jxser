@@ -1,0 +1,17 @@
+[2023-02-04 10:42:18] error: attempt to index a nil value
+stack traceback:
+   1[150]:  function `main' at line 196 [string "/script/item/xinnianlibao/xinniangift.lua"]
+
+[2023-02-04 10:42:19] error: attempt to index a nil value
+stack traceback:
+   1[150]:  function `main' at line 196 [string "/script/item/xinnianlibao/xinniangift.lua"]
+
+[2023-02-04 10:42:20] error: attempt to index a nil value
+stack traceback:
+   1[150]:  function `main' at line 196 [string "/script/item/xinnianlibao/xinniangift.lua"]
+
+[2023-02-04 10:42:47] error: attempt to index a nil value
+stack traceback:
+   1[151]:  function `take_xp_equip_1' at line 40 [string "/script/misc/itemexchangevalue/ex_goldequip..."]
+   2[150]:  main of string "?" at line 1
+

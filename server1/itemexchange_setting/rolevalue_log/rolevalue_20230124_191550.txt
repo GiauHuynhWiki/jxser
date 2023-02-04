@@ -1,0 +1,58 @@
+[Enchasable]Item: (0,2,0,5,3,10),¼ÓÉúÃü×î´óÖµÉÏÏŞ=(200,0),¼Ó»ğÏµ¼¼ÄÜÉËº¦=(200,0),¼ÓÄÚÁ¦ÉÏÏŞ=(200,0),½µµÍ±ù¶³Ê±¼ä=(40,0),¼ÓÌåÁ¦ÉÏÏŞ=(200,0), unbind = 0, bind = 0
+[Normal]Item: µÄÂ¬(0,0,10,5,0,9), unbind = 0, bind = 100
+[Enchasable]Item: (0,2,0,0,2,10),¼Ó¹¥»÷ËÙ¶È=(30,0),¼Ó±ùÉËº¦=(100,0),¼ÓÉËº¦Ç¿»¯=(100,0),¼Ó¿¹»ğĞÔ=(25,0),¼ÓÉúÃü×î´óÖµÉÏÏŞ=(200,0),ÃâÒßÑ£ÔÎ×´Ì¬=(40,0), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,3,10), unbind = 0, bind = 0
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: Ä§ÊÈÖ®Á?Ñæ¹Ú?á(0,1,110,2,3,10), unbind = 0, bind = 50
+[Normal]Item: ?ÎÁúÖ®??»ÆÉ®?±(0,1,0,0,1,10), unbind = 0, bind = 50
+[Normal]Item: ?ÎÁúÖ®½?Ë¿??º?ôÂôÄ(0,1,1,0,2,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®??µØ??»Æ½ä(0,1,119,0,0,10), unbind = 0, bind = 50
+[Normal]Item: ³?î?(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: ³?î?(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: ³?î?(0,0,0,0,0,7), unbind = 0, bind = 0
+[Normal]Item: DiÖu D­¬ng Minh ¶o H¹ng Liªn(0,1,6071,1,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o Ph¸t §¸i(0,1,6072,2,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o HuyÒn ¢m Giíi(0,1,6073,0,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o Hé UyÓn(0,1,6074,1,3,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o Yªu §íi(0,1,6075,1,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o Hé Gi¸p(0,1,6076,2,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o HuyÕt NhËn(0,1,6077,1,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o Ngoa(0,1,6078,1,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o Yªu Trôy(0,1,6079,1,3,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o HuyÒn U Giíi(0,1,6080,0,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o H¹ng Liªn(0,1,6071,1,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o Ph¸t §¸i(0,1,6072,2,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Minh ¶o HuyÒn ¢m Giíi(0,1,6073,0,1,10), unbi

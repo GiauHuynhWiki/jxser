@@ -1,0 +1,16 @@
+  c             	[2023-01-24 19:23:10]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-2432-1]LÖnh bµi Vi S¬n ®¶o	[PLACE]	142
+  c             	[2023-01-24 19:35:55]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:55]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:55]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:55]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181
+  c             	[2023-01-24 19:35:56]	[SUCCESS]	[ACC]	pgaming3	[ROLE]	KûNiÖm§åTÝm	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss TriÖu Ho¸n Phï 	[PLACE]	181

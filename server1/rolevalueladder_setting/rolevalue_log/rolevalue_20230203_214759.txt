@@ -1,0 +1,349 @@
+[Normal]Item: ¼??µÖ®??Îä»Æ½?îø(0,1,21,4,0,10), unbind = 0, bind = 50
+[Normal]Item: DiÖu D­¬ng B¨ng Hµn Phi §ao(0,1,6087,1,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Thiªn Quang Tô TiÔn(0,1,6097,2,0,10), unbind = 0, bind = 50000
+[Normal]Item: MÆc Vò Tiªn L­(0,1,6262,34,5,10), unbind = 0, bind = 50000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ·ÉÔÆ(0,0,10,8,0,10), unbind = 0, bind = 100
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®ôä´äÓñÏîÈ¦(0,1,496,1,2,10), unbind = 0, bind = 100
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®°×½??â·ï½ä(0,1,495,0,0,10), unbind = 0, bind = 100
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®°×½?µñÁú½ä(0,1,493,0,3,10), unbind = 0, bind = 100
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®°×ÓñÇ¬À¤Åå(0,1,494,1,4,10), unbind = 0, bind = 100
+[Normal]Item: DiÖu D­¬ng S©m Hoang Phi Tiªu(0,1,6107,0,0,10), unbind = 0, bind = 50000
+[Enchasable]Item: (0,2,0,1,2,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,2,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,0,1,0,10),¼Ó¹¥»÷ËÙ¶È=(30,0),¼ÓÎïÀíÉËº¦=(50,0),¼ÓÉËº¦Ç¿»¯=(100,0), unbind = 0, bind = 0
+[Normal]Item: DiÖu D­¬ng Minh ¶o HuyÕt NhËn(0,1,6077,1,2,10), unbind = 0, bind = 50000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Enchasable]Item: (0,2,0,0,2,10),¼Ó¹¥»÷ËÙ¶È=(30,0),¼Ó±ùÉËº¦=(100,0),¼ÓÉËº¦Ç¿»¯=(100,0),¼Ó¿¹»ğĞÔ=(25,0),¼ÓÉúÃü×î´óÖµÉÏÏŞ=(200,0),ÃâÒßÑ£ÔÎ×´Ì¬=(40,0), unbind = 0, bind = 0
+[Normal]Item: µÄÂ¬(0,0,10,5,0,9), unbind = 0, bind = 100
+[Enchasable]Item: (0,2,0,5,3,10),¼ÓÉúÃü×î´óÖµÉÏÏŞ=(200,0),¼Ó»ğÏµ¼¼ÄÜÉËº¦=(200,0),¼ÓÄÚÁ¦ÉÏÏŞ=(200,0),½µµÍ±ù¶³Ê±¼ä=(40,0),¼ÓÌåÁ¦ÉÏÏŞ=(200,0), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,6,1,0,5), unbind = 0, bind = 0
+[Normal]Item: º£À¶±¦Ê¯½äÖ¸(0,0,3,0,4,7), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: [Íê?ÀµÄ]°²°îÖ®¼¦ÑªÊ¯½äÖ¸(0,1,212,0,3,8), unbind = 0, bind = 100
+[Normal]Item: [Íê?ÀµÄ]°²°îÖ®¾?»¨Ê¯Ö¸»·(0,1,210,0,2,8), unbind = 0, bind = 100
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ???¹ÓñÊ¨×Ó(0,0,10,5,0,10), unbind = 0, bind = 100
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,2,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,2,10), unbind = 0, bind = 0
+[Normal]Item: DiÖu D­¬ng V« Ma TriÒn Thñ(0,1,6037,6,0,10), unbind = 0, bind = 50000
+[Normal]Item: Â¥À¼°×Ê¨(0,1,4479,22,5,10), unbind = 0, bind = 30000
+[Normal]Item: °×»¢Ö®»?²ÊÏÂ½ä(0,1,2383,0,4,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²ÊÏ?Ä?(0,1,2382,0,3,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²ÊÑ¥(0,1,2381,3,1,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²ÊÔ§Ñ?µ¶(0,1,2380,5,2,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²ÊÉÀ(0,1,2379,9,0,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²ÊÑü´ø(0,1,2378,0,4,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²Ê?ä(0,1,2377,0,3,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²ÊÉÏ½ä(0,1,2376,0,1,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²Êô¢(0,1,2375,9,2,10), unbind = 0, bind = 6000
+[Normal]Item: °×»¢Ö®»?²ÊÖéÁ´(0,1,2374,0,0,10), unbind = 0, bind = 6000
+[Normal]Item: ¼°·áÖ®È?Çå·û(0,1,121,1,0,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®Î?¼«??ÓñÅå(0,1,118,1,2,10), unbind = 0, bind = 50
+[Normal]Item: Â¥À¼°×Ê¨(0,1,4479,22,5,10), unbind = 0, bind = 30000
+[Normal]Item: ¼°·áÖ®??Ë¿È?¶Î½?(0,1,122,0,4,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®??µØ??»Æ½ä(0,1,119,0,0,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®Å­À×·¨½ä(0,1,117,0,1,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®Î?Î?Êø´ø(0,1,116,15,3,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®?«¼«½£(0,1,115,0,4,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Phï(0,1,6151,1,3,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Qu¸n(0,1,6152,1,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c VÜnh Sinh ChØ Hoµn(0,1,6153,0,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Tô(0,1,6154,1,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Ph¸p §¸i(0,1,6155,1,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c §¹o Bµo(0,1,6156,1,3,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c ThÇn KiÕm(0,1,6157,0,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c L÷(0,1,6158,0,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Ngäc Béi(0,1,6159,1,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c §¹o Hµnh ChØ Hoµn(0,1,6160,0,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c §¹o Hµnh ChØ Hoµn(0,1,6160,0,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Ngäc Béi(0,1,6159,1,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c L÷(0,1,6158,0,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c ThÇn KiÕm(0,1,6157,0,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c §¹o Bµo(0,1,6156,1,3,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Ph¸p §¸i(0,1,6155,1,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Tô(0,1,6154,1,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c VÜnh Sinh ChØ Hoµn(0,1,6153,0,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Qu¸n(0,1,6152,1,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng L¨ng Nh¹c Phï(0,1,6151,1,3,10), unbind = 0, bind = 50000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÀÖ®?«¼«½£(0,1,115,0,4,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®Î?Î?Êø´ø(0,1,116,15,3,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®Å­À×·¨½ä(0,1,117,0,1,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÀÖ®??µØ??»Æ½ä(0,1,119,0,0,10), unbind = 0, bind = 50
+[Normal]Item: ¼°·áÖ®??Ë¿È?¶Î½?(0,1,122,0,4,10), unbind = 0, bind = 50
+[Normal]Item: Â¥À¼°×Ê¨(0,1,4479,22,5,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÀÖ®Î?¼«??ÓñÅå(0,1,118,1,2,10), unbind = 0, bind = 50
+[Normal]Item: ¼°·áÖ®È?Çå·û(0,1,121,1,0,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ±¼Ïü(0,0,10,6,0,10), unbind = 0, bind = 100
+[Normal]Item: ·­Ó?(0,0,10,7,0,10), unbind = 0, bind = 100
+[Normal]Item: ·ÉÔÆ(0,0,10,8,0,10), unbind = 0, bind = 100
+[Normal]Item: ³àÁú¾Ô(0,0,10,9,0,10), unbind = 0, bind = 100
+[Normal]Item: ¾øµØ(0,0,10,10,0,10), unbind = 0, bind = 100
+[Normal]Item: ¾øµØ(0,0,10,10,0,10), unbind = 0, bind = 100
+[Normal]Item: ³àÁú¾Ô(0,0,10,9,0,10), unbind = 0, bind = 100
+[Normal]Item: ·ÉÔÆ(0,0,10,8,0,10), unbind = 0, bind = 100
+[Normal]Item: ·­Ó?(0,0,10,7,0,10), unbind = 0, bind = 100
+[Normal]Item: ±¼Ïü(0,0,10,6,0,10), unbind = 0, bind = 100
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ±¼Ïü(0,0,10,6,0,10), unbind = 0, bind = 100
+[Normal]Item: ·­Ó?(0,0,10,7,0,10), unbind = 0, bind = 100
+[Normal]Item: ·ÉÔÆ(0,0,10,8,0,10), unbind = 0, bind = 100
+[Normal]Item: ³àÁú¾Ô(0,0,10,9,0,10), unbind = 0, bind = 100
+[Normal]Item: ¾øµØ(0,0,10,10,0,10), unbind = 0, bind = 100
+[Normal]Item: ¶ëá?´?(0,0,0,5,0,1), unbind = 0, bind = 0
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: Î?¼äÖ®????½£(0,1,30,0,0,10), unbind = 0, bind = 50
+[Normal]Item: ?úÇ¹(0,0,0,3,0,1), unbind = 0, bind = 0
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: Óâ»Ô(0,0,10,11,0,10), unbind = 0, bind = 100
+[Normal]Item: ?ÚÎí(0,0,10,12,0,10), unbind = 0, bind = 100
+[Normal]Item: ³¬¹â(0,0,10,13,0,10), unbind = 0, bind = 20000
+[Normal]Item: »?¾¦½?»¢Í?(0,0,10,15,0,10), unbind = 0, bind = 1000
+[Normal]Item: ±¼Ïü(0,0,10,6,0,10), unbind = 0, bind = 100
+[Normal]Item: ·­Ó?(0,0,10,7,0,10), unbind = 0, bind = 100
+[Normal]Item: ·ÉÔÆ(0,0,10,8,0,10), unbind = 0, bind = 100
+[Normal]Item: ³àÁú¾Ô(0,0,10,9,0,10), unbind = 0, bind = 100
+[Normal]Item: ¾øµØ(0,0,10,10,0,10), unbind = 0, bind = 100
+[Normal]Item: Î?¼äÖ®????½£(0,1,30,0,0,10), unbind = 0, bind = 50
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: Î?¼äÖ®????½£(0,1,30,0,0,10), unbind = 0, bind = 50
+[Normal]Item: ±¼Ïü(0,0,10,6,0,10), unbind = 0, bind = 100
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ËâÍ·´¸(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ËâÍ·´¸(0,0,0,4,0,1), unbind = 0, bind = 0
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng Ch©u Liªn(0,1,6041,0,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng Tr©m(0,1,6042,9,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng TuyÕt Ngäc ChØ Hoµn(0,1,6043,0,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng CÈm Tó Hé UyÓn(0,1,6044,0,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng Yªu §íi(0,1,6045,0,3,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng Khëi La Sam(0,1,6046,9,4,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng B¶o §ao(0,1,6047,1,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng Ngoa(0,1,6048,3,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng H­¬ng Nang(0,1,6049,0,1,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng MÆc Ngäc ChØ Hoµn(0,1,6050,0,3,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng B¶o §ao(0,1,6047,1,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Bİch H¶i Uyªn ¦¬ng §ao(0,1,6057,5,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Tª Hoµng B¶o §ao(0,1,6047,1,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Bİch H¶i Uyªn ¦¬ng §ao(0,1,6057,5,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Bİch H¶i Uyªn ¦¬ng §ao(0,1,6057,5,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Bİch H¶i Uyªn ¦¬ng §ao(0,1,6057,5,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Bİch H¶i Uyªn ¦¬ng §ao(0,1,6057,5,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Bİch H¶i Uyªn ¦¬ng §ao(0,1,6057,5,2,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Bİch H¶i Uyªn ¦¬ng §ao(0,1,6057,5,2,10), unbind = 0, bind = 50000
+[Normal]Item: ±¼Ïü(0,0,10,6,0,10), unbind = 0, bind = 100
+[Normal]Item: ·­Ó?(0,0,10,7,0,10), unbind = 0, bind = 100
+[Normal]Item: ·ÉÔÆ(0,0,10,8,0,10), unbind = 0, bind = 100
+[Normal]Item: ³àÁú¾Ô(0,0,10,9,0,10), unbind = 0, bind = 100
+[Normal]Item: ¾øµØ(0,0,10,10,0,10), unbind = 0, bind = 100
+[Normal]Item: ³¤Ç¹(0,0,0,3,4,2), unbind = 0, bind = 0
+[Normal]Item: ¸Ö·Éµ¶(0,0,1,1,4,2), unbind = 0, bind = 0
+[Normal]Item: ³¤Ç¹(0,0,0,3,3,2), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??´¸(0,0,0,4,0,10), unbind = 0, bind = 0
+[Normal]Item: ¼??µÖ®±¼À××êÁúÇ¹(0,1,20,3,2,10), unbind = 0, bind = 50
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: µØÆÇÖ®ºÚÑæ³å??Á´(0,1,86,1,3,10), unbind = 0, bind = 50
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,1,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,1,10), unbind = 0, bind = 0
+[Normal]Item: ¿×È¸ôá(0,0,1,2,1,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: ÆÜ»ËÖ®·ï?Çµ¶(0,1,45,1,0,10), unbind = 0, bind = 50
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Í?È??¶(0,0,0,5,2,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,4,10), unbind = 0, bind = 0
+[Normal]Item: ´ó·çµ¶(0,0,0,1,4,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,4,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,0,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,0,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,0,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,0,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,0,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,0,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ÆÆ??êª(0,0,0,3,3,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,0,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,0,10), unbind = 0, bind = 0
+[Normal]Item: ´ó·çµ¶(0,0,0,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ´ó·çµ¶(0,0,0,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,1,10), unbind = 0, bind = 0
+[Normal]Item: ´ó·çµ¶(0,0,0,1,1,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: Î?¼äÖ®????½£(0,1,30,0,0,10), unbind = 0, bind = 50
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,3,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,3,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,3,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,3,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,3,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,3,10), unbind = 0, bind = 0
+[Normal]Item: ½?¹¿°ô(0,0,0,2,3,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,4,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,4,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,4,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,4,10), unbind = 0, bind = 0
+[Normal]Item: ´ó·çµ¶(0,0,0,1,4,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???ú½£(0,0,0,0,2,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,0,1,0,10),¼Ó¹¥»÷ËÙ¶È=(30,0),¼ÓÎïÀíÉËº¦=(50,0),¼ÓÉËº¦Ç¿»¯=(100,0), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,2,10), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,0,1,2,10), unbind = 0, bind = 0
+[Normal]Item: DiÖu D­¬ng S©m Hoang Phi Tiªu(0,1,6107,0,0,10), unbind = 0, bind = 50000
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®°×ÓñÇ¬À¤Åå(0,1,494,1,4,10), unbind = 0, bind = 100
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®°×½?µñÁú½ä(0,1,493,0,3,10), unbind = 0, bind = 100
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®°×½??â·ï½ä(0,1,495,0,0,10), unbind = 0, bind = 100
+[Normal]Item: [¼«Æ·µÄ]¶´²?Ö®ôä´äÓñÏîÈ¦(0,1,496,1,2,10), unbind = 0, bind = 100
+[Normal]Item: ·ÉÔÆ(0,0,10,8,0,10), unbind = 0, bind = 100
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: MÆc Vò Tiªn L­(0,1,6262,34,5,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng Thiªn Quang Tô TiÔn(0,1,6097,2,0,10), unbind = 0, bind = 50000
+[Normal]Item: DiÖu D­¬ng B¨ng Hµn Phi §ao(0,1,6087,1,0,10), unbind = 0, bind = 50000
+[Normal]Item: ¼??µÖ®??Îä»Æ½?îø(0,1,21,4,0,10), unbind = 0, bind = 50
+[Normal]Item: ×êÊ¯½äÖ¸(0,0,3,0,2,10), unbind = 0, bind = 0
+[Normal]Item: º£À¶±¦Ê¯½äÖ¸(0,0,3,0,4,7), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,6,1,0,5), unbind = 0, bind = 0
+[Enchasable]Item: (0,2,0,5,3,10),¼ÓÉúÃü×î´óÖµÉÏÏŞ=(200,0),¼Ó»ğÏµ¼¼ÄÜÉËº¦=(200,0),¼ÓÄÚÁ¦ÉÏÏŞ=(200,0),½µµÍ±ù¶³Ê±¼ä=(40,0),¼ÓÌåÁ¦ÉÏÏŞ=(200,0), unbind = 0, bind = 0
+[Normal]Item: µÄÂ¬(0,0,10,5,0,9), unbind = 0, bind = 100
+[Enchasable]Item: (0,2,0,0,2,10),¼Ó¹¥»÷ËÙ¶È=(30,0),¼Ó±ùÉËº¦=(100,0),¼ÓÉËº¦Ç¿»¯=(100,0),¼Ó¿¹»ğĞÔ=(25,0),¼ÓÉúÃü×î´óÖµÉÏÏŞ=(200,0),ÃâÒßÑ£ÔÎ×´Ì¬=(40,0), unbind = 0, bind = 0
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: DiÖu D­¬ng Minh ¶o HuyÕt NhËn(0,1,6077,1,2,10), unbind = 0, bind = 50000
+[Enchasable]Item: (0,2,2,0,2,6), unbind = 0, bind = 0
+[Normal]Item: ×æÄ¸Â?½äÖ¸(0,0,3,0,0,6), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,2,10), unbind = 0, bind = 0
+[Normal]Item: ËéÔÂµ¶(0,0,1,1,2,10), unbind = 0, bind = 0
+[Normal]Item: °ÔÍ?ïÚ(0,0,1,0,2,10), unbind = 0, bind = 0
+[Normal]Item: ???¹ÓñÊ¨×Ó(0,0,10,5,0,10), unbind = 0, bind = 100
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¿ø(0,1,5202,0,2,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾¼×(0,1,5203,0,0,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾ÂÄ(0,1,5204,0,1,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾?ä(0,1,5205,0,3,10), unbind = 0, bind = 30000
+[Normal]Item: ÁèÔÆÖ®×³Ö¾´ø(0,1,5206,0,4,10), unbind = 0, bind = 30000
+[Normal]Item: [Íê?ÀµÄ]°²°îÖ®¾?»¨Ê¯Ö¸»·(0,1,210,0,2,8), unbind = 0, bind = 100
+[Normal]Item: [Íê?ÀµÄ]°²°îÖ®¼¦ÑªÊ¯½äÖ¸(0,1,212,0,3,8), unbind = 0, bind = 100

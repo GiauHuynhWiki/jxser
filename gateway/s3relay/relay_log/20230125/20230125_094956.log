@@ -1,0 +1,243 @@
+[2023/01/25 09:49:56] Delete event data: ShareKey(EVENT_cailuhongbao), Param1(-1), Param2(-1), Timeout(2020-3-30)
+[2023/01/25 09:49:56] Delete event data: ShareKey(EVENT_MIDAUT_2010), Param1(-1), Param2(-1), Timeout(2020-10-19)
+[2023/01/25 09:49:56] Delete event data: ShareKey(EVENT_dayanqunxia), Param1(-1), Param2(-1), Timeout(2020-3-20)
+[2023/01/25 09:49:56] Delete event data: ShareKey(FUNC_RANK_EQUIPVALUE), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/01/25 09:49:56] Delete event data: ShareKey(EVENT_April_zhushuai), Param1(-1), Param2(-1), Timeout(2020-6-4)
+[2023/01/25 09:49:56] Loading All Scripts....................
+[2023/01/25 09:49:56] Load Rank FUNC_RANK_EQUIPVALUE
+[2023/01/25 09:49:56] Load Stable Rank count 0
+[2023/01/25 09:49:56] Load Dynamic Rank count 0
+[2023/01/25 09:49:56] Load Rank FUNC_RANK_EQUIPVALUE end
+[2023/01/25 09:49:57] 
+All Scripts Have Been Loaded! Count = 79
+[2023/01/25 09:49:57] root client[:0] create
+[2023/01/25 09:49:59] start autotimer for Ping: 
+[2023/01/25 09:49:59] gateway client create: 127.0.0.1
+[2023/01/25 09:49:59] TRIP_MODE: None
+[2023/01/25 09:49:59] Loading World Setting...
+[2023/01/25 09:49:59] Reset map pho ban thanh cong
+[2023/01/25 09:49:59] 1 tong(s) loaded from tongex DB.
+[2023/01/25 09:49:59] Load LeagueData: LeagueType: 4, Leagues: 7, Roles: 7
+[2023/01/25 09:49:59] Load LeagueData: LeagueType: 500, Leagues: 2, Roles: 2
+[2023/01/25 09:49:59] Load LeagueData: LeagueType: 10000, Leagues: 1, Roles: 17
+[2023/01/25 09:49:59]  He thong thong bao tin tuc tu dong 
+[2023/01/25 09:49:59] Xep Hang Tong Kim Khoi Dong
+[2023/01/25 09:49:59] ============ League Match Start: Phase=1  SeasonID=75 ==============
+[2023/01/25 09:49:59] TONG_SHREWMOUSE BAT DAU LUC 10:0...
+[2023/01/25 09:49:59] Thien Ha De Nhat Bang ( Dai Chien Bang Hoi)
+[2023/01/25 09:49:59] QUA HUY HOANG on start at 12 PM
+[2023/01/25 09:49:59] MidAut2010 LoadData
+[2023/01/25 09:49:59] KHOI DONG HOAT DONG HOA DANG : 0949
+[2023/01/25 09:49:59] BOSS HOANG KIM MON PHAI at 10:00
+[2023/01/25 09:49:59] BOSS ¡ì1i Hoang Kim zhangxuan XUAT HIEN:  20:10
+[2023/01/25 09:49:59] BOSS ¡ì1i Hoang Kim murongquan XUAT HIEN:  20:20
+[2023/01/25 09:49:59] BOSS ¡ì1i Hoang Kim jinshiliang XUAT HIEN:  20:15
+[2023/01/25 09:49:59] BOSS HOANG KIM MON PHAI at 22:00
+[2023/01/25 09:49:59] =====> SO LUONG BOSS HOANG KIM XUAT HIEN :  0
+[2023/01/25 09:49:59] =====> BOSS DOC CO THIEN PHONG XUAT HIEN :  19:45
+[2023/01/25 09:49:59] [SEVENCITY]task[start_signup] loaded
+[2023/01/25 09:49:59] [SEVENCITY]task[close_signup] loaded
+[2023/01/25 09:49:59] [SEVENCITY]task[prepare] loaded
+[2023/01/25 09:49:59] [SEVENCITY]task[start] loaded
+[2023/01/25 09:49:59] [SEVENCITY]task[close] loaded
+[2023/01/25 09:49:59] =================[CTC TAM TRU] XOA DU LIEU CONG THANH=================
+[2023/01/25 09:49:59] =================[CTC Tam Tru] BAT DAU GHI DANH=================
+[2023/01/25 09:49:59] =================[CTC TAM TRU] KET THUC GHI DANH=================
+[2023/01/25 09:49:59] =================[CTC Tam Tru] LOI TRAN CHIEN BAT DAU=================
+[2023/01/25 09:49:59] =================[CTC Tam Tru] CONG THANH CHIEN BAT DAU=================
+[2023/01/25 09:49:59] BATTLE[XiangYang] 10:50 startup...
+[2023/01/25 09:49:59] BATTLE[XiangYang] 12:50 startup...
+[2023/01/25 09:49:59] BATTLE[XiangYang] 14:50 startup...
+[2023/01/25 09:49:59] BATTLE[XiangYang] 16:50 startup...
+[2023/01/25 09:49:59] BATTLE[XiangYang] 18:50 startup...
+[2023/01/25 09:49:59] [STARTED]	BATTLE [TONG KIM] 20:50 -> OK!
+[2023/01/25 09:49:59] BATTLE[XiangYang] 22:50 startup...
+[2023/01/25 09:49:59] =================HOAT DONG PHU QUY CAM HAP============== 
+[2023/01/25 09:49:59] =================HOAT DONG GIET NHIM BEO PHI BAT DAU 10:0 VA 30 PHUT SAU KET THUC=======
+[2023/01/25 09:49:59] [STARTED] CHALLENGE OF TIME 10:0
+[2023/01/25 09:49:59] =================BOSS THIEN TRI XUAT HIEN LUC 20H TANG 4=================
+[2023/01/25 09:49:59] [STARTED] FENGLING FERRY
+[2023/01/25 09:49:59] =================Hoat Dong Viem De Bat Dau 14:25...=================
+[2023/01/25 09:49:59] =================LOAN CHIEN CUU CHAU COC BAT DAU 10:0 va 60 PHUT SE KET THUC=================
+[2023/01/25 09:49:59] PHONG HOA LIEN THANH BAT DAU 13:0...
+[2023/01/25 09:49:59] Phong Hoa Lien Thanh da ket thuc 15:30...
+[2023/01/25 09:49:59] [STARTED] Reset BXH Hang Ngay Luc 00:00 Thu 2
+[2023/01/25 09:49:59] =================·Phong Lang Do 0h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 1h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 2h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 3h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 4h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 5h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 6h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 7h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 8h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 9h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 10h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 11h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 12h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 13h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 14h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 15h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 16h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 17h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 18h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 19h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 20h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 21h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 22h==================
+[2023/01/25 09:49:59] =================·Phong Lang Do 23h==================
+[2023/01/25 09:49:59] =================GLOBALEXCUTECHAT=================
+[2023/01/25 09:49:59] =================MS2PLAYERCHAT=================
+[2023/01/25 09:49:59]  =================HOA SON DAI CHIEN 10H,15H,22H==================
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 52301
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 51302
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 51102
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135403
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135604
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135705
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135206
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135807
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 136008
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135109
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 52301
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 51302
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 51102
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135403
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135604
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135705
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135206
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135807
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 136008
+[2023/01/25 09:49:59] Xoa du lieu thong tin boss Hoang Kim 135109
+[2023/01/25 09:49:59] BATTLE[GuoZhan] 20:50 startup...
+[2023/01/25 09:49:59] KHOI DONG NHIEM VU TONG KIM CHIEN QUOC 
+[2023/01/25 09:49:59] Failed to init statdatamanager!
+[2023/01/25 09:49:59] S3Relay -- S3Relay- Khoi dong hoan tat! 
+[2023/01/25 09:49:59] 
+*
+***** S3Relay Start (@ 158844088/00/43200 00:-1077133496:135861597.136280271) >>>>>
+*
+
+
+[2023/01/25 09:49:59] SockThread start success
+[2023/01/25 09:49:59] Xep Hang Khoi Dong Hoan Tat
+[2023/01/25 09:51:23] ChatConnection create: 127.0.0.1
+[2023/01/25 09:51:23] TongConnection create: 127.0.0.1
+[2023/01/25 09:51:23] HostConnection create: 127.0.0.1
+[2023/01/25 09:51:49] ============ League Match GSReady(16777343): Phase=1  MatchID=0  SeasonID=75 =============
+[2023/01/25 09:51:49] GameServerLogin: 127.0.0.1
+[2023/01/25 09:51:49] TongDataSendFinish: 127.0.0.1
+[2023/01/25 09:51:52] Assign Dynamic map(948,70061) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:1
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(948,70062) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:2
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(948,70063) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:3
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(948,70064) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:4
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(948,70065) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:5
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(975,65536) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:6
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(975,65537) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:7
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(975,65538) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:8
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(975,65539) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:9
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(975,65540) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:10
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(976,65541) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:11
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(976,65542) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:12
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(976,65543) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:13
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(976,65544) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:14
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(976,65545) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:15
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(958,70066) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:16
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(958,70067) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:17
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(958,70068) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:18
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(958,70069) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:19
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 09:51:52] Assign Dynamic map(958,70070) for GS:0
+[2023/01/25 09:51:52] GS:0 Total Dynamic map:20
+[2023/01/25 09:51:52] GS:0 Total Static map:646
+[2023/01/25 10:00:59] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2023/01/25 10:00:59] 230125 ->0
+[2023/01/25 10:00:59] Hien tai so nguoi dang ky la  0
+[2023/01/25 10:00:59] KHOI TAO BOSS Cæ B¸ch,566,95,11,3346,4797,0----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS HuyÒn Gi¸c §¹i S­,740,95,176,1162,2781,0----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS §­êng Phi YÕn,1366,95,75,1614,3191,1----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Lam Y Y,582,95,204,1527,3529,1----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Hµ Linh Phiªu,568,95,203,1792,3234,2----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Yªn HiÓu Tr¸i,744,95,37,1535,2902,2----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS M¹nh Th­¬ng L­¬ng,583,95,224,1739,2857,3----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Gia LuËt TÞ Ly,563,95,181,1616,2951,3----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS §¹o Thanh Ch©n Nh©n,562,95,321,1474,3008,4----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS TuyÒn C¬ Tö,747,95,342,1212,2419,4----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS V­¬ng T¸,739,95,202,1618,2950,0----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS HuyÒn Nan §¹i S­,1365,95,336,1422,3113,0----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS §­êng BÊt NhiÔm,741,95,75,1614,3191,1----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS B¹ch Doanh Doanh,742,95,80,1538,3041,1----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,205,1585,3226,2----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Chung Linh Tó,567,95,203,1792,3234,2----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Hµ Nh©n Ng·,745,95,10,1836,3082,3----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS §oan Méc DuÖ,565,95,336,1422,3113,3----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Tõ §¹i Nh¹c,1367,95,11,2966,4807,4----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Thanh Liªn Tö,1368,95,322,1938,3957,4----202301251000
+[2023/01/25 10:00:59] KHOI TAO BOSS Thanh TuyÖt S­ Th¸i,743,95,225,1603,3221,2----202301251000
+[2023/01/25 10:00:59] [RUNNING] CHALLENGE OF TIME 11:0
+[2023/01/25 10:00:59] [STARTED] FENGLING FERRY 10H
+[2023/01/25 10:00:59]  =================HOA SON DAI CHIEN Started==================
+[2023/01/25 10:15:59] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2023/01/25 10:30:59] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2023/01/25 10:30:59] 230125 ->0
+[2023/01/25 10:30:59] Hien tai so nguoi dang ky la  0
+[2023/01/25 10:45:59] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2023/01/25 10:50:59] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/25 10:50:59] [2023-01-25 10:50:59]  NEW BATTLE START
+[2023/01/25 10:50:59] BattleID: 1   BattleLevel: 1   Issue: 1   2th.Round
+[2023/01/25 10:50:59] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 868   MapName: ChiÕn Tr­êng Hoang M¹c   RuleID: 8
+[2023/01/25 10:50:59] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/25 10:50:59] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/25 10:50:59] [2023-01-25 10:50:59]  NEW BATTLE START
+[2023/01/25 10:50:59] BattleID: 1   BattleLevel: 2   Issue: 1   2th.Round
+[2023/01/25 10:50:59] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 869   MapName: LiÔu Nguyªn ChiÕn   RuleID: 8
+[2023/01/25 10:50:59] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/25 10:50:59] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/25 10:50:59] [2023-01-25 10:50:59]  NEW BATTLE START
+[2023/01/25 10:50:59] BattleID: 1   BattleLevel: 3   Issue: 1   2th.Round
+[2023/01/25 10:50:59] RoundID: 3   MapPattern: 12   BattleMapID:  21   WorldMapID: 870   MapName: ChiÕn Tr­êng Hoang M¹c   RuleID: 8
+[2023/01/25 10:50:59] -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2023/01/25 11:00:59] ============ League Match: Phase=1  MatchID=0  SeasonID=75 =============
+[2023/01/25 11:00:59] 230125 ->0
+[2023/01/25 11:00:59] Hien tai so nguoi dang ky la  0
+[2023/01/25 11:00:59] [RUNNING] CHALLENGE OF TIME 12:0
+[2023/01/25 11:00:59]  =================HOA SON DAI CHIEN Started==================
+[2023/01/25 11:13:21] ChatConnection close: 127.0.0.1
+[2023/01/25 11:13:21] TongConnection close: 127.0.0.1

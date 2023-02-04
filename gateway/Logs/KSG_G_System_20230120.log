@@ -1,0 +1,47 @@
+2023-01-20 19:13:07	[QuitBackup]is_quit:0
+2023-01-20 19:13:07	Deliver statdata: 0 bytes
+2023-01-20 19:15:13	Node[1] connect: Ip(127.0.0.1 : 56859), Identity(1)
+2023-01-20 19:15:13	ClientConnectCreate:[1]127.0.0.1 : 56859
+2023-01-20 19:29:08	CreateRoleData(ThuyYen) OK: Account(pgaming), datalen(575)
+2023-01-20 19:29:08	EnterGame(ThuyYen) OK: Move from Node[0] to Node[1]
+2023-01-20 19:34:56	SaveRoleData(ThuyYen) OK: datalen(1144)
+2023-01-20 19:39:52	SaveRoleData(ThuyYen) OK: datalen(1476)
+2023-01-20 20:13:12	SaveRoleData(ThuyYen) OK: datalen(4050)
+2023-01-20 20:18:16	QuitSave[ThuyYen] OK: Leave Node[1]
+2023-01-20 20:18:16	SaveRoleData(ThuyYen) OK: datalen(4050)
+2023-01-20 20:19:45	CreateRoleData(VoDang) OK: Account(pgaming), datalen(575)
+2023-01-20 20:19:45	EnterGame(VoDang) OK: Move from Node[0] to Node[1]
+2023-01-20 20:20:56	QuitSave[VoDang] OK: Leave Node[1]
+2023-01-20 20:20:56	SaveRoleData(VoDang) OK: datalen(1068)
+2023-01-20 20:21:01	GetRoleInfo(VoDang) OK: Enter Node[0](127.0.0.1 : 35435)
+2023-01-20 20:21:01	GetRoleData(VoDang) OK: datalen(1068)
+2023-01-20 20:21:01	EnterGame(VoDang) OK: Move from Node[0] to Node[1]
+2023-01-20 20:23:56	QuitSave[VoDang] OK: Leave Node[1]
+2023-01-20 20:23:56	SaveRoleData(VoDang) OK: datalen(1108)
+2023-01-20 20:24:11	CreateRoleData(VooDang2) OK: Account(pgaming), datalen(575)
+2023-01-20 20:24:11	EnterGame(VooDang2) OK: Move from Node[0] to Node[1]
+2023-01-20 20:24:41	QuitSave[VooDang2] OK: Leave Node[1]
+2023-01-20 20:24:41	SaveRoleData(VooDang2) OK: datalen(1164)
+2023-01-20 20:24:45	GetRoleInfo(VooDang2) OK: Enter Node[0](127.0.0.1 : 35435)
+2023-01-20 20:24:45	GetRoleData(VooDang2) OK: datalen(1164)
+2023-01-20 20:24:45	EnterGame(VooDang2) OK: Move from Node[0] to Node[1]
+2023-01-20 20:27:59	QuitSave[VooDang2] OK: Leave Node[1]
+2023-01-20 20:27:59	SaveRoleData(VooDang2) OK: datalen(1220)
+2023-01-20 20:28:06	GetRoleInfo(VooDang2) OK: Enter Node[0](127.0.0.1 : 35435)
+2023-01-20 20:28:06	GetRoleData(VooDang2) OK: datalen(1220)
+2023-01-20 20:28:06	EnterGame(VooDang2) OK: Move from Node[0] to Node[1]
+2023-01-20 20:30:28	SaveRoleData(VooDang2) OK: datalen(1652)
+2023-01-20 20:31:22	SaveRoleData(VooDang2) OK: datalen(2075)
+2023-01-20 20:39:01	SaveRoleData(VooDang2) OK: datalen(5207)
+2023-01-20 20:43:34	SaveRoleData(VooDang2) OK: datalen(6395)
+2023-01-20 20:46:31	SaveRoleData(VooDang2) OK: datalen(5423)
+2023-01-20 20:52:00	SaveRoleData(VooDang2) OK: datalen(4243)
+2023-01-20 20:57:34	SaveRoleData(VooDang2) OK: datalen(7782)
+2023-01-20 20:58:55	QuitSave[VooDang2] OK: Leave Node[1]
+2023-01-20 20:58:55	SaveRoleData(VooDang2) OK: datalen(4326)
+2023-01-20 20:59:42	Node[1] disconnect: Ip(127.0.0.1 : 56859), Identity(1)
+2023-01-20 20:59:42	ClientConnectClose:[1]
+
+2023-01-20 20:59:46	Node[0] disconnect: Ip(127.0.0.1 : 35435), Identity(0)
+2023-01-20 20:59:46	ClientConnectClose:[0]
+

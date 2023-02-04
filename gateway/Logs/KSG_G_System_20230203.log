@@ -1,0 +1,112 @@
+2023-02-03 21:47:33	[QuitBackup]is_quit:0
+2023-02-03 21:47:33	Deliver statdata: 0 bytes
+2023-02-03 21:47:59	Node[1] connect: Ip(127.0.0.1 : 52486), Identity(1)
+2023-02-03 21:47:59	ClientConnectCreate:[1]127.0.0.1 : 52486
+2023-02-03 21:49:50	GetRoleInfo(HeMocTest) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 21:49:50	GetRoleData(HeMocTest) OK: datalen(5031)
+2023-02-03 21:49:50	EnterGame(HeMocTest) OK: Move from Node[0] to Node[1]
+2023-02-03 21:50:22	QuitSave[HeMocTest] OK: Leave Node[1]
+2023-02-03 21:50:22	SaveRoleData(HeMocTest) OK: datalen(5031)
+2023-02-03 21:50:30	GetRoleInfo(KûNiÖm§åTÝm) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 21:50:30	GetRoleData(KûNiÖm§åTÝm) OK: datalen(5469)
+2023-02-03 21:50:30	EnterGame(KûNiÖm§åTÝm) OK: Move from Node[0] to Node[1]
+2023-02-03 21:51:44	QuitSave[KûNiÖm§åTÝm] OK: Leave Node[1]
+2023-02-03 21:51:44	SaveRoleData(KûNiÖm§åTÝm) OK: datalen(5145)
+2023-02-03 21:51:49	GetRoleInfo(HoµngKimKûNiÖm) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 21:51:49	GetRoleData(HoµngKimKûNiÖm) OK: datalen(3516)
+2023-02-03 21:51:49	EnterGame(HoµngKimKûNiÖm) OK: Move from Node[0] to Node[1]
+2023-02-03 22:01:06	QuitSave[HoµngKimKûNiÖm] OK: Leave Node[1]
+2023-02-03 22:01:06	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(3832)
+2023-02-03 22:01:20	GetRoleInfo(ThuyYen) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:01:20	GetRoleData(ThuyYen) OK: datalen(4050)
+2023-02-03 22:01:20	EnterGame(ThuyYen) OK: Move from Node[0] to Node[1]
+2023-02-03 22:01:25	QuitSave[ThuyYen] OK: Leave Node[1]
+2023-02-03 22:01:25	SaveRoleData(ThuyYen) OK: datalen(3958)
+2023-02-03 22:01:35	GetRoleInfo(VooDang2) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:01:35	GetRoleData(VooDang2) OK: datalen(5738)
+2023-02-03 22:01:35	EnterGame(VooDang2) OK: Move from Node[0] to Node[1]
+2023-02-03 22:02:00	QuitSave[VooDang2] OK: Leave Node[1]
+2023-02-03 22:02:00	SaveRoleData(VooDang2) OK: datalen(5738)
+2023-02-03 22:02:07	GetRoleInfo(VooDang2) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:02:07	GetRoleData(VooDang2) OK: datalen(5738)
+2023-02-03 22:02:07	EnterGame(VooDang2) OK: Move from Node[0] to Node[1]
+2023-02-03 22:02:43	QuitSave[VooDang2] OK: Leave Node[1]
+2023-02-03 22:02:43	SaveRoleData(VooDang2) OK: datalen(5738)
+2023-02-03 22:02:53	GetRoleInfo(VoDang) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:02:53	GetRoleData(VoDang) OK: datalen(1108)
+2023-02-03 22:02:53	EnterGame(VoDang) OK: Move from Node[0] to Node[1]
+2023-02-03 22:05:30	SaveRoleData(VoDang) OK: datalen(2736)
+2023-02-03 22:05:32	QuitSave[VoDang] OK: Leave Node[1]
+2023-02-03 22:05:32	SaveRoleData(VoDang) OK: datalen(2736)
+2023-02-03 22:05:37	GetRoleInfo(VoDang) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:05:37	GetRoleData(VoDang) OK: datalen(2736)
+2023-02-03 22:05:37	EnterGame(VoDang) OK: Move from Node[0] to Node[1]
+2023-02-03 22:09:15	QuitSave[VoDang] OK: Leave Node[1]
+2023-02-03 22:09:15	SaveRoleData(VoDang) OK: datalen(2636)
+2023-02-03 22:09:20	GetRoleInfo(VoDang) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:09:20	GetRoleData(VoDang) OK: datalen(2636)
+2023-02-03 22:09:20	EnterGame(VoDang) OK: Move from Node[0] to Node[1]
+2023-02-03 22:11:12	QuitSave[VoDang] OK: Leave Node[1]
+2023-02-03 22:11:12	SaveRoleData(VoDang) OK: datalen(2120)
+2023-02-03 22:11:58	CreateRoleData(HoaSon) OK: Account(pgaming), datalen(575)
+2023-02-03 22:11:58	EnterGame(HoaSon) OK: Move from Node[0] to Node[1]
+2023-02-03 22:18:35	QuitSave[HoaSon] OK: Leave Node[1]
+2023-02-03 22:18:35	SaveRoleData(HoaSon) OK: datalen(1692)
+2023-02-03 22:19:57	CreateRoleData(VòHånPh¸i) OK: Account(pgaming), datalen(575)
+2023-02-03 22:19:57	EnterGame(VòHånPh¸i) OK: Move from Node[0] to Node[1]
+2023-02-03 22:27:33	SaveRoleData(VòHånPh¸i) OK: datalen(1992)
+2023-02-03 22:28:40	QuitSave[VòHånPh¸i] OK: Leave Node[1]
+2023-02-03 22:28:40	SaveRoleData(VòHånPh¸i) OK: datalen(1992)
+2023-02-03 22:28:45	GetRoleInfo(HoaSon) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:28:45	GetRoleData(HoaSon) OK: datalen(1692)
+2023-02-03 22:28:45	EnterGame(HoaSon) OK: Move from Node[0] to Node[1]
+2023-02-03 22:30:40	QuitSave[HoaSon] OK: Leave Node[1]
+2023-02-03 22:30:40	SaveRoleData(HoaSon) OK: datalen(2276)
+2023-02-03 22:30:46	GetRoleInfo(HoaSon) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:30:46	GetRoleData(HoaSon) OK: datalen(2276)
+2023-02-03 22:30:47	EnterGame(HoaSon) OK: Move from Node[0] to Node[1]
+2023-02-03 22:36:09	QuitSave[HoaSon] OK: Leave Node[1]
+2023-02-03 22:36:09	SaveRoleData(HoaSon) OK: datalen(2268)
+2023-02-03 22:36:19	GetRoleInfo(VòHånPh¸i) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:36:19	GetRoleData(VòHånPh¸i) OK: datalen(1992)
+2023-02-03 22:36:19	EnterGame(VòHånPh¸i) OK: Move from Node[0] to Node[1]
+2023-02-03 22:36:46	QuitSave[VòHånPh¸i] OK: Leave Node[1]
+2023-02-03 22:36:46	SaveRoleData(VòHånPh¸i) OK: datalen(2016)
+2023-02-03 22:37:22	CreateRoleData(ThóyYªn) OK: Account(pgaming), datalen(575)
+2023-02-03 22:37:22	EnterGame(ThóyYªn) OK: Move from Node[0] to Node[1]
+2023-02-03 22:37:31	QuitSave[ThóyYªn] OK: Leave Node[1]
+2023-02-03 22:37:31	SaveRoleData(ThóyYªn) OK: datalen(1128)
+2023-02-03 22:37:37	GetRoleInfo(ThóyYªn) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:37:37	GetRoleData(ThóyYªn) OK: datalen(1128)
+2023-02-03 22:37:37	EnterGame(ThóyYªn) OK: Move from Node[0] to Node[1]
+2023-02-03 22:37:58	QuitSave[ThóyYªn] OK: Leave Node[1]
+2023-02-03 22:37:58	SaveRoleData(ThóyYªn) OK: datalen(1172)
+2023-02-03 22:38:05	GetRoleInfo(ThóyYªn) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:38:05	GetRoleData(ThóyYªn) OK: datalen(1172)
+2023-02-03 22:38:05	EnterGame(ThóyYªn) OK: Move from Node[0] to Node[1]
+2023-02-03 22:44:00	SaveRoleData(ThóyYªn) OK: datalen(2717)
+2023-02-03 22:53:28	QuitSave[ThóyYªn] OK: Leave Node[1]
+2023-02-03 22:53:28	SaveRoleData(ThóyYªn) OK: datalen(3429)
+2023-02-03 22:53:35	GetRoleInfo(HeMocTest) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:53:35	GetRoleData(HeMocTest) OK: datalen(5031)
+2023-02-03 22:53:35	EnterGame(HeMocTest) OK: Move from Node[0] to Node[1]
+2023-02-03 22:53:38	QuitSave[HeMocTest] OK: Leave Node[1]
+2023-02-03 22:53:38	SaveRoleData(HeMocTest) OK: datalen(5039)
+2023-02-03 22:53:49	GetRoleInfo(KûNiÖm§åTÝm) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:53:49	GetRoleData(KûNiÖm§åTÝm) OK: datalen(5145)
+2023-02-03 22:53:49	EnterGame(KûNiÖm§åTÝm) OK: Move from Node[0] to Node[1]
+2023-02-03 22:59:28	QuitSave[KûNiÖm§åTÝm] OK: Leave Node[1]
+2023-02-03 22:59:28	SaveRoleData(KûNiÖm§åTÝm) OK: datalen(6019)
+2023-02-03 22:59:34	GetRoleInfo(HoµngKimKûNiÖm) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 22:59:34	GetRoleData(HoµngKimKûNiÖm) OK: datalen(3832)
+2023-02-03 22:59:34	EnterGame(HoµngKimKûNiÖm) OK: Move from Node[0] to Node[1]
+2023-02-03 23:07:26	GetRoleInfo(HeMocTest) OK: Enter Node[0](127.0.0.1 : 59066)
+2023-02-03 23:07:26	GetRoleData(HeMocTest) OK: datalen(5039)
+2023-02-03 23:07:48	Node[1] disconnect: Ip(127.0.0.1 : 52486), Identity(1)
+2023-02-03 23:07:48	Clear role in Node[1]: HoµngKimKûNiÖm
+2023-02-03 23:07:48	ClientConnectClose:[1]
+
+2023-02-03 23:07:51	Node[0] disconnect: Ip(127.0.0.1 : 59066), Identity(0)
+2023-02-03 23:07:51	Clear role in Node[0]: HeMocTest
+2023-02-03 23:07:51	ClientConnectClose:[0]
+

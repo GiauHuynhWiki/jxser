@@ -1,0 +1,439 @@
+2023-01-21 09:07:54	[1970-01-01 07:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-01-21 09:08:12	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:08:45	310121-09:08: B¾t ®Çu treo m¸y!
+2023-01-21 09:11:00	pgaming2	ThienVuongBang	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,1942612177,0,6,1,1266,1,4,0,0,0,0,0,0,0,0)	1		174
+2023-01-21 09:11:00	pgaming2	ThienVuongBang	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,-1865197382,0,6,1,438,1,3,0,0,0,0,0,0,0,0)	1		174
+2023-01-21 09:11:02	clean ThienVuongBang(Level:1) Tong Contribution old value is 0 new value is 0
+2023-01-21 09:11:36	[DoTransLife]	2023-01-21 09:11:36	Name:ThienVuongBang	Account:pgaming2	DoTransLife,LEVEL:200,SetLevel:200,FACTION:-1,TRANSCOUNT:0,RESIST:0,AddMagicPoint:20,AddProp:100,AddResist:5
+2023-01-21 09:11:36	KickOutSelf Account:pgaming2  RoleName ThienVuongBang
+Sat Jan 21 09:11:36 2023
+ Acc:pgaming2 Role:ThienVuongBang Level:200 RenascenceCount:1, Translife done!
+2023-01-21 09:12:04	[DoTransLife]	2023-01-21 09:12:04	Name:ThienVuongBang	Account:pgaming2	DoTransLife,LEVEL:190,SetLevel:190,FACTION:-1,TRANSCOUNT:1,RESIST:0,AddMagicPoint:28,AddProp:118,AddResist:5
+2023-01-21 09:12:04	KickOutSelf Account:pgaming2  RoleName ThienVuongBang
+Sat Jan 21 09:12:04 2023
+ Acc:pgaming2 Role:ThienVuongBang Level:190 RenascenceCount:2, Translife done!
+2023-01-21 09:12:33	[DoTransLife]	2023-01-21 09:12:33	Name:ThienVuongBang	Account:pgaming2	DoTransLife,LEVEL:190,SetLevel:190,FACTION:-1,TRANSCOUNT:2,RESIST:0,AddMagicPoint:15,AddProp:70,AddResist:5
+2023-01-21 09:12:33	KickOutSelf Account:pgaming2  RoleName ThienVuongBang
+Sat Jan 21 09:12:33 2023
+ Acc:pgaming2 Role:ThienVuongBang Level:190 RenascenceCount:3, Translife done!
+2023-01-21 09:16:43	[DoTransLife]	2023-01-21 09:16:43	Name:ThienVuongBang	Account:pgaming2	DoTransLife,LEVEL:200,SetLevel:200,FACTION:-1,TRANSCOUNT:3,RESIST:0,AddMagicPoint:20,AddProp:100,AddResist:5
+2023-01-21 09:16:43	KickOutSelf Account:pgaming2  RoleName ThienVuongBang
+Sat Jan 21 09:16:43 2023
+ Acc:pgaming2 Role:ThienVuongBang Level:200 RenascenceCount:4, Translife done!
+2023-01-21 09:17:22	[DoTransLife]	2023-01-21 09:17:22	Name:ThienVuongBang	Account:pgaming2	DoTransLife,LEVEL:200,SetLevel:200,FACTION:-1,TRANSCOUNT:4,RESIST:0,AddMagicPoint:20,AddProp:100,AddResist:5
+2023-01-21 09:17:22	KickOutSelf Account:pgaming2  RoleName ThienVuongBang
+Sat Jan 21 09:17:22 2023
+ Acc:pgaming2 Role:ThienVuongBang Level:200 RenascenceCount:5, Translife done!
+2023-01-21 09:18:38	KickOutSelf Account:pgaming2  RoleName ThienVuongBang
+2023-01-21 09:35:10	2023-01-21 09:35:10 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:35:11	2023-01-21 09:35:11 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:35:11	2023-01-21 09:35:11 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:35:12	2023-01-21 09:35:12 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Chung Linh Tó 
+2023-01-21 09:35:12	2023-01-21 09:35:12 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:35:12	2023-01-21 09:35:12 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Nham
+2023-01-21 09:35:13	2023-01-21 09:35:13 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:35:13	2023-01-21 09:35:13 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:35:14	2023-01-21 09:35:14 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:35:14	2023-01-21 09:35:14 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Nh©n Ng· 
+2023-01-21 09:35:15	2023-01-21 09:35:15 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:35:15	2023-01-21 09:35:15 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:35:16	2023-01-21 09:35:16 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:36:40	2023-01-21 09:36:40 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Cæ B¸ch
+2023-01-21 09:37:11	2023-01-21 09:37:11 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Nh©n Ng· 
+2023-01-21 09:37:36	2023-01-21 09:37:36 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:37:40	2023-01-21 09:37:40 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Yªn HiÓu Tr¸i
+2023-01-21 09:37:48	2023-01-21 09:37:48 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: B¹ch Doanh Doanh
+2023-01-21 09:37:52	2023-01-21 09:37:52 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:38:07	2023-01-21 09:38:07 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:38:11	2023-01-21 09:38:11 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Nham
+2023-01-21 09:38:16	2023-01-21 09:38:16 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: M¹nh Th­¬ng L­¬ng
+2023-01-21 09:38:37	2023-01-21 09:38:37 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:38:48	2023-01-21 09:38:48 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:40:43	2023-01-21 09:40:43 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:40:48	2023-01-21 09:40:48 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:41:00	2023-01-21 09:41:00 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: V­¬ng T¸ 
+2023-01-21 09:41:16	2023-01-21 09:41:16 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Gia LuËt TÞ Ly
+2023-01-21 09:41:55	2023-01-21 09:41:55 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:41:57	2023-01-21 09:41:57 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:42:02	2023-01-21 09:42:02 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:42:04	2023-01-21 09:42:04 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:42:08	2023-01-21 09:42:08 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hoµng Nhan TuyÕt Y
+2023-01-21 09:42:14	2023-01-21 09:42:14 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Thanh HiÓu S­ Th¸i 
+2023-01-21 09:42:29	2023-01-21 09:42:29 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: B¹ch Doanh Doanh
+2023-01-21 09:43:00	2023-01-21 09:43:00 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: §¹o Thanh Ch©n Nh©n
+2023-01-21 09:43:06	2023-01-21 09:43:06 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:43:09	2023-01-21 09:43:09 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Linh Phiªu
+2023-01-21 09:43:14	2023-01-21 09:43:14 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:43:33	2023-01-21 09:43:33 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:43:37	2023-01-21 09:43:37 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:43:41	2023-01-21 09:43:41 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:43:45	2023-01-21 09:43:45 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:43:48	2023-01-21 09:43:48 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:43:52	2023-01-21 09:43:52 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:43:54	2023-01-21 09:43:54 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Linh Phiªu
+2023-01-21 09:44:48	2023-01-21 09:44:48 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Thanh HiÓu S­ Th¸i 
+2023-01-21 09:44:57	2023-01-21 09:44:57 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:45:01	2023-01-21 09:45:01 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Chung Linh Tó 
+2023-01-21 09:45:15	2023-01-21 09:45:15 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:45:18	2023-01-21 09:45:18 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:45:28	2023-01-21 09:45:28 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:45:30	2023-01-21 09:45:30 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:45:37	2023-01-21 09:45:37 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:45:54	2023-01-21 09:45:54 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:46:00	2023-01-21 09:46:00 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: B¹ch Doanh Doanh
+2023-01-21 09:46:06	2023-01-21 09:46:06 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:46:11	2023-01-21 09:46:11 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:46:15	2023-01-21 09:46:15 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:46:18	2023-01-21 09:46:18 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:46:21	2023-01-21 09:46:21 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:46:24	2023-01-21 09:46:24 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:46:27	2023-01-21 09:46:27 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:46:30	2023-01-21 09:46:30 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: B¹ch Doanh Doanh
+2023-01-21 09:46:33	2023-01-21 09:46:33 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:46:36	2023-01-21 09:46:36 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:46:39	2023-01-21 09:46:39 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Chung Linh Tó 
+2023-01-21 09:46:52	2023-01-21 09:46:52 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: §­êng BÊt NhiÔm
+2023-01-21 09:47:34	2023-01-21 09:47:34 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:47:38	2023-01-21 09:47:38 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:47:41	2023-01-21 09:47:41 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:47:44	2023-01-21 09:47:44 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:47:46	2023-01-21 09:47:46 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: V­¬ng T¸ 
+2023-01-21 09:48:11	2023-01-21 09:48:11 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 09:48:15	2023-01-21 09:48:15 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 09:48:19	2023-01-21 09:48:19 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 09:54:25	2023-01-21 09:54:25 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Mé Dung Toµn
+2023-01-21 09:55:13	[killed_Mé Dung Toµn]	2023-01-21 09:55	Account:pgaming2	Name:ThienVuongBang	npcname(Mé Dung Toµn) drop 30 item Thiªn Linh §¬n.
+2023-01-21 09:55:13	[killed_Mé Dung Toµn]	2023-01-21 09:55	Account:pgaming2	Name:ThienVuongBang	npcname(Mé Dung Toµn) drop 1 item Lam Thñy Tinh.
+2023-01-21 09:55:13	[killed_Mé Dung Toµn]	2023-01-21 09:55	Account:pgaming2	Name:ThienVuongBang	npcname(Mé Dung Toµn) drop 1 item Lôc Thñy Tinh.
+2023-01-21 09:55:13	[killed_Mé Dung Toµn]	2023-01-21 09:55	Account:pgaming2	Name:ThienVuongBang	npcname(Mé Dung Toµn) drop 1 item Tö Thñy Tinh.
+2023-01-21 09:55:13	[killed_Mé Dung Toµn]	2023-01-21 09:55	Account:pgaming2	Name:ThienVuongBang	npcname(Mé Dung Toµn) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 09:55:13	[killed_Mé Dung Toµn]	2023-01-21 09:55	Account:pgaming2	Name:ThienVuongBang	npcname(Mé Dung Toµn) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 09:55:13	[killed_Mé Dung Toµn]	2023-01-21 09:55	Account:pgaming2	Name:ThienVuongBang	npcname(Mé Dung Toµn) drop 1 item Anh Hïng ThiÕp.
+2023-01-21 09:55:13	pgaming2	ThienVuongBang	DCPhanThuongBoss	200	5	PhÇn th­ëng exp cho ng­êi tiªu diÖt Mé Dung Toµn	nExp		20000000		121
+2023-01-21 09:55:13	pgaming2	ThienVuongBang	DCPhanThuongBoss	200	5	PhÇn th­ëng exp cho ng­êi ®øng gÇn Mé Dung Toµn	nExp		10000000		121
+2023-01-21 09:55:19	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-406492537,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:23	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-2053881670,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:26	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-2091331753,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:28	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-441859918,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:31	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-245711469,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:33	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-814374523,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:36	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,296803563,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:38	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,429536595,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:42	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-1158629673,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:55:53	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	use_tianlindan	nExp_tl		20000000		121
+2023-01-21 09:55:53	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	use_tianlindan	nExp_tl		20000000		121
+2023-01-21 09:55:54	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	use_tianlindan	nExp_tl		20000000		121
+2023-01-21 09:55:54	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	use_tianlindan	nExp_tl		20000000		121
+2023-01-21 09:55:56	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	use_tianlindan	nExp_tl		20000000		121
+2023-01-21 09:56:09	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-918676580,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:56:14	2023-01-21 09:56:14 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Kim ThÝ L­îng
+2023-01-21 09:57:00	[killed_Kim ThÝ L­îng]	2023-01-21 09:57	Account:pgaming2	Name:ThienVuongBang	npcname(Kim ThÝ L­îng) drop 20 item Thiªn Linh §¬n.
+2023-01-21 09:57:00	[killed_Kim ThÝ L­îng]	2023-01-21 09:57	Account:pgaming2	Name:ThienVuongBang	npcname(Kim ThÝ L­îng) drop 1 item Lam Thñy Tinh.
+2023-01-21 09:57:00	[killed_Kim ThÝ L­îng]	2023-01-21 09:57	Account:pgaming2	Name:ThienVuongBang	npcname(Kim ThÝ L­îng) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 09:57:00	[killed_Kim ThÝ L­îng]	2023-01-21 09:57	Account:pgaming2	Name:ThienVuongBang	npcname(Kim ThÝ L­îng) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 09:57:00	[killed_Kim ThÝ L­îng]	2023-01-21 09:57	Account:pgaming2	Name:ThienVuongBang	npcname(Kim ThÝ L­îng) drop 1 item K×nh Thiªn Hãa Gi¶i.
+2023-01-21 09:57:00	[killed_Kim ThÝ L­îng]	2023-01-21 09:57	Account:pgaming2	Name:ThienVuongBang	npcname(Kim ThÝ L­îng) drop 1 item Anh Hïng ThiÕp.
+2023-01-21 09:57:00	pgaming2	ThienVuongBang	DCPhanThuongBoss	200	5	PhÇn th­ëng exp cho ng­êi tiªu diÖt Kim ThÝ L­îng	nExp		20000000		121
+2023-01-21 09:57:00	pgaming2	ThienVuongBang	DCPhanThuongBoss	200	5	PhÇn th­ëng exp cho ng­êi ®øng gÇn Kim ThÝ L­îng	nExp		10000000		121
+2023-01-21 09:57:37	pgaming2	ThienVuongBang	goldbossadjust_2011	200	5	click_tianzhibaoxiang	Tö Tinh Kho¸ng Th¹ch	AddItemEx(4,-420802696,0,6,1,4822,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:57:40	2023-01-21 09:57:40 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng Tuyªn
+2023-01-21 09:58:00	[killed_Tr­¬ng Tuyªn]	2023-01-21 09:58	Account:pgaming2	Name:ThienVuongBang	npcname(Tr­¬ng Tuyªn) drop 20 item Thiªn Linh §¬n.
+2023-01-21 09:58:00	[killed_Tr­¬ng Tuyªn]	2023-01-21 09:58	Account:pgaming2	Name:ThienVuongBang	npcname(Tr­¬ng Tuyªn) drop 1 item Lam Thñy Tinh.
+2023-01-21 09:58:00	[killed_Tr­¬ng Tuyªn]	2023-01-21 09:58	Account:pgaming2	Name:ThienVuongBang	npcname(Tr­¬ng Tuyªn) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 09:58:00	[killed_Tr­¬ng Tuyªn]	2023-01-21 09:58	Account:pgaming2	Name:ThienVuongBang	npcname(Tr­¬ng Tuyªn) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 09:58:00	[killed_Tr­¬ng Tuyªn]	2023-01-21 09:58	Account:pgaming2	Name:ThienVuongBang	npcname(Tr­¬ng Tuyªn) drop 1 item Anh Hïng ThiÕp.
+2023-01-21 09:58:00	pgaming2	ThienVuongBang	DCPhanThuongBoss	200	5	PhÇn th­ëng exp cho ng­êi tiªu diÖt Tr­¬ng Tuyªn	nExp		20000000		121
+2023-01-21 09:58:00	pgaming2	ThienVuongBang	DCPhanThuongBoss	200	5	PhÇn th­ëng exp cho ng­êi ®øng gÇn Tr­¬ng Tuyªn	nExp		10000000		121
+2023-01-21 09:58:49	pgaming2	ThienVuongBang	hongying baoxiang	200	5	award	[Hoµn Mü] Hång ¶nh TrÇm Viªn V·n Tóy	AddItemEx(4,-822751492,1,0,535,1,10,1,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:58:49	pgaming2	ThienVuongBang	hongying baoxiang	200	5	award	[Hoµn Mü] Hång ¶nh KiÕm Qua T©y Ph­¬ng	AddItemEx(4,1193502233,1,0,536,0,10,2,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:58:49	pgaming2	ThienVuongBang	hongying baoxiang	200	5	award	[Hoµn Mü] Hång ¶nh Môc Tóc T­¬ng Vong	AddItemEx(4,853236458,1,0,537,0,10,4,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:58:49	pgaming2	ThienVuongBang	hongying baoxiang	200	5	award	[Hoµn Mü] Hång ¶nh Hång Tô Chiªu	AddItemEx(4,-1734739649,1,0,538,1,10,3,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 09:59:45	20230121 095945	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item [Cùc phÈm]Hång ¶nh Hång Tô Chiªu
+2023-01-21 09:59:45	20230121 095945	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item [Cùc phÈm] Hång ¶nh Môc Tóc T­¬ng Vong
+2023-01-21 09:59:45	20230121 095945	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item [Cùc phÈm] Hång ¶nh KiÕm Qua T©y Ph­¬ng
+2023-01-21 09:59:45	20230121 095945	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item [Cùc phÈm] Hång ¶nh TrÇm Viªn V·n Tóy
+2023-01-21 09:59:45	20230121 095945	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item Tinh Hång B¶o Th¹ch
+2023-01-21 09:59:45	20230121 095945	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item Tinh Hång B¶o Th¹ch
+2023-01-21 09:59:45	20230121 095945	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item ThiÕt La H¸n
+2023-01-21 10:00:32	pgaming2	ThienVuongBang	Më ra vËt phÈm mua ë Kú Tr©n C¸c	200	5	award	Nh¹c V­¬ng KiÕm	AddItemEx(4,-892079896,0,4,195,1,1,0,0,0,0,0,0,0,0,0)	1		121
+2023-01-21 10:00:57	10:00,566,95,0,11,3346,4797,Cæ B¸ch
+2023-01-21 10:00:57	10:00,740,95,0,176,1162,2781,HuyÒn Gi¸c §¹i S­
+2023-01-21 10:00:57	10:00,1366,95,1,75,1614,3191,§­êng Phi YÕn
+2023-01-21 10:00:57	10:00,582,95,1,204,1527,3529,Lam Y Y
+2023-01-21 10:00:57	10:00,568,95,2,203,1792,3234,Hµ Linh Phiªu
+2023-01-21 10:00:57	10:00,744,95,2,37,1535,2902,Yªn HiÓu Tr¸i
+2023-01-21 10:00:57	10:00,583,95,3,224,1739,2857,M¹nh Th­¬ng L­¬ng
+2023-01-21 10:00:57	10:00,563,95,3,181,1616,2951,Gia LuËt TÞ Ly
+2023-01-21 10:00:57	10:00,562,95,4,321,1474,3008,§¹o Thanh Ch©n Nh©n
+2023-01-21 10:00:57	10:00,747,95,4,342,1212,2419,TuyÒn C¬ Tö
+2023-01-21 10:00:57	10:00,739,95,0,202,1618,2950,V­¬ng T¸
+2023-01-21 10:00:57	10:00,1365,95,0,336,1422,3113,HuyÒn Nan §¹i S­
+2023-01-21 10:00:57	10:00,741,95,1,75,1614,3191,§­êng BÊt NhiÔm
+2023-01-21 10:00:57	10:00,742,95,1,80,1538,3041,B¹ch Doanh Doanh
+2023-01-21 10:00:57	10:00,743,95,2,205,1585,3226,Thanh TuyÖt S­ Th¸i
+2023-01-21 10:00:57	10:00,567,95,2,203,1792,3234,Chung Linh Tó
+2023-01-21 10:00:57	10:00,745,95,3,10,1836,3082,Hµ Nh©n Ng·
+2023-01-21 10:00:57	10:00,565,95,3,336,1422,3113,§oan Méc DuÖ
+2023-01-21 10:00:57	10:00,1367,95,4,11,2966,4807,Tõ §¹i Nh¹c
+2023-01-21 10:00:57	10:00,1368,95,4,322,1938,3957,Thanh Liªn Tö
+2023-01-21 10:00:57	10:00,743,95,2,225,1603,3221,Thanh TuyÖt S­ Th¸i
+2023-01-21 10:03:00	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89399	S« C« La lo¹i 5	AddItemEx(4,-518784524,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		225
+2023-01-21 10:03:00	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89399	L­ìi LiÒm B¹c	AddItemEx(4,-1282875447,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		225
+2023-01-21 10:03:01	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:03:01	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:03:01	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:03:01	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:03:01	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:03:01	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:03:01	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:03:01	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		225
+2023-01-21 10:03:01	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		225
+2023-01-21 10:03:26	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89400	S« C« La lo¹i 5	AddItemEx(4,783134259,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		322
+2023-01-21 10:03:26	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89400	L­ìi LiÒm B¹c	AddItemEx(4,-330326556,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		322
+2023-01-21 10:03:27	[killed_Thanh Liªn Tö]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh Liªn Tö) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:03:27	[killed_Thanh Liªn Tö]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh Liªn Tö) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:03:27	[killed_Thanh Liªn Tö]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh Liªn Tö) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:03:27	[killed_Thanh Liªn Tö]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh Liªn Tö) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:03:27	[killed_Thanh Liªn Tö]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh Liªn Tö) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:03:27	[killed_Thanh Liªn Tö]	2023-01-21 10:03	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh Liªn Tö) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:03:27	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		322
+2023-01-21 10:03:27	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		322
+2023-01-21 10:04:03	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89401	S« C« La lo¹i 5	AddItemEx(4,-1078068693,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-21 10:04:03	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89401	L­ìi LiÒm B¹c	AddItemEx(4,-669114180,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-21 10:04:04	[killed_Tõ §¹i Nh¹c]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(Tõ §¹i Nh¹c) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:04:04	[killed_Tõ §¹i Nh¹c]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(Tõ §¹i Nh¹c) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:04:04	[killed_Tõ §¹i Nh¹c]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(Tõ §¹i Nh¹c) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:04:04	[killed_Tõ §¹i Nh¹c]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(Tõ §¹i Nh¹c) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:04:04	[killed_Tõ §¹i Nh¹c]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(Tõ §¹i Nh¹c) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:04:04	[killed_Tõ §¹i Nh¹c]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(Tõ §¹i Nh¹c) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:04:04	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		11
+2023-01-21 10:04:04	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		11
+2023-01-21 10:04:36	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89402	S« C« La lo¹i 5	AddItemEx(4,1195519691,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-21 10:04:36	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89402	L­ìi LiÒm B¹c	AddItemEx(4,760159196,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-21 10:04:38	[killed_§oan Méc DuÖ]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(§oan Méc DuÖ) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:04:38	[killed_§oan Méc DuÖ]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(§oan Méc DuÖ) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:04:38	[killed_§oan Méc DuÖ]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(§oan Méc DuÖ) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:04:38	[killed_§oan Méc DuÖ]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(§oan Méc DuÖ) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:04:38	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		336
+2023-01-21 10:04:38	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		336
+2023-01-21 10:04:47	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89408	S« C« La lo¹i 5	AddItemEx(4,1948076120,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-21 10:04:47	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89408	L­ìi LiÒm B¹c	AddItemEx(4,2138640445,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-01-21 10:04:48	[killed_HuyÒn Nan §¹i S­]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Nan §¹i S­) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:04:48	[killed_HuyÒn Nan §¹i S­]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Nan §¹i S­) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:04:48	[killed_HuyÒn Nan §¹i S­]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Nan §¹i S­) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:04:48	[killed_HuyÒn Nan §¹i S­]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Nan §¹i S­) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:04:48	[killed_HuyÒn Nan §¹i S­]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Nan §¹i S­) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:04:48	[killed_HuyÒn Nan §¹i S­]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Nan §¹i S­) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:04:48	[killed_HuyÒn Nan §¹i S­]	2023-01-21 10:04	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Nan §¹i S­) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:04:48	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		336
+2023-01-21 10:04:48	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		336
+2023-01-21 10:06:03	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89403	S« C« La lo¹i 5	AddItemEx(4,-914055161,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		10
+2023-01-21 10:06:03	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89403	L­ìi LiÒm B¹c	AddItemEx(4,-443810424,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		10
+2023-01-21 10:06:04	[killed_Hµ Nh©n Ng·]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Nh©n Ng·) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:06:04	[killed_Hµ Nh©n Ng·]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Nh©n Ng·) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:06:04	[killed_Hµ Nh©n Ng·]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Nh©n Ng·) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:06:04	[killed_Hµ Nh©n Ng·]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Nh©n Ng·) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:06:04	[killed_Hµ Nh©n Ng·]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Nh©n Ng·) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:06:04	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		10
+2023-01-21 10:06:04	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		10
+2023-01-21 10:06:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89404	S« C« La lo¹i 5	AddItemEx(4,-1209690553,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-21 10:06:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89404	L­ìi LiÒm B¹c	AddItemEx(4,134042824,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-21 10:06:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89415	S« C« La lo¹i 5	AddItemEx(4,614161624,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-21 10:06:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89415	L­ìi LiÒm B¹c	AddItemEx(4,1692763837,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-01-21 10:06:22	[killed_Chung Linh Tó]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Chung Linh Tó) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:06:22	[killed_Chung Linh Tó]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Chung Linh Tó) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:06:22	[killed_Chung Linh Tó]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Chung Linh Tó) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:06:22	[killed_Chung Linh Tó]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Chung Linh Tó) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:06:22	[killed_Chung Linh Tó]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Chung Linh Tó) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:06:22	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		203
+2023-01-21 10:06:22	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		203
+2023-01-21 10:06:22	[killed_Hµ Linh Phiªu]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Linh Phiªu) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:06:22	[killed_Hµ Linh Phiªu]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Linh Phiªu) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:06:22	[killed_Hµ Linh Phiªu]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Linh Phiªu) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:06:22	[killed_Hµ Linh Phiªu]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Linh Phiªu) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:06:22	[killed_Hµ Linh Phiªu]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Hµ Linh Phiªu) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:06:22	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		203
+2023-01-21 10:06:22	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		203
+2023-01-21 10:06:40	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89405	S« C« La lo¹i 5	AddItemEx(4,-1906820908,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		205
+2023-01-21 10:06:40	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89405	L­ìi LiÒm B¹c	AddItemEx(4,-1105914327,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		205
+2023-01-21 10:06:41	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:06:41	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:06:41	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:06:41	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:06:41	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:06:41	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:06:41	[killed_Thanh TuyÖt S­ Th¸i]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:06:41	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		205
+2023-01-21 10:06:41	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		205
+2023-01-21 10:06:56	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89406	S« C« La lo¹i 5	AddItemEx(4,437378497,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		80
+2023-01-21 10:06:56	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89406	L­ìi LiÒm B¹c	AddItemEx(4,-795619478,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		80
+2023-01-21 10:06:57	[killed_B¹ch Doanh Doanh]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(B¹ch Doanh Doanh) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:06:57	[killed_B¹ch Doanh Doanh]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(B¹ch Doanh Doanh) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:06:57	[killed_B¹ch Doanh Doanh]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(B¹ch Doanh Doanh) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:06:57	[killed_B¹ch Doanh Doanh]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(B¹ch Doanh Doanh) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:06:57	[killed_B¹ch Doanh Doanh]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(B¹ch Doanh Doanh) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:06:57	[killed_B¹ch Doanh Doanh]	2023-01-21 10:06	Account:pgaming2	Name:ThienVuongBang	npcname(B¹ch Doanh Doanh) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:06:57	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		80
+2023-01-21 10:06:57	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		80
+2023-01-21 10:07:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89407	S« C« La lo¹i 5	AddItemEx(4,-1431974590,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-01-21 10:07:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89407	L­ìi LiÒm B¹c	AddItemEx(4,1627257871,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-01-21 10:07:23	[killed_§­êng BÊt NhiÔm]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(§­êng BÊt NhiÔm) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:07:23	[killed_§­êng BÊt NhiÔm]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(§­êng BÊt NhiÔm) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:07:23	[killed_§­êng BÊt NhiÔm]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(§­êng BÊt NhiÔm) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:07:23	[killed_§­êng BÊt NhiÔm]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(§­êng BÊt NhiÔm) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:07:23	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		75
+2023-01-21 10:07:23	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		75
+2023-01-21 10:07:53	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89409	S« C« La lo¹i 5	AddItemEx(4,1205126327,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		202
+2023-01-21 10:07:53	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89409	L­ìi LiÒm B¹c	AddItemEx(4,-649618696,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		202
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:07:54	[killed_V­¬ng T¸]	2023-01-21 10:07	Account:pgaming2	Name:ThienVuongBang	npcname(V­¬ng T¸) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:07:54	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		202
+2023-01-21 10:07:54	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		202
+2023-01-21 10:08:18	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-1427-1]Tö MÉu LÖnh
+2023-01-21 10:08:18	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-1427-1]Tö MÉu LÖnh
+2023-01-21 10:08:32	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89410	S« C« La lo¹i 5	AddItemEx(4,1037872564,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		342
+2023-01-21 10:08:32	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89410	L­ìi LiÒm B¹c	AddItemEx(4,-552396151,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		342
+2023-01-21 10:08:33	[killed_TuyÒn C¬ Tö]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(TuyÒn C¬ Tö) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:08:33	[killed_TuyÒn C¬ Tö]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(TuyÒn C¬ Tö) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:08:33	[killed_TuyÒn C¬ Tö]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(TuyÒn C¬ Tö) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:08:33	[killed_TuyÒn C¬ Tö]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(TuyÒn C¬ Tö) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:08:33	[killed_TuyÒn C¬ Tö]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(TuyÒn C¬ Tö) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:08:33	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		342
+2023-01-21 10:08:33	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		342
+2023-01-21 10:08:45	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(²ùÎè) drop 1 item Bao l× x×.
+2023-01-21 10:08:52	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89411	S« C« La lo¹i 5	AddItemEx(4,-931299141,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		321
+2023-01-21 10:08:52	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89411	L­ìi LiÒm B¹c	AddItemEx(4,1420755852,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		321
+2023-01-21 10:08:54	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:08:54	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:08:54	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:08:54	[killed_§¹o Thanh Ch©n Nh©n]	2023-01-21 10:08	Account:pgaming2	Name:ThienVuongBang	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:08:54	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		321
+2023-01-21 10:08:54	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		321
+2023-01-21 10:09:34	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89412	S« C« La lo¹i 5	AddItemEx(4,956211955,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		181
+2023-01-21 10:09:34	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89412	L­ìi LiÒm B¹c	AddItemEx(4,677002660,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		181
+2023-01-21 10:09:35	[killed_Gia LuËt TÞ Ly]	2023-01-21 10:09	Account:pgaming2	Name:ThienVuongBang	npcname(Gia LuËt TÞ Ly) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:09:35	[killed_Gia LuËt TÞ Ly]	2023-01-21 10:09	Account:pgaming2	Name:ThienVuongBang	npcname(Gia LuËt TÞ Ly) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:09:35	[killed_Gia LuËt TÞ Ly]	2023-01-21 10:09	Account:pgaming2	Name:ThienVuongBang	npcname(Gia LuËt TÞ Ly) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:09:35	[killed_Gia LuËt TÞ Ly]	2023-01-21 10:09	Account:pgaming2	Name:ThienVuongBang	npcname(Gia LuËt TÞ Ly) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:09:35	[killed_Gia LuËt TÞ Ly]	2023-01-21 10:09	Account:pgaming2	Name:ThienVuongBang	npcname(Gia LuËt TÞ Ly) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:09:35	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		181
+2023-01-21 10:09:35	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		181
+2023-01-21 10:10:14	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89413	S« C« La lo¹i 5	AddItemEx(4,-227412928,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		224
+2023-01-21 10:10:14	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89413	L­ìi LiÒm B¹c	AddItemEx(4,-1211596603,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		224
+2023-01-21 10:10:15	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-21 10:10	Account:pgaming2	Name:ThienVuongBang	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Nga Mi Hoµng Kim Trang B~ B¶o R­¬ng (NgÉu nhiªn).
+2023-01-21 10:10:15	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-21 10:10	Account:pgaming2	Name:ThienVuongBang	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:10:15	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-21 10:10	Account:pgaming2	Name:ThienVuongBang	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:10:15	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-21 10:10	Account:pgaming2	Name:ThienVuongBang	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:10:15	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-21 10:10	Account:pgaming2	Name:ThienVuongBang	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:10:15	[killed_M¹nh Th­¬ng L­¬ng]	2023-01-21 10:10	Account:pgaming2	Name:ThienVuongBang	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:10:15	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		224
+2023-01-21 10:10:15	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		224
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item L­ìi LiÒm B¹c
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item L­ìi LiÒm B¹c
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:10:59	20230121 101059	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:11:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89414	S« C« La lo¹i 5	AddItemEx(4,2043871879,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		37
+2023-01-21 10:11:21	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89414	L­ìi LiÒm B¹c	AddItemEx(4,-123356664,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		37
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:11:22	[killed_Yªn HiÓu Tr¸i]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Yªn HiÓu Tr¸i) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:11:22	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		37
+2023-01-21 10:11:22	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		37
+2023-01-21 10:11:42	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89416	S« C« La lo¹i 5	AddItemEx(4,-1307088379,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		204
+2023-01-21 10:11:42	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89416	L­ìi LiÒm B¹c	AddItemEx(4,479793470,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		204
+2023-01-21 10:11:44	[killed_Lam Y Y]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Lam Y Y) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:11:44	[killed_Lam Y Y]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Lam Y Y) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:11:44	[killed_Lam Y Y]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Lam Y Y) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:11:44	[killed_Lam Y Y]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Lam Y Y) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:11:44	[killed_Lam Y Y]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Lam Y Y) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:11:44	[killed_Lam Y Y]	2023-01-21 10:11	Account:pgaming2	Name:ThienVuongBang	npcname(Lam Y Y) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:11:44	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		204
+2023-01-21 10:11:44	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		204
+2023-01-21 10:12:15	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89418	S« C« La lo¹i 5	AddItemEx(4,-967095969,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		176
+2023-01-21 10:12:15	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89418	L­ìi LiÒm B¹c	AddItemEx(4,75407168,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		176
+2023-01-21 10:12:16	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:12:16	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:12:16	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Tö Thñy Tinh.
+2023-01-21 10:12:16	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:12:16	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:12:16	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:12:16	[killed_HuyÒn Gi¸c §¹i S­]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:12:16	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		176
+2023-01-21 10:12:16	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		176
+2023-01-21 10:12:37	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89449	S« C« La lo¹i 5	AddItemEx(4,1795568795,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-21 10:12:37	pgaming2	ThienVuongBang	[TÝnh n¨ng socola] [Hîp thµnh socola]	200	5	89449	L­ìi LiÒm B¹c	AddItemEx(4,-721739028,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-01-21 10:12:38	[killed_Cæ B¸ch]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(Cæ B¸ch) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:12:38	[killed_Cæ B¸ch]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(Cæ B¸ch) drop 1 item Phi tèc hoµn lÔ bao.
+2023-01-21 10:12:38	[killed_Cæ B¸ch]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(Cæ B¸ch) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-01-21 10:12:38	[killed_Cæ B¸ch]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(Cæ B¸ch) drop 1 item Lam Thñy Tinh.
+2023-01-21 10:12:38	[killed_Cæ B¸ch]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(Cæ B¸ch) drop 1 item Lôc Thñy Tinh.
+2023-01-21 10:12:38	[killed_Cæ B¸ch]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(Cæ B¸ch) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-01-21 10:12:38	[killed_Cæ B¸ch]	2023-01-21 10:12	Account:pgaming2	Name:ThienVuongBang	npcname(Cæ B¸ch) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-01-21 10:12:38	pgaming2	ThienVuongBang	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	200	5		nExp		2000000		11
+2023-01-21 10:12:38	pgaming2	ThienVuongBang	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	200	5		nExp		1000000		11
+2023-01-21 10:13:17	20230121 101317	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:13:17	20230121 101317	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:13:17	20230121 101317	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:13:17	20230121 101317	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item Tinh Hång B¶o Th¹ch
+2023-01-21 10:13:17	20230121 101317	 GM Hñy Item pgaming2	ThienVuongBang	 Huû item S« C« La lo¹i 5
+2023-01-21 10:28:30	2023-01-21 10:28:30 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 10:28:32	2023-01-21 10:28:32 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Gia LuËt TÞ Ly
+2023-01-21 10:28:57	2023-01-21 10:28:57 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 10:28:59	2023-01-21 10:28:59 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:29:01	2023-01-21 10:29:01 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 10:29:03	2023-01-21 10:29:03 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 10:29:05	2023-01-21 10:29:05 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:29:07	2023-01-21 10:29:07 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:29:09	2023-01-21 10:29:09 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: TuyÒn C¬ Tö 
+2023-01-21 10:29:18	2023-01-21 10:29:18 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:29:20	2023-01-21 10:29:20 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 10:29:22	2023-01-21 10:29:22 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 10:29:24	2023-01-21 10:29:24 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:29:27	2023-01-21 10:29:27 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Linh Phiªu
+2023-01-21 10:30:09	2023-01-21 10:30:09 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 10:30:10	2023-01-21 10:30:10 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 10:30:12	2023-01-21 10:30:12 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:30:14	2023-01-21 10:30:14 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:30:16	2023-01-21 10:30:16 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 10:30:19	2023-01-21 10:30:19 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Hµ Linh Phiªu
+2023-01-21 10:30:29	2023-01-21 10:30:29 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 10:30:30	2023-01-21 10:30:30 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: §oan Méc DuÖ 
+2023-01-21 10:30:50	2023-01-21 10:30:50 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 10:30:52	2023-01-21 10:30:52 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: TuyÒn C¬ Tö 
+2023-01-21 10:31:03	2023-01-21 10:31:03 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-21 10:31:04	2023-01-21 10:31:04 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-21 10:31:06	2023-01-21 10:31:06 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-21 10:31:09	2023-01-21 10:31:09 pgaming2, [ThienVuongBang] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Chung Linh Tó 

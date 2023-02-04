@@ -1,0 +1,75 @@
+  c             	[2023-01-20 19:34:25]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-0-1017-1]Hoa	[PLACE]	139
+  c             	[2023-01-20 19:34:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-0-1017-1]Hoa	[PLACE]	139
+  c             	[2023-01-20 19:34:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-0-1017-1]Hoa	[PLACE]	139
+  c             	[2023-01-20 19:34:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-0-1017-1]Hoa	[PLACE]	139
+  c             	[2023-01-20 19:34:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-0-1017-1]Hoa	[PLACE]	139
+  c             	[2023-01-20 19:34:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-0-1017-1]Hoa	[PLACE]	139
+  c             	[2023-01-20 19:34:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-0-1017-1]Hoa	[PLACE]	139
+  c             	[2023-01-20 19:39:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139
+  c             	[2023-01-20 19:39:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139
+  c             	[2023-01-20 19:39:22]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThuyYen	[C]	1	[COUNT]	1	[BUY]	[6-1-2527-1E24]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c             	[2023-01-20 20:29:49]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-2527-1E24]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c             	[2023-01-20 20:29:52]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Ti™n Th∂o LÈ Æ∆c bi÷t	[PLACE]	139
+  c             	[2023-01-20 20:29:58]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	200	[COUNT]	1	[BUY]	[6-1-2219-1]Cµn Kh´n Song Tuy÷t BÈi	[PLACE]	139
+  c             	[2023-01-20 20:30:52]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1500	[COUNT]	1	[BUY]	[0-11-817E168]M∆t nπ chi’n tr≠Íng Hoµng Gi∂	[PLACE]	145
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:26]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	4	[COUNT]	1	[BUY]	[4-979-1-1]Kim T™	[PLACE]	141
+  c             	[2023-01-20 20:38:31]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:38:31]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:38:31]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:38:31]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:43:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:46:01]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	5	[COUNT]	1	[BUY]	[6-1-398-1]Th«n b› kho∏ng thπch	[PLACE]	141
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:29]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:30]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:30]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:30]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:51:30]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-1022-1]Boss Tri÷u Ho∏n PhÔ 	[PLACE]	181
+  c             	[2023-01-20 20:57:04]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-2527-1E24]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139
+  c             	[2023-01-20 20:57:04]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VooDang2	[C]	1	[COUNT]	1	[BUY]	[6-1-2527-1E24]HÂi thi™n t∏i tπo l‘ bao	[PLACE]	139

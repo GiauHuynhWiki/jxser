@@ -1,0 +1,38 @@
+2023-01-23 07:09:56	[1970-01-01 07:00:00] Register [Thİ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-01-23 07:10:02	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:10:40	1640123-07:10: B¾t ®Çu treo m¸y!
+2023-01-23 07:19:06	pgaming3	KûNiÖm§åTİm	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,-1865197382,0,6,1,1266,1,3,0,0,0,0,0,0,0,0)	1		153
+2023-01-23 07:19:06	pgaming3	KûNiÖm§åTİm	T©n Thñ	1	0	award	<color=yellow>Thæ §Şa Phï	AddItemEx(4,1354706023,0,6,1,438,1,3,0,0,0,0,0,0,0,0)	1		153
+2023-01-23 07:19:08	clean KûNiÖm§åTİm(Level:1) Tong Contribution old value is 0 new value is 0
+2023-01-23 07:26:36	pgaming3	KûNiÖm§åTİm	Më ra vËt phÈm mua ë Kú Tr©n C¸c	80	0	award	§İch L« 	AddItemEx(4,1344520569,0,0,10,5,9,0,0,0,0,0,0,0,0,0)	1		153
+2023-01-23 07:26:36	pgaming3	KûNiÖm§åTİm	Më ra vËt phÈm mua ë Kú Tr©n C¸c	80	0	award	TuyÖt ¶nh	AddItemEx(4,-690622927,0,0,10,5,8,0,0,0,0,0,0,0,0,0)	1		153
+2023-01-23 07:26:37	pgaming3	KûNiÖm§åTİm	Më ra vËt phÈm mua ë Kú Tr©n C¸c	80	0	award	¤ V©n §¹p TuyÕt	AddItemEx(4,-1527532750,0,0,10,5,6,0,0,0,0,0,0,0,0,0)	1		153
+2023-01-23 07:30:18	pgaming3	KûNiÖm§åTİm	[liguan]get_free_item_HuyÒn Tinh CÊp 9	80	0	award	HuyÒn Tinh CÊp 9	AddItemEx(4,-1705330630,0,6,1,147,9,0,0,60,0,0,0,0,0,0)	44		324
+2023-01-23 07:46:03	pgaming3	KûNiÖm§åTİm	hongying baoxiang	81	0	award	[Hoµn Mü] Hång ¶nh TrÇm Viªn V·n Tóy	AddItemEx(4,-1607537089,1,0,535,1,10,1,0,0,0,0,0,0,0,0)	1		37
+2023-01-23 07:46:03	pgaming3	KûNiÖm§åTİm	hongying baoxiang	81	0	award	[Hoµn Mü] Hång ¶nh KiÕm Qua T©y Ph­¬ng	AddItemEx(4,-377005784,1,0,536,0,10,2,0,0,0,0,0,0,0,0)	1		37
+2023-01-23 07:46:03	pgaming3	KûNiÖm§åTİm	hongying baoxiang	81	0	award	[Hoµn Mü] Hång ¶nh Môc Tóc T­¬ng Vong	AddItemEx(4,712113141,1,0,537,0,10,4,0,0,0,0,0,0,0,0)	1		37
+2023-01-23 07:46:03	pgaming3	KûNiÖm§åTİm	hongying baoxiang	81	0	award	[Hoµn Mü] Hång ¶nh Hång Tô Chiªu	AddItemEx(4,-952797386,1,0,538,1,10,3,0,0,0,0,0,0,0,0)	1		37
+2023-01-23 07:46:24	[DoTransLife]	2023-01-23 07:46:24	Name:KûNiÖm§åTİm	Account:pgaming3	DoTransLife,LEVEL:200,SetLevel:200,FACTION:-1,TRANSCOUNT:0,RESIST:0,AddMagicPoint:20,AddProp:100,AddResist:5
+2023-01-23 07:46:24	KickOutSelf Account:pgaming3  RoleName KûNiÖm§åTİm
+Mon Jan 23 07:46:24 2023
+ Acc:pgaming3 Role:KûNiÖm§åTİm Level:200 RenascenceCount:1, Translife done!
+2023-01-23 08:00:34	[Thiªn Tr× MËt C¶nh][4tÇng]	2023-01-23 08:00			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2023-01-23 08:10:41	KickOutSelf Account:pgaming3  RoleName KûNiÖm§åTİm
+2023-01-23 08:16:01	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:16	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(¶áÃüÁ­) drop 1 item Bao l× x×.
+2023-01-23 08:18:41	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:18	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(É½Ôô) drop 1 item Bao l× x×.
+2023-01-23 08:23:57	08:23	23/01/2023	binhchivn	pgaming3	KûNiÖm§åTİm	Ngò §éc Gi¸o	81		TinhNangKey	NhanNhiemVuDaTau
+2023-01-23 08:24:50	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:24	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(÷ÙØ°) drop 1 item Bao l× x×.
+2023-01-23 08:28:02	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:28	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(÷ÙØ°) drop 1 item Bao l× x×.
+2023-01-23 08:29:57	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:29	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(÷ÙØ°) drop 1 item Bao l× x×.
+2023-01-23 08:32:10	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:32	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(÷ÙØ°) drop 1 item Bao l× x×.
+2023-01-23 08:33:10	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:33	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(÷ÙØ°) drop 1 item Bao l× x×.
+2023-01-23 08:36:59	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-23 08:36	Account:pgaming3	Name:KûNiÖm§åTİm	npcname(·ÉÁ­) drop 1 item Bao l× x×.

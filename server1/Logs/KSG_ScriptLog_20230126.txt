@@ -1,0 +1,9 @@
+2023-01-26 00:00:03	pgaming3	KûNiÖm§åTİm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	39	2	96574	Hµnh HiÖp LÖnh	AddItemEx(4,405487849,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-26 00:00:07	pgaming3	KûNiÖm§åTİm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	39	2	70844	Hµnh HiÖp LÖnh	AddItemEx(4,-1760292094,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-26 00:00:37	pgaming3	KûNiÖm§åTİm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	39	2	96545	Hµnh HiÖp LÖnh	AddItemEx(4,643198277,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-01-26 00:00:41	battle is ending. now member count=0:0
+2023-01-26 00:00:41	Khu vùc S¬ cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc00:00
+2023-01-26 00:00:41	battle is ending. now member count=0:0
+2023-01-26 00:00:41	Khu vùc Trung cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc00:00
+2023-01-26 00:00:41	battle is ending. now member count=0:0
+2023-01-26 00:00:41	Khu vùc Cao cÊp Tèng Kim ph­¬ng thøc vËn l­¬ng ®· kÕt thóc víi kÕt qu¶ hßa, sè Bao l­¬ng phe Tèng vµ phe Kim lµ 0Tû lÖ qu©n sè lµ: Tèng 0: Kim 0. Thêi gian kÕt thóc00:00

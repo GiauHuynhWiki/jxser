@@ -1,0 +1,286 @@
+2023-02-03 21:47:55	[1970-01-01 07:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-02-03 21:47:58	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:48:22	340203-21:48: B¾t ®Çu treo m¸y!
+2023-02-03 21:50:33	pgaming3	KûNiÖm§åTÝm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	39	2	96490	Hµnh HiÖp LÖnh	AddItemEx(4,1397538846,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-02-03 21:50:35	pgaming3	KûNiÖm§åTÝm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	39	2	96493	Hµnh HiÖp LÖnh	AddItemEx(4,1348491377,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-02-03 21:50:40	pgaming3	KûNiÖm§åTÝm	Trong ngµy giÕt ®­îc 3 con qu¸i xanh ®Çu tiªn cÊp 95	39	2	96492	Hµnh HiÖp LÖnh	AddItemEx(4,-670636889,0,6,1,2566,1,0,0,0,0,0,0,0,0,0)	1		342
+2023-02-03 22:00:01	BaiRenLeiTai	CallNPC_GuShou:960,55840,100384
+2023-02-03 22:00:38	22:00,566,95,0,11,3346,4797,Cæ B¸ch
+2023-02-03 22:00:38	22:00,740,95,0,176,1162,2781,HuyÒn Gi¸c §¹i S­
+2023-02-03 22:00:38	22:00,1366,95,1,75,1614,3191,§­êng Phi YÕn
+2023-02-03 22:00:38	22:00,582,95,1,204,1527,3529,Lam Y Y
+2023-02-03 22:00:38	22:00,568,95,2,203,1792,3234,Hµ Linh Phiªu
+2023-02-03 22:00:38	22:00,744,95,2,37,1535,2902,Yªn HiÓu Tr¸i
+2023-02-03 22:00:38	22:00,583,95,3,224,1739,2857,M¹nh Th­¬ng L­¬ng
+2023-02-03 22:00:38	22:00,563,95,3,181,1616,2951,Gia LuËt TÞ Ly
+2023-02-03 22:00:38	22:00,562,95,4,321,1474,3008,§¹o Thanh Ch©n Nh©n
+2023-02-03 22:00:38	22:00,747,95,4,342,1212,2419,TuyÒn C¬ Tö
+2023-02-03 22:00:38	22:00,739,95,0,202,1618,2950,V­¬ng T¸
+2023-02-03 22:00:38	22:00,1365,95,0,336,1422,3113,HuyÒn Nan §¹i S­
+2023-02-03 22:00:38	22:00,741,95,1,75,1614,3191,§­êng BÊt NhiÔm
+2023-02-03 22:00:38	22:00,742,95,1,80,1538,3041,B¹ch Doanh Doanh
+2023-02-03 22:00:38	22:00,743,95,2,205,1585,3226,Thanh TuyÖt S­ Th¸i
+2023-02-03 22:00:38	22:00,567,95,2,203,1792,3234,Chung Linh Tó
+2023-02-03 22:00:38	22:00,745,95,3,10,1836,3082,Hµ Nh©n Ng·
+2023-02-03 22:00:38	22:00,565,95,3,336,1422,3113,§oan Méc DuÖ
+2023-02-03 22:00:38	22:00,1367,95,4,11,2966,4807,Tõ §¹i Nh¹c
+2023-02-03 22:00:38	22:00,1368,95,4,322,1938,3957,Thanh Liªn Tö
+2023-02-03 22:00:38	22:00,743,95,2,225,1603,3221,Thanh TuyÖt S­ Th¸i
+2023-02-03 22:05:32	KickOutSelf Account:pgaming  RoleName VoDang
+2023-02-03 22:07:17	[§¸i nghÖ ®Çu s­]	2023-02-03 22:07:17	Name:VoDang	Account:pgaming	Level:180,FactionId:8§­a ra m«n ph¸i tÝn vËt, yªu cÇu chuyÓn m«n ph¸i thµnh c«ng
+2023-02-03 22:09:15	[DoTransLife]	2023-02-03 22:09:15	Name:VoDang	Account:pgaming	DoTransLife,LEVEL:180,SetLevel:180,FACTION:8,TRANSCOUNT:1,RESIST:0,AddMagicPoint:23,AddProp:79,AddResist:4
+2023-02-03 22:09:15	KickOutSelf Account:pgaming  RoleName VoDang
+Fri Feb  3 22:09:15 2023
+ Acc:pgaming Role:VoDang Level:180 RenascenceCount:2, Translife done!
+2023-02-03 22:11:59	pgaming	HoaSon	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,1354706023,0,6,1,1266,1,2,0,0,0,0,0,0,0,0)	1		101
+2023-02-03 22:11:59	pgaming	HoaSon	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,-549722264,0,6,1,438,1,3,0,0,0,0,0,0,0,0)	1		101
+2023-02-03 22:12:01	clean HoaSon(Level:1) Tong Contribution old value is 0 new value is 0
+2023-02-03 22:19:59	pgaming	VòHånPh¸i	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,-1053934261,0,6,1,1266,1,4,0,0,0,0,0,0,0,0)	1		53
+2023-02-03 22:19:59	pgaming	VòHånPh¸i	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,-1589201828,0,6,1,438,1,3,0,0,0,0,0,0,0,0)	1		53
+2023-02-03 22:20:01	clean VòHånPh¸i(Level:1) Tong Contribution old value is 0 new value is 0
+2023-02-03 22:30:01	BaiRenLeiTai	CallNPC_GuShou:960,55904,96768
+2023-02-03 22:37:23	pgaming	ThóyYªn	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,1942612177,0,6,1,1266,1,0,0,0,0,0,0,0,0,0)	1		20
+2023-02-03 22:37:23	pgaming	ThóyYªn	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,-1865197382,0,6,1,438,1,0,0,0,0,0,0,0,0,0)	1		20
+2023-02-03 22:37:25	clean ThóyYªn(Level:1) Tong Contribution old value is 0 new value is 0
+2023-02-03 22:37:31	KickOutSelf Account:pgaming  RoleName ThóyYªn
+2023-02-03 22:37:58	KickOutSelf Account:pgaming  RoleName ThóyYªn
+2023-02-03 22:44:28	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89510	S« C« La lo¹i 5	AddItemEx(4,-700162181,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-02-03 22:44:28	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89510	L­ìi LiÒm B¹c	AddItemEx(4,-109415092,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-02-03 22:44:30	[killed_Cæ B¸ch]	2023-02-03 22:44	Account:pgaming	Name:ThóyYªn	npcname(Cæ B¸ch) drop 1 item Nga Mi Hoµng Kim Trang B~ B¶o R­¬ng (NgÉu nhiªn).
+2023-02-03 22:44:30	[killed_Cæ B¸ch]	2023-02-03 22:44	Account:pgaming	Name:ThóyYªn	npcname(Cæ B¸ch) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:44:30	[killed_Cæ B¸ch]	2023-02-03 22:44	Account:pgaming	Name:ThóyYªn	npcname(Cæ B¸ch) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:44:30	[killed_Cæ B¸ch]	2023-02-03 22:44	Account:pgaming	Name:ThóyYªn	npcname(Cæ B¸ch) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:44:30	[killed_Cæ B¸ch]	2023-02-03 22:44	Account:pgaming	Name:ThóyYªn	npcname(Cæ B¸ch) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:44:30	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		11
+2023-02-03 22:44:30	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		11
+2023-02-03 22:45:59	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89509	S« C« La lo¹i 5	AddItemEx(4,-1471025668,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		176
+2023-02-03 22:45:59	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89509	L­ìi LiÒm B¹c	AddItemEx(4,550083825,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		176
+2023-02-03 22:46:00	[killed_HuyÒn Gi¸c §¹i S­]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:46:00	[killed_HuyÒn Gi¸c §¹i S­]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:46:00	[killed_HuyÒn Gi¸c §¹i S­]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:46:00	[killed_HuyÒn Gi¸c §¹i S­]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:46:00	[killed_HuyÒn Gi¸c §¹i S­]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Gi¸c §¹i S­) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:46:00	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		176
+2023-02-03 22:46:00	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		176
+2023-02-03 22:46:51	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89498	S« C« La lo¹i 5	AddItemEx(4,-675668967,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-02-03 22:46:51	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89498	L­ìi LiÒm B¹c	AddItemEx(4,361495074,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-02-03 22:46:51	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89508	S« C« La lo¹i 5	AddItemEx(4,997447701,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-02-03 22:46:51	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89508	L­ìi LiÒm B¹c	AddItemEx(4,1634199950,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		75
+2023-02-03 22:46:53	[killed_§­êng BÊt NhiÔm]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng BÊt NhiÔm) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:46:53	[killed_§­êng BÊt NhiÔm]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng BÊt NhiÔm) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:46:53	[killed_§­êng BÊt NhiÔm]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng BÊt NhiÔm) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:46:53	[killed_§­êng BÊt NhiÔm]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng BÊt NhiÔm) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:46:53	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		75
+2023-02-03 22:46:53	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		75
+2023-02-03 22:46:53	[killed_§­êng Phi YÕn]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng Phi YÕn) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:46:53	[killed_§­êng Phi YÕn]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng Phi YÕn) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:46:53	[killed_§­êng Phi YÕn]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng Phi YÕn) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:46:53	[killed_§­êng Phi YÕn]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng Phi YÕn) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:46:53	[killed_§­êng Phi YÕn]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng Phi YÕn) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:46:53	[killed_§­êng Phi YÕn]	2023-02-03 22:46	Account:pgaming	Name:ThóyYªn	npcname(§­êng Phi YÕn) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:46:53	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		75
+2023-02-03 22:46:53	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		75
+2023-02-03 22:47:11	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89507	S« C« La lo¹i 5	AddItemEx(4,-1846787445,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		204
+2023-02-03 22:47:11	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89507	L­ìi LiÒm B¹c	AddItemEx(4,-284412260,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		204
+2023-02-03 22:47:12	[killed_Lam Y Y]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Lam Y Y) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:47:12	[killed_Lam Y Y]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Lam Y Y) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:47:12	[killed_Lam Y Y]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Lam Y Y) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:47:12	[killed_Lam Y Y]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Lam Y Y) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:47:12	[killed_Lam Y Y]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Lam Y Y) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:47:12	[killed_Lam Y Y]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Lam Y Y) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:47:12	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		204
+2023-02-03 22:47:12	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		204
+2023-02-03 22:47:21	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89506	S« C« La lo¹i 5	AddItemEx(4,-858228381,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-02-03 22:47:21	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89506	L­ìi LiÒm B¹c	AddItemEx(4,1248250836,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-02-03 22:47:21	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89495	S« C« La lo¹i 5	AddItemEx(4,1513693292,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-02-03 22:47:21	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89495	L­ìi LiÒm B¹c	AddItemEx(4,1663596321,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		203
+2023-02-03 22:47:22	[killed_Hµ Linh Phiªu]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Hµ Linh Phiªu) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:47:22	[killed_Hµ Linh Phiªu]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Hµ Linh Phiªu) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:47:22	[killed_Hµ Linh Phiªu]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Hµ Linh Phiªu) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:47:22	[killed_Hµ Linh Phiªu]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Hµ Linh Phiªu) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:47:22	[killed_Hµ Linh Phiªu]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Hµ Linh Phiªu) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:47:22	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		203
+2023-02-03 22:47:22	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		203
+2023-02-03 22:47:23	[killed_Chung Linh Tó]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Chung Linh Tó) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:47:23	[killed_Chung Linh Tó]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Chung Linh Tó) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:47:23	[killed_Chung Linh Tó]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Chung Linh Tó) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:47:23	[killed_Chung Linh Tó]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Chung Linh Tó) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:47:23	[killed_Chung Linh Tó]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Chung Linh Tó) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:47:23	[killed_Chung Linh Tó]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Chung Linh Tó) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:47:23	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		203
+2023-02-03 22:47:23	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		203
+2023-02-03 22:47:48	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89505	S« C« La lo¹i 5	AddItemEx(4,-1301803907,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		37
+2023-02-03 22:47:48	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89505	L­ìi LiÒm B¹c	AddItemEx(4,-507145066,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		37
+2023-02-03 22:47:49	[killed_Yªn HiÓu Tr¸i]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Yªn HiÓu Tr¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:47:49	[killed_Yªn HiÓu Tr¸i]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Yªn HiÓu Tr¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:47:49	[killed_Yªn HiÓu Tr¸i]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Yªn HiÓu Tr¸i) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:47:49	[killed_Yªn HiÓu Tr¸i]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Yªn HiÓu Tr¸i) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:47:49	[killed_Yªn HiÓu Tr¸i]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Yªn HiÓu Tr¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:47:49	[killed_Yªn HiÓu Tr¸i]	2023-02-03 22:47	Account:pgaming	Name:ThóyYªn	npcname(Yªn HiÓu Tr¸i) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:47:49	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		37
+2023-02-03 22:47:49	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		37
+2023-02-03 22:48:01	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-1670-1]TÝn vËt m«n ph¸i
+2023-02-03 22:48:01	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-1671-1]TÝn vËt D­¬ng Anh
+2023-02-03 22:48:12	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89504	S« C« La lo¹i 5	AddItemEx(4,-1475509397,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		224
+2023-02-03 22:48:12	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89504	L­ìi LiÒm B¹c	AddItemEx(4,346535676,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		224
+2023-02-03 22:48:13	[killed_M¹nh Th­¬ng L­¬ng]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:48:13	[killed_M¹nh Th­¬ng L­¬ng]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:48:13	[killed_M¹nh Th­¬ng L­¬ng]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:48:13	[killed_M¹nh Th­¬ng L­¬ng]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(M¹nh Th­¬ng L­¬ng) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:48:13	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		224
+2023-02-03 22:48:13	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		224
+2023-02-03 22:48:24	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89503	S« C« La lo¹i 5	AddItemEx(4,-1085672769,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		181
+2023-02-03 22:48:24	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89503	L­ìi LiÒm B¹c	AddItemEx(4,-85345760,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		181
+2023-02-03 22:48:26	[killed_Gia LuËt TÞ Ly]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(Gia LuËt TÞ Ly) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:48:26	[killed_Gia LuËt TÞ Ly]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(Gia LuËt TÞ Ly) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:48:26	[killed_Gia LuËt TÞ Ly]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(Gia LuËt TÞ Ly) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:48:26	[killed_Gia LuËt TÞ Ly]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(Gia LuËt TÞ Ly) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:48:26	[killed_Gia LuËt TÞ Ly]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(Gia LuËt TÞ Ly) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:48:26	[killed_Gia LuËt TÞ Ly]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(Gia LuËt TÞ Ly) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:48:26	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		181
+2023-02-03 22:48:26	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		181
+2023-02-03 22:48:35	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(Àä¹­) drop 1 item Bao l× x×.
+2023-02-03 22:48:45	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89502	S« C« La lo¹i 5	AddItemEx(4,516779905,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		321
+2023-02-03 22:48:45	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89502	L­ìi LiÒm B¹c	AddItemEx(4,2100961322,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		321
+2023-02-03 22:48:47	[killed_§¹o Thanh Ch©n Nh©n]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:48:47	[killed_§¹o Thanh Ch©n Nh©n]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Thiªn V­¬ng Hoµng Kim Trang B~ B¶o R­¬ng (NgÉu nhiªn).
+2023-02-03 22:48:47	[killed_§¹o Thanh Ch©n Nh©n]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:48:47	[killed_§¹o Thanh Ch©n Nh©n]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:48:47	[killed_§¹o Thanh Ch©n Nh©n]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:48:47	[killed_§¹o Thanh Ch©n Nh©n]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:48:47	[killed_§¹o Thanh Ch©n Nh©n]	2023-02-03 22:48	Account:pgaming	Name:ThóyYªn	npcname(§¹o Thanh Ch©n Nh©n) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:48:47	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		321
+2023-02-03 22:48:47	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		321
+2023-02-03 22:49:13	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89501	S« C« La lo¹i 5	AddItemEx(4,34402079,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		342
+2023-02-03 22:49:13	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89501	L­ìi LiÒm B¹c	AddItemEx(4,232903680,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		342
+2023-02-03 22:49:14	[killed_TuyÒn C¬ Tö]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(TuyÒn C¬ Tö) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:49:14	[killed_TuyÒn C¬ Tö]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(TuyÒn C¬ Tö) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:49:14	[killed_TuyÒn C¬ Tö]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(TuyÒn C¬ Tö) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:49:14	[killed_TuyÒn C¬ Tö]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(TuyÒn C¬ Tö) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:49:14	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		342
+2023-02-03 22:49:14	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		342
+2023-02-03 22:49:32	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89500	S« C« La lo¹i 5	AddItemEx(4,-554848657,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		202
+2023-02-03 22:49:32	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89500	L­ìi LiÒm B¹c	AddItemEx(4,630401680,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		202
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:49:33	[killed_V­¬ng T¸]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(V­¬ng T¸) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:49:33	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		202
+2023-02-03 22:49:33	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		202
+2023-02-03 22:49:42	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89493	S« C« La lo¹i 5	AddItemEx(4,776907267,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-02-03 22:49:42	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89493	L­ìi LiÒm B¹c	AddItemEx(4,1297429236,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-02-03 22:49:43	[killed_§oan Méc DuÖ]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(§oan Méc DuÖ) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:49:43	[killed_§oan Méc DuÖ]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(§oan Méc DuÖ) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:49:43	[killed_§oan Méc DuÖ]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(§oan Méc DuÖ) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:49:43	[killed_§oan Méc DuÖ]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(§oan Méc DuÖ) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:49:43	[killed_§oan Méc DuÖ]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(§oan Méc DuÖ) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:49:43	[killed_§oan Méc DuÖ]	2023-02-03 22:49	Account:pgaming	Name:ThóyYªn	npcname(§oan Méc DuÖ) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:49:43	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		336
+2023-02-03 22:49:43	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		336
+2023-02-03 22:50:31	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89499	S« C« La lo¹i 5	AddItemEx(4,1411552873,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-02-03 22:50:31	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89499	L­ìi LiÒm B¹c	AddItemEx(4,802183090,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		336
+2023-02-03 22:50:32	[killed_HuyÒn Nan §¹i S­]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Nan §¹i S­) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:50:32	[killed_HuyÒn Nan §¹i S­]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Nan §¹i S­) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:50:32	[killed_HuyÒn Nan §¹i S­]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Nan §¹i S­) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:50:32	[killed_HuyÒn Nan §¹i S­]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(HuyÒn Nan §¹i S­) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:50:32	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		336
+2023-02-03 22:50:32	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		336
+2023-02-03 22:50:38	Battle Start :1rule16Issue1
+2023-02-03 22:50:38	Khu vùc Trung cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:869.Thêi gian:22:50
+2023-02-03 22:50:38	Battle Start :1rule58Issue1
+2023-02-03 22:50:38	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:22:50
+2023-02-03 22:50:38	Battle Start :1rule58Issue1
+2023-02-03 22:50:55	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89497	S« C« La lo¹i 5	AddItemEx(4,522978893,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		80
+2023-02-03 22:50:55	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89497	L­ìi LiÒm B¹c	AddItemEx(4,364634022,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		80
+2023-02-03 22:50:56	[killed_B¹ch Doanh Doanh]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(B¹ch Doanh Doanh) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:50:56	[killed_B¹ch Doanh Doanh]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(B¹ch Doanh Doanh) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:50:56	[killed_B¹ch Doanh Doanh]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(B¹ch Doanh Doanh) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:50:56	[killed_B¹ch Doanh Doanh]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(B¹ch Doanh Doanh) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:50:56	[killed_B¹ch Doanh Doanh]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(B¹ch Doanh Doanh) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:50:56	[killed_B¹ch Doanh Doanh]	2023-02-03 22:50	Account:pgaming	Name:ThóyYªn	npcname(B¹ch Doanh Doanh) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:50:56	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		80
+2023-02-03 22:50:56	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		80
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:12	20230203 225112	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:24	20230203 225124	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:24	20230203 225124	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:24	20230203 225124	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:24	20230203 225124	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:24	20230203 225124	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:24	20230203 225124	 GM Hñy Item pgaming	ThóyYªn	 Huû item §å phæ Hoµng Kim - KÕ NghiÖp HuyÒn Vò Hoµng Kim Kh¶i
+2023-02-03 22:51:24	20230203 225124	 GM Hñy Item pgaming	ThóyYªn	 Huû item S« C« La lo¹i 5
+2023-02-03 22:51:41	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89496	S« C« La lo¹i 5	AddItemEx(4,-240482793,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		205
+2023-02-03 22:51:41	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89496	L­ìi LiÒm B¹c	AddItemEx(4,-343855656,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		205
+2023-02-03 22:51:42	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:51	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:51:42	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:51	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:51:42	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:51	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:51:42	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:51	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:51:42	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		205
+2023-02-03 22:51:42	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		205
+2023-02-03 22:52:03	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89494	S« C« La lo¹i 5	AddItemEx(4,409035345,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		10
+2023-02-03 22:52:03	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89494	L­ìi LiÒm B¹c	AddItemEx(4,987129914,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		10
+2023-02-03 22:52:04	[killed_Hµ Nh©n Ng·]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Hµ Nh©n Ng·) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:52:04	[killed_Hµ Nh©n Ng·]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Hµ Nh©n Ng·) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:52:04	[killed_Hµ Nh©n Ng·]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Hµ Nh©n Ng·) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:52:04	[killed_Hµ Nh©n Ng·]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Hµ Nh©n Ng·) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:52:04	[killed_Hµ Nh©n Ng·]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Hµ Nh©n Ng·) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:52:04	[killed_Hµ Nh©n Ng·]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Hµ Nh©n Ng·) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:52:04	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		10
+2023-02-03 22:52:04	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		10
+2023-02-03 22:52:36	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89492	S« C« La lo¹i 5	AddItemEx(4,-1663367929,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-02-03 22:52:36	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89492	L­ìi LiÒm B¹c	AddItemEx(4,-2131519864,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		11
+2023-02-03 22:52:38	[killed_Tõ §¹i Nh¹c]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Tõ §¹i Nh¹c) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:52:38	[killed_Tõ §¹i Nh¹c]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Tõ §¹i Nh¹c) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:52:38	[killed_Tõ §¹i Nh¹c]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Tõ §¹i Nh¹c) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:52:38	[killed_Tõ §¹i Nh¹c]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Tõ §¹i Nh¹c) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:52:38	[killed_Tõ §¹i Nh¹c]	2023-02-03 22:52	Account:pgaming	Name:ThóyYªn	npcname(Tõ §¹i Nh¹c) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:52:38	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		11
+2023-02-03 22:52:38	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		11
+2023-02-03 22:53:05	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89491	S« C« La lo¹i 5	AddItemEx(4,-1520101909,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		322
+2023-02-03 22:53:05	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89491	L­ìi LiÒm B¹c	AddItemEx(4,-739941508,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		322
+2023-02-03 22:53:06	[killed_Thanh Liªn Tö]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh Liªn Tö) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:53:06	[killed_Thanh Liªn Tö]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh Liªn Tö) drop 1 item §¹i lùc hoµn lÔ bao.
+2023-02-03 22:53:06	[killed_Thanh Liªn Tö]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh Liªn Tö) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:53:06	[killed_Thanh Liªn Tö]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh Liªn Tö) drop 1 item Lam Thñy Tinh.
+2023-02-03 22:53:06	[killed_Thanh Liªn Tö]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh Liªn Tö) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:53:06	[killed_Thanh Liªn Tö]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh Liªn Tö) drop 1 item Tinh Hång B¶o Th¹ch.
+2023-02-03 22:53:06	[killed_Thanh Liªn Tö]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh Liªn Tö) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:53:06	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		322
+2023-02-03 22:53:06	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		322
+2023-02-03 22:53:22	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89490	S« C« La lo¹i 5	AddItemEx(4,1640562715,0,6,1,3524,1,0,0,0,0,0,0,0,0,0)	20		225
+2023-02-03 22:53:22	pgaming	ThóyYªn	[TÝnh n¨ng socola] [Hîp thµnh socola]	180	0	89490	L­ìi LiÒm B¹c	AddItemEx(4,-384889748,0,6,1,3198,1,0,0,0,0,0,0,0,0,0)	20		225
+2023-02-03 22:53:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Phi tèc hoµn lÔ bao.
+2023-02-03 22:53:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tö Thñy Tinh.
+2023-02-03 22:53:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Lôc Thñy Tinh.
+2023-02-03 22:53:23	[killed_Thanh TuyÖt S­ Th¸i]	2023-02-03 22:53	Account:pgaming	Name:ThóyYªn	npcname(Thanh TuyÖt S­ Th¸i) drop 1 item Tiªn Th¶o Lé ®Æc biÖt.
+2023-02-03 22:53:23	pgaming	ThóyYªn	Kinh nghiÖm ®¶ b¹i BOSS hoµng kim phÇn th­ëng	180	0		nExp		2000000		225
+2023-02-03 22:53:23	pgaming	ThóyYªn	Kinh nghiÖm ®øng gÇn lóc BOSS hoµng kim bÞ tiªu diÖt phÇn th­ëng	180	0		nExp		1000000		225
+2023-02-03 22:58:15	pgaming3	KûNiÖm§åTÝm	hongying baoxiang	39	2	award	[Hoµn Mü] Hång ¶nh TrÇm Viªn V·n Tóy	AddItemEx(4,-1611490338,1,0,535,1,10,1,0,0,0,0,0,0,0,0)	1		342
+2023-02-03 22:58:15	pgaming3	KûNiÖm§åTÝm	hongying baoxiang	39	2	award	[Hoµn Mü] Hång ¶nh KiÕm Qua T©y Ph­¬ng	AddItemEx(4,2137023235,1,0,536,0,10,2,0,0,0,0,0,0,0,0)	1		342
+2023-02-03 22:58:15	pgaming3	KûNiÖm§åTÝm	hongying baoxiang	39	2	award	[Hoµn Mü] Hång ¶nh Môc Tóc T­¬ng Vong	AddItemEx(4,163928572,1,0,537,0,10,4,0,0,0,0,0,0,0,0)	1		342
+2023-02-03 22:58:15	pgaming3	KûNiÖm§åTÝm	hongying baoxiang	39	2	award	[Hoµn Mü] Hång ¶nh Hång Tô Chiªu	AddItemEx(4,-2144740071,1,0,538,1,10,3,0,0,0,0,0,0,0,0)	1		342
+2023-02-03 23:00:01	BaiRenLeiTai	CallNPC_GuShou:960,57056,102848
+2023-02-03 23:00:37	marshal battle is entering fight state. now member count=0:0
+2023-02-03 23:00:38	Khu vùc Trung cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 869. Thêi gian khai chiÕn: 23-02-03 23:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2023-02-03 23:00:38	battle is entering fight state. now member count=0:0
+2023-02-03 23:00:38	Khu vùc Cao cÊp  Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng ®· b¾t ®Çu. ID b¶n ®å lµ: 870. Thêi gian khai chiÕn: 23-02-03 23:00 Tû lÖ qu©n sè Tèng vµ Kim lµ 0:0
+2023-02-03 23:00:38	battle is entering fight state. now member count=0:0

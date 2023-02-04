@@ -1,0 +1,41 @@
+2023-02-04 04:47:33	Node[0] connect: Ip(127.0.0.1 : 59066), Identity(0)
+2023-02-04 04:47:33	ClientConnectCreate:[0]127.0.0.1 : 59066
+2023-02-04 04:47:33	Bishop claim from Node[0]!
+2023-02-04 16:48:52	Node[0] connect: Ip(127.0.0.1 : 38581), Identity(0)
+2023-02-04 16:48:52	ClientConnectCreate:[0]127.0.0.1 : 38581
+2023-02-04 16:48:52	Bishop claim from Node[0]!
+2023-02-04 09:48:51	[QuitBackup]is_quit:0
+2023-02-04 09:48:51	Deliver statdata: 0 bytes
+2023-02-04 09:50:23	Node[1] connect: Ip(127.0.0.1 : 38723), Identity(1)
+2023-02-04 09:50:23	ClientConnectCreate:[1]127.0.0.1 : 38723
+2023-02-04 09:51:32	GetRoleInfo(HoµngKimKûNiÖm) OK: Enter Node[0](127.0.0.1 : 38581)
+2023-02-04 09:51:32	GetRoleData(HoµngKimKûNiÖm) OK: datalen(3832)
+2023-02-04 09:51:33	EnterGame(HoµngKimKûNiÖm) OK: Move from Node[0] to Node[1]
+2023-02-04 10:01:32	GetRoleInfo(ThóyYªn) OK: Enter Node[0](127.0.0.1 : 38581)
+2023-02-04 10:01:32	GetRoleData(ThóyYªn) OK: datalen(3429)
+2023-02-04 10:01:32	EnterGame(ThóyYªn) OK: Move from Node[0] to Node[1]
+2023-02-04 10:03:26	SaveRoleData(ThóyYªn) OK: datalen(3693)
+2023-02-04 10:23:00	QuitSave[ThóyYªn] OK: Leave Node[1]
+2023-02-04 10:23:00	SaveRoleData(ThóyYªn) OK: datalen(5013)
+2023-02-04 10:24:55	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(4220)
+2023-02-04 10:37:50	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(6488)
+2023-02-04 10:39:28	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(6596)
+2023-02-04 10:49:16	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(5624)
+2023-02-04 11:04:56	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(5084)
+2023-02-04 11:06:22	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(5300)
+2023-02-04 11:08:05	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(6704)
+2023-02-04 11:15:48	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(6496)
+2023-02-04 11:17:31	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(7792)
+2023-02-04 11:20:38	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(7468)
+2023-02-04 11:22:56	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(6504)
+2023-02-04 11:25:32	SaveRoleData(HoµngKimKûNiÖm) OK: datalen(4884)
+2023-02-04 11:29:31	GetRoleInfo(ThienVuongBang) OK: Enter Node[0](127.0.0.1 : 38581)
+2023-02-04 11:29:31	GetRoleData(ThienVuongBang) OK: datalen(6808)
+2023-02-04 11:30:25	Node[1] disconnect: Ip(127.0.0.1 : 38723), Identity(1)
+2023-02-04 11:30:25	Clear role in Node[1]: HoµngKimKûNiÖm
+2023-02-04 11:30:25	ClientConnectClose:[1]
+
+2023-02-04 11:30:28	Node[0] disconnect: Ip(127.0.0.1 : 38581), Identity(0)
+2023-02-04 11:30:28	Clear role in Node[0]: ThienVuongBang
+2023-02-04 11:30:28	ClientConnectClose:[0]
+

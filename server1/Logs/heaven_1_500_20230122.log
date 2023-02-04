@@ -1,0 +1,7 @@
+2023-01-22 09:34:35	heaven(version 2.02) log start....
+2023-01-22 09:37:37	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-01-22 09:38:24	Callback Connectionidx:0, CloseReason:3, IP:192.168.1.1, LeftFreeCount: 500
+2023-01-22 09:38:29	Allocate Connectionidx:1, IP:192.168.1.1, LeftFreeCount:499
+2023-01-22 18:58:10	heaven(version 2.02) log start....
+2023-01-22 19:00:28	Allocate Connectionidx:0, IP:192.168.1.1, LeftFreeCount:499
+2023-01-22 20:04:19	Callback Connectionidx:0, CloseReason:2, IP:192.168.1.1, LeftFreeCount: 500

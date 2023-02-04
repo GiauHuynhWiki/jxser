@@ -1,0 +1,5 @@
+  c             	[2023-02-03 22:04:46]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VoDang	[C]	100	[COUNT]	1	[BUY]	[6-1-1670-1]TÝn vËt m«n ph¸i	[PLACE]	139
+  c             	[2023-02-03 22:05:00]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VoDang	[C]	100	[COUNT]	1	[BUY]	[6-1-1671-1]TÝn vËt D­¬ng Anh	[PLACE]	139
+  c             	[2023-02-03 22:27:02]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VòHånPh¸i	[C]	100	[COUNT]	1	[BUY]	[6-1-1670-1]TÝn vËt m«n ph¸i	[PLACE]	139
+  c             	[2023-02-03 22:27:03]	[SUCCESS]	[ACC]	pgaming	[ROLE]	VòHånPh¸i	[C]	100	[COUNT]	1	[BUY]	[6-1-1671-1]TÝn vËt D­¬ng Anh	[PLACE]	139
+  c             	[2023-02-03 22:43:30]	[SUCCESS]	[ACC]	pgaming	[ROLE]	ThóyYªn	[C]	5	[COUNT]	1	[BUY]	[6-1-1181-1]Tiªn Th¶o Lé ®Æc biÖt	[PLACE]	139

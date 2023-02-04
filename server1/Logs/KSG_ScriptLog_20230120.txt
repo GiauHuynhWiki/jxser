@@ -1,0 +1,181 @@
+2023-01-20 19:14:48	[1970-01-01 07:00:00] Register [ThÝ LuyÖn §­êng] dungeon, templet mapid is [925].
+2023-01-20 19:15:11	[UseItemSucc]	1970-01-01 07:00	Account:ScriptAutoTest	Name:testname	ItemName:testItem.
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:15:48	120120-19:15: B¾t ®Çu treo m¸y!
+2023-01-20 19:29:09	pgaming	ThuyYen	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,-1053934261,0,6,1,1266,1,4,0,0,0,0,0,0,0,0)	1		99
+2023-01-20 19:29:09	pgaming	ThuyYen	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,-1589201828,0,6,1,438,1,2,0,0,0,0,0,0,0,0)	1		99
+2023-01-20 19:29:11	clean ThuyYen(Level:1) Tong Contribution old value is 0 new value is 0
+2023-01-20 19:30:13	BaiRenLeiTai	CallNPC_GuShou:960,56640,97568
+2023-01-20 19:45:25	19:45,1509,95,4,162,1668,2981,§éc C« Thiªn Phong
+2023-01-20 19:48:00	pgaming	ThuyYen	Håi thiªn t¸i t¹o lÔ bao	60	0	award	Håi Thiªn T¸i T¹o §¬n	AddItemEx(4,-1165450835,0,1,8,0,4,0,0,0,0,0,0,0,0,0)	11		154
+2023-01-20 20:00:13	BaiRenLeiTai	CallNPC_GuShou:960,56512,98624
+2023-01-20 20:00:25	[Thiªn Tr× MËt C¶nh][4tÇng]	2023-01-20 20:00			Boss Hoµng Nhan Qu¶ng D­¬ng ë tÇng 4 Thiªn Tr× MËt C¶nh xuÊt hiÖn.
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:LiÔu Thanh Thanh,25,123392,169472
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:DiÖu Nh­ ,13,72960,154624
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:Tr­¬ng T«ng ChÝnh,81,59392,97792
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:T©y V­¬ng Tµ §éc,183,46848,85504
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:Do·n Thanh V©n,154,17664,41984
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:H¾c Y S¸t Thñ,115,49920,104960
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:Ng¹o Thiªn T­íng Qu©n,59,60672,98304
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:ThËp Ph­¬ng C©u DiÖt,45,50944,98304
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:Thanh Y Tö,131,44288,106496
+2023-01-20 20:00:25	[CALLBOSS FIXURE]	2023-01-20 20:00:25	BOSS tiÓu Hoµng Kim:TÞnh Th«ng,103,46080,112640
+2023-01-20 20:04:54	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-20 20:04	Account:pgaming	Name:ThuyYen	npcname(ä½ÐÜ) drop 1 item Bao l× x×.
+2023-01-20 20:05:42	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-20 20:05	Account:pgaming	Name:ThuyYen	npcname(»ðºü) drop 1 item Bao l× x×.
+2023-01-20 20:10:25	20:10,1873,95,4,80,1632,2871,Tr­¬ng Tuyªn
+2023-01-20 20:15:09	[Ho¹t ®éng chØ r¬i 1 vËt phÈm]	2023-01-20 20:15	Account:pgaming	Name:ThuyYen	npcname(Ìú×¦) drop 1 item Bao l× x×.
+2023-01-20 20:15:13	[stat_error]createstatitem fail: stat_goodssale ItemName: [6-1-1181-1]Tiªn Th¶o Lé ®Æc bi
+2023-01-20 20:15:25	20:15,1874,95,1,78,1353,3137,Kim ThÝ L­îng
+2023-01-20 20:19:47	pgaming	VoDang	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,-1865197382,0,6,1,1266,1,0,0,0,0,0,0,0,0,0)	1		53
+2023-01-20 20:19:47	pgaming	VoDang	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,1354706023,0,6,1,438,1,0,0,0,0,0,0,0,0,0)	1		53
+2023-01-20 20:19:49	clean VoDang(Level:1) Tong Contribution old value is 0 new value is 0
+2023-01-20 20:20:25	20:20,1875,95,1,959,1503,3098,Mé Dung Toµn
+2023-01-20 20:20:56	[DoTransLife]	2023-01-20 20:20:56	Name:VoDang	Account:pgaming	DoTransLife,LEVEL:180,SetLevel:180,FACTION:-1,TRANSCOUNT:0,RESIST:0,AddMagicPoint:12,AddProp:41,AddResist:3
+2023-01-20 20:20:56	KickOutSelf Account:pgaming  RoleName VoDang
+Fri Jan 20 20:20:56 2023
+ Acc:pgaming Role:VoDang Level:180 RenascenceCount:1, Translife done!
+2023-01-20 20:24:13	pgaming	VooDang2	T©n Thñ	1	0	award	<color=yellow>ThÇn Hµnh Phï	AddItemEx(4,1354706023,0,6,1,1266,1,0,0,0,0,0,0,0,0,0)	1		53
+2023-01-20 20:24:13	pgaming	VooDang2	T©n Thñ	1	0	award	<color=yellow>Thæ §Þa Phï	AddItemEx(4,-549722264,0,6,1,438,1,2,0,0,0,0,0,0,0,0)	1		53
+2023-01-20 20:24:15	clean VooDang2(Level:1) Tong Contribution old value is 0 new value is 0
+2023-01-20 20:24:41	KickOutSelf Account:pgaming  RoleName VooDang2
+2023-01-20 20:27:58	[DoTransLife]	2023-01-20 20:27:58	Name:VooDang2	Account:pgaming	DoTransLife,LEVEL:180,SetLevel:180,FACTION:8,TRANSCOUNT:0,RESIST:0,AddMagicPoint:12,AddProp:41,AddResist:3
+2023-01-20 20:27:58	KickOutSelf Account:pgaming  RoleName VooDang2
+Fri Jan 20 20:27:58 2023
+ Acc:pgaming Role:VooDang2 Level:180 RenascenceCount:1, Translife done!
+2023-01-20 20:30:13	BaiRenLeiTai	CallNPC_GuShou:960,55392,98752
+2023-01-20 20:31:05	20230120 203105	Sö dông Cµn Kh«n Song TuyÖt Béi	pgaming	VooDang2
+2023-01-20 20:31:13	pgaming	VooDang2	Håi thiªn t¸i t¹o lÔ bao	90	1	award	Håi Thiªn T¸i T¹o §¬n	AddItemEx(4,593997479,0,1,8,0,4,0,0,0,0,0,0,0,0,0)	10		53
+2023-01-20 20:38:00	  2023-01-20 20:38:00	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:38:00	  2023-01-20 20:38:00	{4,2414412271,1,0,120,0,10,2,0,0,0,0,0,0,0}:CËp Phong Ch©n Vò KiÕm,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:38:13	  2023-01-20 20:38:13	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:38:13	  2023-01-20 20:38:13	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:38:41	  2023-01-20 20:38:41	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:38:41	  2023-01-20 20:38:41	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:38:57	  2023-01-20 20:38:57	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:38:57	  2023-01-20 20:38:57	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:39:22	  2023-01-20 20:39:22	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:39:22	  2023-01-20 20:39:22	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:41:45	  2023-01-20 20:41:45	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:41:45	  2023-01-20 20:41:45	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:42:16	  2023-01-20 20:42:16	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:42:16	  2023-01-20 20:42:16	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:42:29	  2023-01-20 20:42:29	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:42:29	  2023-01-20 20:42:29	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:42:29	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:42:29	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:42:29	  2023-01-20 20:42:29	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:42:29	  2023-01-20 20:42:29	{4,4022314945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674221599,PLA_LVL:nil
+2023-01-20 20:42:47	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:42:47	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:42:47	  2023-01-20 20:42:47	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:42:47	  2023-01-20 20:42:47	{4,1656320355,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222167,PLA_LVL:nil
+2023-01-20 20:43:27	  2023-01-20 20:43:27	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:43:27	  2023-01-20 20:43:27	{4,1656320355,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222167,PLA_LVL:nil
+2023-01-20 20:43:38	  2023-01-20 20:43:38	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:43:38	  2023-01-20 20:43:38	{4,1656320355,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222167,PLA_LVL:nil
+2023-01-20 20:43:38	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:43:38	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:43:38	  2023-01-20 20:43:38	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:43:38	  2023-01-20 20:43:38	{4,1656320355,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222167,PLA_LVL:nil
+2023-01-20 20:43:51	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:43:51	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:43:51	  2023-01-20 20:43:51	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:43:51	  2023-01-20 20:43:51	{4,2547761175,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222231,PLA_LVL:nil
+2023-01-20 20:44:11	  2023-01-20 20:44:11	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:44:11	  2023-01-20 20:44:11	{4,2547761175,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222231,PLA_LVL:nil
+2023-01-20 20:44:11	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:44:11	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:44:11	  2023-01-20 20:44:11	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:44:11	  2023-01-20 20:44:11	{4,2547761175,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222231,PLA_LVL:nil
+2023-01-20 20:44:28	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:44:28	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:44:28	  2023-01-20 20:44:28	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:44:28	  2023-01-20 20:44:28	{4,243197120,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222268,PLA_LVL:nil
+2023-01-20 20:44:45	  2023-01-20 20:44:45	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:44:45	  2023-01-20 20:44:45	{4,243197120,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222268,PLA_LVL:nil
+2023-01-20 20:44:45	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:44:45	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:44:45	  2023-01-20 20:44:45	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:44:45	  2023-01-20 20:44:45	{4,243197120,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222268,PLA_LVL:nil
+2023-01-20 20:44:57	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:44:57	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:44:57	  2023-01-20 20:44:57	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:44:57	  2023-01-20 20:44:57	{4,584043134,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222297,PLA_LVL:nil
+2023-01-20 20:45:14	  2023-01-20 20:45:14	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:45:14	  2023-01-20 20:45:14	{4,584043134,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222297,PLA_LVL:nil
+2023-01-20 20:45:14	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:45:14	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:45:14	  2023-01-20 20:45:14	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:45:14	  2023-01-20 20:45:14	{4,584043134,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222297,PLA_LVL:nil
+2023-01-20 20:45:27	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:45:27	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:45:27	  2023-01-20 20:45:27	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:45:27	  2023-01-20 20:45:27	{4,1519370945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222327,PLA_LVL:nil
+2023-01-20 20:46:14	  2023-01-20 20:46:14	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:46:14	  2023-01-20 20:46:14	{4,1519370945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222327,PLA_LVL:nil
+2023-01-20 20:46:14	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:46:14	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:46:14	  2023-01-20 20:46:14	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:46:14	  2023-01-20 20:46:14	{4,1519370945,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222327,PLA_LVL:nil
+2023-01-20 20:46:28	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:46:28	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:46:28	  2023-01-20 20:46:28	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:46:28	  2023-01-20 20:46:28	{4,1561208245,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222388,PLA_LVL:nil
+2023-01-20 20:46:43	  2023-01-20 20:46:43	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:46:43	  2023-01-20 20:46:43	{4,1561208245,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222388,PLA_LVL:nil
+2023-01-20 20:46:43	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:46:43	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:46:43	  2023-01-20 20:46:43	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:46:43	  2023-01-20 20:46:43	{4,1561208245,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222388,PLA_LVL:nil
+2023-01-20 20:47:06	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:47:06	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:47:06	  2023-01-20 20:47:06	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:47:06	  2023-01-20 20:47:06	{4,2189028039,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222426,PLA_LVL:nil
+2023-01-20 20:47:20	  2023-01-20 20:47:20	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:47:20	  2023-01-20 20:47:20	{4,2189028039,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222426,PLA_LVL:nil
+2023-01-20 20:47:20	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:47:20	pgaming	VooDang2	L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](4#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:47:20	  2023-01-20 20:47:20	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:47:20	  2023-01-20 20:47:20	{4,2189028039,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222426,PLA_LVL:nil
+2023-01-20 20:47:35	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:47:35	pgaming	VooDang2	Hîp thµnh <color=yellow>L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi<color> thµnh c«ng!
+2023-01-20 20:47:35	  2023-01-20 20:47:35	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:47:35	  2023-01-20 20:47:35	{4,1647831847,1,0,118,1,10,2,0,0,0,0,0,0,0}:L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi,GET_TIME:1674222455,PLA_LVL:nil
+2023-01-20 20:48:26	  2023-01-20 20:48:26	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:48:26	  2023-01-20 20:48:26	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:48:36	  2023-01-20 20:48:36	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:48:36	  2023-01-20 20:48:36	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:48:46	  2023-01-20 20:48:46	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:48:46	  2023-01-20 20:48:46	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:48:56	  2023-01-20 20:48:56	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:48:56	  2023-01-20 20:48:56	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:49:12	  2023-01-20 20:49:12	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:49:12	  2023-01-20 20:49:12	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:49:22	  2023-01-20 20:49:22	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:49:22	  2023-01-20 20:49:22	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:49:31	  2023-01-20 20:49:31	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:49:31	  2023-01-20 20:49:31	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:49:31	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:49:31	pgaming	VooDang2	CËp Phong Tam Thanh Phï 	 tiªu hao: Kim Tª (1)	ThÇn bÝ kho¸ng th¹ch[6,1,398](3#)	 ph©n thµnh 6 m¶nh:
+2023-01-20 20:49:31	  2023-01-20 20:49:31	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:49:31	  2023-01-20 20:49:31	{4,383125400,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:49:45	[Hîp thµnh m¶nh trang bÞ Hoµng Kim] 2023-01-20 20:49:45	pgaming	VooDang2	Hîp thµnh <color=yellow>CËp Phong Tam Thanh Phï <color> thµnh c«ng!
+2023-01-20 20:49:45	  2023-01-20 20:49:45	[M¶nh Hoµng Kim hîp thµnh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:49:45	  2023-01-20 20:49:45	{4,3907276848,1,0,121,1,10,0,0,0,0,0,0,0,0}:CËp Phong Tam Thanh Phï ,GET_TIME:1674222585,PLA_LVL:nil
+2023-01-20 20:50:25	Khu vùc S¬ cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:868.Thêi gian:20:50
+2023-01-20 20:50:25	Battle Start :1rule58Issue1
+2023-01-20 20:50:25	Battle Start :1rule16Issue1
+2023-01-20 20:50:25	Khu vùc Cao cÊp Tèng Kim ®¹i chiÕn ph­¬ng thøc VËn l­¬ng b¾t ®Çu cho b¸o danh. ID B¶n ®å lµ:870.Thêi gian:20:50
+2023-01-20 20:50:25	Battle Start :1rule58Issue1
+2023-01-20 20:50:45	  2023-01-20 20:50:45	[Nguyªn liÖu chÝnh ph©n m¶nh Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:50:45	  2023-01-20 20:50:45	{4,2414412271,1,0,120,0,10,2,0,0,0,0,0,0,0}:CËp Phong Ch©n Vò KiÕm,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:50:45	[Ph©n m¶nh Hoµng Kim] 2023-01-20 20:50:45	pgaming	VooDang2	CËp Phong Ch©n Vò KiÕm	 tiªu hao: Kim Tª (2)	ThÇn bÝ kho¸ng th¹ch[6,1,398](1#)	 ph©n thµnh 7 m¶nh:
+2023-01-20 20:50:45	  2023-01-20 20:50:45	[Ph©n m¶nh trang bÞ Hoµng Kim]	NAME:VooDang2	ACCOUNT:pgaming
+2023-01-20 20:50:45	  2023-01-20 20:50:45	{4,2414412271,1,0,120,0,10,2,0,0,0,0,0,0,0}:CËp Phong Ch©n Vò KiÕm,GET_TIME:1674221619,PLA_LVL:nil
+2023-01-20 20:51:58	2023-01-20 20:51:58 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Nham
+2023-01-20 20:52:21	2023-01-20 20:52:21 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-20 20:52:27	pgaming	VooDang2	Håi thiªn t¸i t¹o lÔ bao	99	1	award	Håi Thiªn T¸i T¹o §¬n	AddItemEx(4,-1055904421,0,1,8,0,4,0,0,0,0,0,0,0,0,0)	22		100
+2023-01-20 20:52:38	2023-01-20 20:52:38 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-20 20:52:43	2023-01-20 20:52:43 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-20 20:52:43	2023-01-20 20:52:43 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-20 20:52:43	2023-01-20 20:52:43 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: DiÖu Nh­ 
+2023-01-20 20:52:44	2023-01-20 20:52:44 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-20 20:55:20	2023-01-20 20:55:20 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-20 20:55:21	2023-01-20 20:55:21 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-20 20:55:21	2023-01-20 20:55:21 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-20 20:55:22	2023-01-20 20:55:22 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: LiÔu Thanh Thanh
+2023-01-20 20:55:22	2023-01-20 20:55:22 pgaming, [VooDang2] Dïng lÖnh bµi gäi Boss ®Ó gäi Boss Hoµng Kim: Tr­¬ng T«ng ChÝnh
+2023-01-20 20:56:16	pgaming	VooDang2	Håi thiªn t¸i t¹o lÔ bao	99	1	award	Håi Thiªn T¸i T¹o §¬n	AddItemEx(4,245816693,0,1,8,0,4,0,0,0,0,0,0,0,0,0)	22		100
+2023-01-20 20:57:07	pgaming	VooDang2	Håi thiªn t¸i t¹o lÔ bao	99	1	award	Håi Thiªn T¸i T¹o §¬n	AddItemEx(4,953315223,0,1,8,0,4,0,0,0,0,0,0,0,0,0)	6		100
+2023-01-20 20:57:09	pgaming	VooDang2	Håi thiªn t¸i t¹o lÔ bao	99	1	award	Håi Thiªn T¸i T¹o §¬n	AddItemEx(4,-1155564642,0,1,8,0,4,0,0,0,0,0,0,0,0,0)	22		100
